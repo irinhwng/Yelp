@@ -1,0 +1,389 @@
+,address,category1,category2,category3,city,id,latitude,longitude,name,phone,price,rating,zip_code
+7,Bear Mtn,landmarks,,,Highland Falls,QMSEU4SmIPL4RdKiLE8e4g,41.319766998291,-73.9827575683594,Bear Mountain Bridge,+18454464721,,4.5,10928
+9,690 Rt 9W,hiking,landmarks,,Fort Montgomery,uJ6G5pZ8y7D517EbdR6xjA,41.3252361,-73.9880486,Fort Montgomery,+18454462134,,4.0,10922
+10,Perkins Memorial Dr,parks,,,Bear Mountain,vMJ3u8lJvxaz10K3t2x18A,41.3114930218844,-74.0068163423309,Perkins Memorial Tower,+18457862701,,4.5,10980
+11,817 Rte 9W,tradamerican,,,Fort Montgomery,abkO5NqkcRf0WGGqfh7JgQ,41.3319895127505,-73.9868152045472,Richie's Little Place,+18454467918,$$,3.5,10922
+12,690 Rte 9 W,hiking,,,Fort Montgomery,8RXV3_Vk7qAFOvqOWOvwlg,41.3309323,-73.9872505,Popolopen Torne,+18454462134,,5.0,10922
+13,98 Hessian Dr,cocktailbars,tradamerican,tapasmallplates,Highland Falls,eTcYROy7_wrfzr8KKXCAAg,41.3205070938565,-73.9972924636683,Restaurant 1915 and Blue Roof Tapas Bar,+18457862731,$$,2.5,10928
+14,1005 Rt 9W,coffee,delis,breakfast_brunch,Fort Montgomery,TuGEy4WZo_xikwZASDwy0A,41.3361661700847,-73.9832381224259,Cafe at Rockwell Cycles,+18454463834,,5.0,10922
+15,1048 Route 9W,donuts,bagels,,Highland Falls,nYXwNfzZUxidRTB4wASMLQ,41.3371772879724,-73.9805913715204,Bagel Cafe,+18454464638,$,3.0,10928
+16,323 Main St,sushi,korean,delis,Highland Falls,16HVAYk06naOQ0ScsJeNgg,41.3710217,-73.9647902,Sushi King Plus,+18454461458,$$,4.0,10928
+17,28 Bear Mountain Bridge Rd,venues,newamerican,,Cortlandt Manor,yoAW9r-O2RyHqU-nltr16Q,41.29954,-73.95259,Monteverde at Old Stone,+19147376555,$$$$,3.5,10567
+18,293 Main St,pubs,tradamerican,,Highland Falls,G65G6CFst_xBWvwUz9gJ2w,41.37051,-73.9656,Benny Havens Pub & Restaurant,+18454463290,$,4.0,10928
+19,888 Route 9W,delis,,,Highland Falls,VIpSLZkTxFToiUlm5Pl6ew,41.33364,-73.98517,Foxes'country Deli,+18454462704,,5.0,10928
+20,282 Main St,pizza,,,Highland Falls,uWnVvgXhopXEPdEcI2vXrQ,41.37009,-73.96526,West Point Pizza & Restaurant,+18454465544,$$,3.0,10928
+21,Seven Lakes Dr,amusementparks,,,Bear Mountain,mj3qhV-f3p_DgWSdIrW2Sg,41.3107497708856,-73.9897954908936,Bear Mountain Merry-Go-Round,+18457862701,,4.5,10911
+22,Bear Mountain Inn,icecream,,,Harriman,M0ZOJaLEopEKQQ2_TM6kzg,41.315337,-73.989,Hiker's Cafe,,$,4.0,
+24,233 Main St,pizza,,,Highland Fls,JctcGtncNYpRXv0n_IeYRw,41.36877,-73.96623,Brothers Pizza Restaurant,+18454464988,$,3.0,10928
+25,184 Main St,donuts,coffee,,Highland Falls,jaiExIS6sUfJIYDUYmVFHQ,41.3654094,-73.9659359,Dunkin' Donuts,+18454465510,$,3.0,10928
+26,265 Main St,pizza,italian,,Highland Falls,pFfFzjGMHNTzPjqSbSbAYA,41.369746252948,-73.9659519490738,Amore Pizzeria,+18454467542,,3.0,10928
+27,307 Main St,bakeries,cupcakes,customcakes,Highland Falls,gm_flO2f7HL4MagHZ4aMcQ,41.3707754,-73.9651371,Bear Mountain Bakery & Cafe,+18459778020,,3.0,10928
+28,,seafood,foodtrucks,,New York,Dju1iZXRAqQYXQIXXzyiAA,40.73124,-73.9888,Luke's Lobster Mobile Lobster Roll Food Truck,,$$,4.0,10003
+29,1891 Post Rd,foodtrucks,seafood,,Fairfield,uAsX05YvKYKX7XMqdYFNZQ,41.140451,-73.264689,LobsterCraft,+12032925350,$$,4.5,06824
+30,98 Roa Hook Rd,donuts,coffee,,Cortlandt Manor,l1CUqT4nZbqiQh2NFazI_w,41.2987227887504,-73.9355951379948,Dunkin Donuts,+19147344171,$,4.0,10567
+31,522 W 37th St,aquariumservices,localfishstores,aquariums,New York,9OcVoD9Y_QcFM48TJmztgQ,40.7568533008366,-73.999149017036,Manhattan Aquariums,+12125942272,,4.0,10018
+32,154 Main St,chinese,,,Highland Falls,eRB9rRTh3sia_DGL6DdDqg,41.36338,-73.9667,Kings Garden Chinese Restaurant,+18454462922,$$,1.5,10928
+33,8 Schneider Ave,bars,,,Highland Falls,YoJsu6uJlDay5-6lwHY35w,41.3710518,-73.9655609,Loma's Sidestreet Saloon,+18454465662,,3.0,10928
+34,5819 Maspeth Ave,icecream,foodtrucks,juicebars,Maspeth,sdknKTEs5dCHB16dFnsKlQ,40.7231773,-73.9113459,Andy's Italian Ices NYC,+15169727959,$,4.0,11378
+35,,foodtrucks,coffee,,Greenwich,KK5l-C1HDubv3a80yYkVuA,41.0280418395996,-73.6262435913086,Caffe Bon,+12035360524,$,5.0,06830
+36,403 Washington Ave,streetvendors,caribbean,foodtrucks,Kingston,8C104dEL0lWk9UOAsmQ6qw,41.93539,-74.02547,Winnie's Jerk Chicken & Fish,+19148503126,,4.5,12401
+37,,foodtrucks,comfortfood,,Upper Darby,nCZR84HJcR1MTjDrJfHkcg,39.9603691101074,-75.2629623413086,The Munchy Machine,+14844311614,,4.0,19082
+45,366 Route 202,seafood,italian,bars,Pomona,vsi8rrSNQtnNjMIdQLfFXw,41.18683628291,-74.036098916528,Gilligan's Clam Bar & Grill,+18453541161,$$,3.5,10970
+59,14 Thiells Mount Ivy Rd,bakeries,delis,catering,Pomona,WxbD33--RLqOXwhLsRNhtg,41.1893,-74.03715,"Mountain View Deli, Bakery & Catering",+18453544253,$$,4.0,10970
+66,55 W Railroad Ave,newamerican,bars,,Garnerville,Js3eJhmAeQhOxsOhicQFFw,41.20773,-73.99038,Hudson’s Mill,+18454295700,,4.0,10923
+71,357 Rte 202,bars,comfortfood,,Pomona,Y-FNB8-T8Kud1Qeq_2LvgQ,41.186422,-74.035145,The Copper Still,+18452906455,$$,3.5,10970
+72,17 Rte 9w,icecream,,,West Haverstraw,h3LnJ8FvKdPPGjwHyw9ILA,41.210922,-73.98596,Hoyer's Ice Cream,+18459473652,$$,3.0,10923
+74,30 W Ramapo Rd,pubs,burgers,,Thiells,VsXZKaOZvVN10ssdsSWA6Q,41.2002159165601,-74.005705867023,Blarney Stone Publik House,+18459420179,$$,4.0,10923
+76,120 W Ramapo Rd,pizza,,,Garnerville,UqUK0IW9Da8H9qhMPZgoeg,41.193925,-74.015165,Mr Crispy's Brick Oven Pizza,+18453622359,$$,3.0,10923
+78,1581 Rte 202,chinese,,,Pomona,9dzXPIXLAaokJK2lqy5NBQ,41.182136,-74.047142,Pomona Oriental,+18453628888,$,4.5,10970
+79,340 Rte 202,chinese,venues,,Pomona,KiDI6MSo6k96B22WmHmiXw,41.18707,-74.0343199,Ocean Empire Restaurant,+18453548218,$$,3.5,10970
+81,112 Rt 202,bagels,coffee,breakfast_brunch,Pomona,0Z8xnjSZx3Lpzynmdoll8Q,41.1846423268269,-74.0425099586609,David's Bagels,+18453620910,$,3.5,10970
+82,1 Main St,pizza,italian,,Garneville,iGUbTzn_F_RiD1wJpB2KqQ,41.2072372436523,-73.9977340698242,Original Italian Pizza & Restaurant,+18454294862,$,3.0,10923
+83,32 S Liberty Dr,tradamerican,,,Stony Point,Cfs0U6IRGN97ii-c27veFA,41.22534,-73.98533,Halligans Public House,+18454294405,$$,4.0,10980
+84,1581 Rte 202,pizza,italian,,Pomona,KcAXyyJIzZNykQNJimGd8Q,41.1828202,-74.0469314,Avanti Restaurant,+18453627278,$$,4.0,10970
+86,170 S Liberty Dr,newamerican,pizza,juicebars,Stony Point,bNqG45a_6WG3Yq8z8WwZyw,41.21641,-73.98632,Rock’s Kitchen,+18455588888,,4.5,10980
+87,85 Ramapo Rd,delis,sandwiches,,Garnerville,1NNpgLFfgvDXtTYhGf9j9A,41.20111,-73.99597,Quick Shop Deli,+18459477073,$$,4.5,10923
+90,153 W Main St,newamerican,italian,seafood,Goshen,J2rpfsOv_H_gE9G2hFtZ1Q,41.40144,-74.32691,Catherine's Restaurant,+18452948707,$$,4.5,10924
+91,280 Rte 211 E,gluten_free,tradamerican,comfortfood,Middletown,gqQGEDFDJll7Pm8uEdAjsA,41.45369,-74.39943,MIX N MAC - MAC & Cheese,+18453815536,$,4.5,10940
+95,130 Dolson Ave,indpak,buffets,soup,Middletown,b90xhmIanBKNSvUs3nokfA,41.4293670654297,-74.4268646240234,Saffron,+18453440005,$$,4.0,10940
+96,400 Rt 211E,japanese,sushi,steak,Middletown,PDiGgx9ygwLwjODTp5kI3Q,41.453846,-74.386135,Mr Sushi & Grill,+18453446268,$$,4.0,10940
+97,28 St James Pl,icecream,hotdog,,Goshen,XGkrvCg3kRDWcPo1rdQq9Q,41.40037,-74.32279,Trailside Treats Creamery,+18453605923,$,4.5,10924
+98,190 W Main St,mexican,,,Goshen,yKiFrZkk2kpTPGg0y0PKKg,41.40166,-74.32764,Super Nacho,+18456151120,$,4.5,10924
+100,351 E Main St,bagels,breakfast_brunch,,Middletown,A8AGAphu6SA7jk_iMUipfw,41.4456482,-74.3997726,The Bagel Shop and Deli,+18453411133,$,4.5,10940
+101,100 Greenwich Ave,pizza,italian,,Goshen,z6YAilgX1z9YRRaI9hCXXQ,41.40121,-74.3256,Village Pizzeria,+18452947923,$,4.5,10924
+102,3 New St,mexican,,,Goshen,w4QivZVYbOQN78V-w2yMhg,41.4007933437824,-74.32616494596,El Rancho,+18456159682,$$,4.5,10924
+103,29 Soons Cir,cideries,speakeasies,,New Hampton,sgyuD3TXc-ddznhfIujzsQ,41.402785,-74.403652,Orchard Hill Cider Mill,+18453742468,$$,5.0,10958
+104,117 S Main St,mexican,,,Florida,AkA37oXWtLDfTBsa9RHXhw,41.324582,-74.353896,El Azteca Mexican Restaurant,+18456514321,$$,4.0,10921
+105,10 S Main St,bakeries,delis,polish,Florida,JUqs2Ra5l8ONBlpGMqcdkw,41.3321939,-74.3568977,Florida Bakery & Deli,+18455086017,$,4.5,10921
+106,1753 NY-17M,spanish,tapas,,Goshen,STkFsGiiDt0KDukeBoTp0w,41.3782942205654,-74.2956162433495,El Meson De Barajas,+18452911400,$$,4.5,10924
+107,767 Pulaski Hwy,delis,meats,,Goshen,oeqrTwfqE0TldbdG563TOA,41.3274383544922,-74.4164123535156,Quaker Creek Store,+18452584570,$,4.5,10924
+108,47 West Main St,tapasmallplates,wine_bars,beerbar,Goshen,3AzVZmmeBgA12UR55JAR5A,41.4019304,-74.3256378,Craft 47,+18453605253,$$,3.5,10924
+110,550 County Rte 50,grocery,beer_and_wine,sandwiches,New Hampton,sjhJf76KRcI9BWa9KB4cew,41.412512,-74.395407,Mason's Marketplace,+18453742590,$$,4.0,10958
+111,99 W Main St,japanese,chinese,,Goshen,w8QqMNucD-ueB_ERV0tJIw,41.4018245,-74.326043,kiki restaurant,+18452911000,$$,4.5,10924
+113,1700 Rt 17M,mexican,,,Goshen,3KLuxq2ohJx8pNjR9gp4-g,41.37542,-74.29182,Hacienda,+18452949795,$$,3.5,10924
+114,9 Winkler Pl,vegan,,,Chester,NwOrfHRhC7gbBFGIKuH2Dg,41.362771,-74.270586,Thank Goodness It's Vegan,+18455453287,,5.0,10918
+115,118 Clowes Ave,diners,,,Goshen,nxoRjz9B_GeoCv_1tm_DCQ,41.39727,-74.33234,Goshen Plaza Diner,+18452947800,$$,3.5,10924
+116,159 Main St,italian,tradamerican,wine_bars,Goshen,ai4Uou2Ydp5-g1UD8HLUxg,41.403346,-74.320806,Limoncello,+18452941880,$$$,3.5,10924
+117,125 Dolson Ave,bubbletea,coffee,juicebars,Middletown,gwY6anQtnc5PbZKMZuu0pQ,41.4272907953458,-74.426985435139,Kung Fu Tea,+18454674811,$$,4.5,10940
+118,162 N Main St,bars,tradamerican,,Florida,y4banF_vOy9SortSI7csQg,41.3378666,-74.3587593,Copper Bottom,+18455086563,$$,4.0,10921
+119,254 Rt 211 E,japanese,thai,sushi,Middletown,368xfrDbBaH_TzR7pn14CA,41.4537,-74.40104,Asian 211 Bistro,+18453431339,$$,4.0,10940
+120,362 Rt 211 E,pizza,burgers,sandwiches,Middletown,F-8d-7C6Xi7PGLLEtGLsJA,41.455657,-74.392946,Colandrea's Pizza King,+18453437275,$,4.5,10940
+121,620 Rt 211 E,pizza,salad,italian,Middletown,oi0lefUA9bHhv9E1w78yYg,41.46355,-74.3686,Cosimo's Brick Oven Ristorante & Bar,+18456923242,$$,4.0,10941
+124,39 Main St,italian,,,Chester,Sa0nQcC8GrwJrI-elg4nEQ,41.3621755459271,-74.2722012475133,Rustic Wheelhouse Restaurant,+18456105266,$$,4.0,10918
+125,1 N Galleria Dr,peruvian,,,Middletown,0fylrH-NN5TCQv7kh_m2MA,41.4517367401038,-74.369290121721,Peru Cuisine Bar & Grill,+18456736036,$$,4.0,10941
+126,2-18 West Main St,cafes,newamerican,,Goshen,eKBNuRxNdUZ4aa1S0p_Img,41.4021667622326,-74.3243720056053,Howell's Cafe,+18456159135,$$,3.5,10924
+127,78 Brookside Ave,salad,spanish,puertorican,Chester,UImBK5OMDceRfolhxltn3Q,41.35938,-74.283771,Dos Latinos,+18456105420,$,4.0,10918
+128,133 N Main St,delis,bagels,,Florida,ul8M9byw-4jcd9Su-J8E0w,41.3382142414182,-74.358098869749,Central Deli & Bagels,+18456512300,$,4.0,10921
+130,109 Brookside Ave,amusementparks,skatingrinks,lasertag,Chester,fIg9KDL2AuJVgTBSbbqpww,41.36132,-74.28573,The Castle Fun Center,+18454692116,,3.5,10918
+131,125 Dolson Ave,bagels,sandwiches,,Middletown,z5uYbpOf70F_NfFxFdziIw,41.4295807542645,-74.422964578453,Downtown Bagels,+18453439604,$,4.5,10940
+132,254 East Main St,halal,indpak,chicken_wings,Middletown,M9HpPIVvxpe3U8tdwLhVYA,41.44562,-74.40843,Middletown Fried Chicken and Grill Halal,+18453423422,$,5.0,10940
+133,15 Main St,pizza,,,Goshen,vZxbT7k0cdo1Z5yQYYSyhg,41.4023387490048,-74.3240791315205,Sorrentos Pizzeria,+18453605871,$$$,4.5,10924
+134,145 N Church St,newamerican,burgers,bars,Goshen,Pzlw-buaBAR9KJqJY84K3A,41.40332,-74.32648,Kelley Jean's Restaurant,+18452941200,$$,3.5,10924
+135,40 Park Pl,newamerican,,,Goshen,qWFS3cZiBYy47qDS4aezEA,41.4014051,-74.3214549,Delancey's,+18452948254,$$,3.5,10924
+136,536 E Main St,mexican,,,Middletown,vNor6uoIqjb_Ipu4jiUYOw,41.4445758,-74.3828022,El Bandido,+18453432958,$$,3.5,10940
+137,741 Rt 211 E,beerbar,cocktailbars,tradamerican,Middletown,0sOZsPhwAeGVtYOAikIE8g,41.4667892456055,-74.356201171875,Scotchtown Craft Bar & Kitchen,+18456927360,$$,4.0,10941
+138,649 Jersey Ave,newamerican,beerbar,cocktailbars,Greenwood Lake,ZsQZRawcA_hf6YJ66l9ytA,41.22133,-74.30311,The Helm,+18454773073,$$,4.0,10925
+140,18 Main St,newamerican,gastropubs,,Warwick,UcGUVMlcMSOjX19QboQ_yQ,41.25637,-74.3597,Eddie's Roadhouse,+18459867623,$$,4.0,10990
+141,91 Windermere Ave,cafes,,,Greenwood Lake,9HWZ4BsvKvA2Z12IUla19w,41.22401,-74.29302,Village Buzz Cafe,+18454772145,$,4.0,10925
+142,104 Windermere Ave,mexican,,,Greenwood Lake,Owe4POjrl3TEKL56044ymg,41.2246513366699,-74.2922524362803,MexicanZingo Restaurant,+18455951737,$$,4.5,10925
+143,620 Jersey Ave,german,tradamerican,seafood,Greenwood Lake,oKUjsGYvJ1QY78ElKGQEqA,41.21845,-74.30413,The Breezy,+18454778100,$$,3.5,10925
+144,10 Oakland Ave,greek,,,Warwick,odvX2rYmaoa8zIVFpuK2Dw,41.255,-74.3602,Opa Greek Grill,+18459868808,$$,4.5,10990
+145,22 Railroad Ave,italian,,,Warwick,_ANNwXRrqTvdPAXMQHmXug,41.2559759,-74.3591969,Grappa Ristorante,+18459877373,$$$,4.0,10990
+147,38 Main St,tradamerican,,,Warwick,0f-PKmxX4hxNyPcvzLjewg,41.2570122,-74.3594122,Wolfies of Warwick,+18455447902,$$,4.5,10990
+148,38 Iron Forge Rd,tradamerican,,,Warwick,zPC8ZM00CRHLkV7a8xru_A,41.2513483364545,-74.309669274531,Iron Forge Inn,+18459863411,$$$,4.0,10990
+149,121 State Rte 94 S,bakeries,coffee,desserts,Warwick,UKfmwzKUqLVA6gxvIWJ_Gg,41.240026,-74.3757,Noble Pies,+18459867436,$$,4.5,10990
+150,31 Forester Ave,latin,puertorican,,Warwick,BoaH3FjWCDRUK2ATSDAGHQ,41.2576726824045,-74.3549014627934,Coquito,+18455442790,$$,3.5,10990
+151,28 Railroad Ave,desserts,breakfast_brunch,salad,Warwick,fiIrl-vBVTgaliJ4bbK8GA,41.256097445565,-74.3589026480913,Fannie's,+18459863447,$$,4.5,10990
+152,93 Windermere Ave,bagels,sandwiches,breakfast_brunch,Greenwood Lake,VomOhIZxcmkhOwLQz5pSuQ,41.2243,-74.292883,Greenwood Lake Bagels,+18455951688,,4.0,10925
+153,160 Windermere Ave,coffeeroasteries,,,Greenwood Lake,RNYZDMQp65uRGR_xOhN4UQ,41.2279692217073,-74.2883149851479,Greenwood Lake Roasters,+18452930530,$,5.0,10925
+154,Sterling Rd,newamerican,pizza,,Greenwood Lake,xmvWnRk5bb8rnkVwkjFhHQ,41.2178148999122,-74.291884303093,Emerald Point Restaurant & Marina,+18454772275,$$,3.0,10925
+155,4 Court Ave,bars,tradamerican,karaoke,Greenwood Lake,GkuhNaaPqbvrSL6nKF9PKg,41.2198587,-74.2923328,Rainbow Inn,+18456595216,,4.5,10925
+156,1-7 Random Rd,pizza,,,Greenwood Lake,tUuxT-0iqslThj7z_pVMhA,41.2294848348884,-74.2884777302141,Vesuvius Brick Oven Pizza,+18455909012,$,4.5,10925
+157,1 Oakland Ave,coffee,cafes,,Warwick,0wzwohcPmU5l26VakhOGFg,41.2557,-74.35966,Caffe A La Mode,+18459861223,$,4.0,10990
+158,48 Main St,bars,tradamerican,,Warwick,um4AUdU34tHPcTAqnKtZNQ,41.2573320418596,-74.3592372536659,Fetch Bar and Grill,+18459878200,$$,3.5,10990
+159,102 Windermere Ave,chinese,,,Greenwood Lake,otym_G-zYXcbBzcj5QhtMQ,41.2244656526698,-74.2922218762737,Sing Loong Kitchen,+18454772542,$,3.5,10925
+160,13 Castle Ct,venues,burgers,tradamerican,Greenwood Lake,mUaW8f3OMFrhLLWAYoY6rQ,41.183158,-74.318255,Cove Castle,+18454775599,$$,3.0,10925
+161,5 1/2 S St,cafes,vegetarian,beergardens,Warwick,TsHHSUMF2-brRBlgGFfCIw,41.2577309783501,-74.358402409555,Tuscan Cafe,+18459872050,$,4.0,10990
+162,1939 Union Valley Rd,salad,bakeries,juicebars,West Milford,8ogmGRAr33EOcb10AWQoBw,41.1540344119767,-74.3527989728088,Shannon's Eyes on the Pies,+19735066511,$$,4.5,07421
+163,12 Railroad Ave,desserts,coffee,bakeries,Warwick,y_97wjDj_LhH74a7gKWNjA,41.2562234,-74.3588457,Corbett's Cookie Bar Kitchen,+18455003737,$,4.0,10990
+164,33 Hathorn Rd,venues,french,modern_european,Warwick,obs5QYmjX4rs9_elF0xAPA,41.243539,-74.372107,Chateau Hathorn Restaurant,+18459866099,$$$,4.0,10990
+165,92 Windermere Ave,delis,pizza,,Greenwood Lake,_5m_Rn_2x3A9VXyhAzn8oA,41.223932,-74.292821,Four Brother's Pizzeria & Deli,+18455951966,$$,3.5,10925
+166,1934 Greenwood Lake Turnpike,icecream,customcakes,cupcakes,Hewitt,Y5xAqgMzLoMhv2aavQpGCw,41.1490903,-74.3469451,Fox Island Creamery,+19735066640,$,4.5,07421
+167,85 Windermere Ave,seafood,tradamerican,pizza,Greenwood Lake,ugT9FCfzQqp_q9Gpd5w77w,41.2237,-74.29326,Murphy's Tavern & Restaurant,+18454778519,$$,3.0,10925
+168,93 Main St,thai,,,Warwick,BZ5OLnIQo8dAmYzSBZQZJg,41.25942,-74.358218,Warwick Thai,+18455447880,$$,3.5,10990
+169,22 West St,irish_pubs,comfortfood,tradamerican,Warwick,dS7FLl3gvEEoMSYoQr3OJw,41.256842,-74.361091,Halligan's Public House,+18459862914,$$,3.5,10990
+170,36 Oakland Ave,seafood,italian,tradamerican,Warwick,3LFL8eOFmMpyc02Y5LqJrQ,41.25159,-74.36105,Warwick Inn,+18459863666,$$,4.0,10990
+171,116 Old Forge Rd,hiking,parks,,Tuxedo Park,Z7vQc00yihJaw0hs9d35-A,41.198655,-74.255454,Sterling Forest State Park,+18453515907,,4.5,10987
+172,93 Main St,mexican,,,Warwick,AolCVGoGkp3-8LRfcFH0FQ,41.25909,-74.35803,Taco Hombre,+18459878226,$,3.5,10990
+173,699 Jersey Ave,cafes,,,Greenwood Lake,tX_SBwW_I_L6S0cTM3v5PQ,41.22399,-74.29726,Karen's Cafe,+18455951895,,5.0,10925
+174,22 Spring St,italian,bars,pizza,Warwick,ObV3Wl-zihCxl_8-OJ2Sxw,41.257612,-74.360756,Fratello,+18459867898,$$,3.0,10990
+175,1614 Union Valley Rd,seafood,steak,sandwiches,West Milford,UpHM3GizcWXZJtmYmfUOSQ,41.1386353,-74.3669328,Ralph Spice,+19735066800,$$,4.0,07480
+176,100 Main St,italian,pizza,,Warwick,XwGSqFI6y7SLvNOxUFo6NQ,41.2588863819838,-74.357847198844,Trattoria Viviano,+18459869611,$$$,3.5,10990
+177,1893 Union Valley Rd,delis,sandwiches,chicken_wings,West Milford,kz9udW1VLziCdgVCYju_Aw,41.1548893,-74.3566619,3 Roads Deli,+19735066455,$$,4.5,07480
+178,125 Windermere Ave,newamerican,,,Greenwood Lake,3JI2w0pMR4DGWONo3mlJUg,41.226312,-74.291575,The Grill,+18455951115,,4.0,10925
+179,14 Railroad Ave,vegan,vegetarian,juicebars,Warwick,CEgKTS6BblW4mrL7VyneHw,41.2562133,-74.3588883,consciousfork,+18459885253,$$,3.5,10990
+180,657 Jersey Ave,pizza,steak,,Greenwood Lake,m8aUjIg-z7u1ZVsvhAk3Wg,41.22191,-74.30216,Doc's Pizza & Steaks,+18454779455,$$,3.5,10925
+182,49 Oakland Ave,southern,smokehouse,bbq,Warwick,wls15RRiq9k_H3E_O7UMLg,41.249374411039,-74.3615751340985,Double S Smokehouse,+18453248522,$$,3.0,10990
+183,526 Route 94 N,newamerican,seafood,,Warwick,xARcn1A10-dN5WBx4sfgyQ,41.27868,-74.35246,Landmark Inn,+18459865444,$$,4.0,10990
+184,29 Main St,newamerican,,,Warwick,5pcEERnV8U38gwt8vofaJg,41.2569278,-74.3599378,Yesterdays,+18459861904,$$,3.0,10990
+185,622 Jersey Ave,hotdog,burgers,sandwiches,Greenwood Lake,Mm3gLsmyUdDo6Xzlhfs0IQ,41.2191212729093,-74.3037795647979,Beach Dog Grille,+18453934234,,4.5,10925
+186,62 Galloway Rd,tradamerican,,,Warwick,HYEVyLEsAmWbz4M1nNfNTQ,41.2505261377413,-74.35292635113,Galloway Grill,+18453248900,,4.0,10990
+187,32 Ronald Reagan Blvd,pizza,coffee,,Warwick,CynY5KnMK7x_rw03Jk2JJw,41.27076,-74.33194,Benitos Pizzeria & Restaurant,+18459866033,$$,4.0,10990
+198,17 N Main St,icecream,coffee,,Harriman,rr3a03eeRDaqhwcTsXTJOw,41.310334,-74.152165,Suzy's Sips and Scoops,,$$,5.0,10926
+199,498 Red Apple Ct,salad,wraps,vegetarian,Woodbury,ZVom2qJVwcMmSJoB3cvlWg,41.317474,-74.12308,Just Salad,+12122441111,$,4.0,10917
+202,498 Red Apple Ct,coffee,breakfast_brunch,bakeries,Central Valley,17t41tTMZ9r-wl_h5denlQ,41.3173449999845,-74.1256801302512,Le Pain Quotidien,+18458271793,$$,3.0,10917
+203,600 Hwy 17A,festivals,amusementparks,,Tuxedo Park,abKqP4pGDAl6PfCjthP2tw,41.2485708965193,-74.2240041890133,New York Renaissance Faire,+18453515171,,4.0,10987
+204,Woodbury Center,pizza,gluten_free,tradamerican,Central Valley,OguvAwitUxthHhCJKBlzGQ,41.3134653121233,-74.1349898278713,Uno Pizzeria & Grill,+18457836560,$$,3.0,10917
+212,320 Larkin Dr,bars,tex-mex,tradamerican,Monroe,M5I5RnLuJRGb9u8lkjpP4Q,41.319207500238,-74.147073747502,Chili's,+18457748217,$$,3.0,10950
+213,400 NY-17M,beerbar,burgers,,Monroe,RISJGkH_c3SfzvBaBmG1xA,41.3170669256227,-74.1693646833301,Hops Craft Beer - Burger,+18457833337,,4.5,10950
+214,400 State Rte 17M,bakeries,customcakes,cupcakes,Monroe,JnIQEpTIeILLbWh5hwIZ2g,41.31705,-74.16935,LaLima's Bakery,+18453959169,$$,4.5,10950
+217,498 Red Apple Ct,chocolate,gelato,,Woodbury,Qw--B4NXFu3CKZsP1IOCkw,41.316944,-74.1259455,Venchi Chocolate,+18459286778,$$,4.0,10917
+218,32 Smith Clove Rd,coffee,bakeries,,Central Valley,Xu4e-h6UiB3LST4Upihtrg,41.3331547123118,-74.1191866666667,Christie's Sweet Creations,+18458276800,,5.0,10917
+219,355 Rt 17M,italian,,,Monroe,ZUXwSgckhFirCAf3otyz5w,41.314586,-74.1667,Tre Angelina,+18452385721,$$,3.5,10950
+220,200 Rt 32 N,pizza,italian,seafood,Central Valley,4mblJ_GJGFlX0oCU3JyHRw,41.327269,-74.121909,Amalfi Pizzeria & Restaurant,+18459281103,$$,3.5,10917
+221,371 NY-17M,donuts,coffee,,Monroe,M0_k4FLxpCmsnLXaHGwL7A,41.315106,-74.167806,Daylight Donuts of Monroe,+18453959827,,4.5,10950
+222,101 Carpenter Pl,mexican,,,Monroe,V-2poK5BwbiH_qLxOz8RVQ,41.326982,-74.185102,La Rancherita,+18457822249,$$,4.0,10950
+223,186 Rt 17M,tradamerican,,,Harriman,tPxGJ4Q3S0w44-68R7Pu3Q,41.313711,-74.159705,Crossroads Cafe,+18457824629,$,3.5,10926
+224,400 State Rt 17M,spanish,,,Monroe,lgy_3_JyQot11s0EFKUeMQ,41.31705,-74.16935,Mina's Spanish Kitchen,+18452385680,$$,3.5,10950
+225,498 Red Apple Ct,sandwiches,salad,comfortfood,Central Valley,kndlDj6me7GrEBR5u-IWhw,41.3177840471804,-74.1255535214156,Melt Shop,+18452171500,$$,3.0,10917
+226,5 Centre Dr,tradamerican,,,Central Valley,W0S-mVzyoXJ4QbVzclB1zw,41.3145953145047,-74.1341865062714,TGI Fridays,+18457827760,$$,2.0,10917
+227,498 Red Apple Ct,coffee,sandwiches,breakfast_brunch,Central Valley,0c_RniDmZZ94uA6gGejE0g,41.3178079557125,-74.1252025281029,Pret A Manger,+18459280651,$,3.5,10917
+228,475 Ste Rt 17M,bagels,salad,sandwiches,Monroe,bzVCArEINpEVA7GOuOxt2w,41.318414,-74.1771,Bagel World - Monroe,+18457836983,$,3.5,10950
+229,215 Larkin Dr,steak,,,Monroe,u4eH5EvNhyiKe8EtXPHIcA,41.320524405827,-74.152969260307,Outback Steakhouse,+18457824992,$$,2.5,10950
+230,475 Route 17M,italian,pizza,bars,Monroe,MgZzeL1O9Od_7CevM5M0ag,41.317756,-74.175973,Villa Positano,+18453950786,$$,3.0,10950
+231,159 Route 32,icecream,,,Central Valley,VMj2D0-eDt0G3lnIlcFW-g,41.324405,-74.123052,DUG Out,,$,4.0,10917
+232,503 State Rte 32,pizza,italian,,Highland Mills,QJy7HlI6nKLOzqT9moZzgA,41.3466307810595,-74.1266084232788,Mario's Restaurant,+18459282805,$$,4.0,10930
+233,498 Red Apple Ct,desserts,foodstands,,Central Valley,eGytdPIAo7EncgQ5mabiPg,41.3173937394706,-74.1256903375814,Waffle de Lys,+19173123373,$,3.5,10917
+234,272 Rt 32,chinese,,,Central Valley,02RV4SbeHMc-9tUIYK8Pdg,41.3315810315967,-74.121111772271,Great Wall Chinese Takeaway,+18459285863,$,3.5,10917
+235,290 Larkin Dr,tradamerican,breakfast_brunch,burgers,Monroe,LjphYLPmAHFdL9jAKsA5vA,41.317808,-74.14434,IHOP,+18453959229,$$,2.5,10950
+236,1 N Main St,delis,,,Monroe,CuVaw3mzO3YlQhBFy_JeKw,41.309763,-74.150695,Harriman Square Deli,+18457834700,,4.5,10950
+237,,hiking,boating,lakes,Sloatsburg,vCsJbOEuip-L66gvvmFcpg,41.234380046223,-74.1113642769356,7 Lakes Drive,,,4.5,10974
+238,22-24 New Main St,latin,,,Haverstraw,W2Lno6BzDdbV9GNZ7r-4fQ,41.19661,-73.9654,UNION Restaurant and Bar Latino,+18454294354,$$$,4.5,10927
+239,10 West St,mexican,,,Haverstraw,29_z06U_2ukXtPMMdnqcmg,41.19613,-73.9644,Tacos Marianita,+18459421295,$$,4.5,10927
+240,167 US Rt 9W,bbq,southern,,Haverstraw,UtZEpHWdXL5qso6rZabXVA,41.197956,-73.9809,Big Daddys Home Plate BBQ,+18452714024,$$,4.5,10927
+241,45 S Rt 9 W,burgers,icecream,hotdog,West Haverstraw,tus1XL08vclGqH3LkhgY6w,41.205453318551,-73.9847924508308,The Filling Station,+18457869000,$$,4.0,10993
+242,14 Main St,bars,noodles,desserts,Haverstraw,xhjpzc5bJej2W295zlJ0Fg,41.1963691711426,-73.9637603759766,UNOODLES SNACK BAR,+18459477625,$$,4.0,10927
+243,16 Front St,latin,,,Haverstraw,xyUc8YjdSKW-Nh7gNo7ZmA,41.195858,-73.9605596,Don Coqui,+18459421616,$$$,3.5,10927
+244,1000 Round Pointe Dr,sandwiches,cafes,newamerican,Haverstraw,NKig9qVN80GxGigB2IrKnA,41.191018,-73.958439,Harbors Cafe,+18454292333,,5.0,10927
+245,35 Main St,latin,salad,seafood,Haverstraw,aLKl27D2hG7LD1RI-25eRg,41.196565926075,-73.9628791809082,La Cascada Restaurant,+18454290347,$$,4.0,10927
+246,77 S Liberty Dr,greek,burgers,soup,Stony Point,1CHLAsy7LY_YcjQl5dcnvA,41.2230822,-73.9844253,Gyro Point Plus,+18452713304,$,4.5,10980
+247,56 S Liberty Dr,diners,,,Stony Point,de2tmYzEcFDkHFb8u3jdfg,41.22419,-73.98447,Hogan's Family Diner,+18454299603,$$,4.5,10980
+248,117 N Rt 303,newamerican,salad,tradamerican,Congers,VVn36q55zLYgbbMBRnYOaw,41.15546,-73.93574,Restaurant X,+18452686555,$$$,3.5,10920
+249,29A Main St,bakeries,,,Haverstraw,ktEKiAz9z0QPoW0QyM8l8Q,41.1966070337937,-73.9631721030054,Vilma's Bakery,+18459428200,$,4.5,10927
+250,15 Rt 9W,seafood,,,West Haverstraw,VpDGR1gG07G4GzXgqThYUg,41.208488,-73.985679,Off the Hook,+18459478848,$$,4.5,10993
+251,62 Rt 9W N,bagels,,,Haverstraw,XnL8Je_ho1-AIK0DeCKirQ,41.190556,-73.963064,Hole Shot Bagels,+18455539329,$,4.0,10927
+252,186 N Main St,japanese,sushi,cocktailbars,New City,eFSPVgQsiAISWxZMPjKwzQ,41.1556552539738,-73.9857173605911,Mizu Hibachi & Sushi,+18456341590,$$,4.0,10956
+253,170 N Main St,pizza,italian,desserts,New City,kWfcR1KFTBv2cooeghN5uA,41.154571,-73.987897,Agnello's Brick Oven Pizza,+18456395373,$$,4.0,10956
+254,21 Main St,dominican,,,Haverstraw,6rG3-v-x45q1CPZ2zn2LkA,41.19681,-73.96334,Los Amigos,+18457860492,$,4.0,10927
+255,41 New Main St,pizza,italian,,Haverstraw,TcjhCDvmlyLXBCYSAnSvgg,41.19623,-73.96622,Mariella's Restaurant & Bar,+18454295220,$$,4.0,10927
+256,65 S Liberty Dr,delis,salad,,Stony Point,yj6BoTyxTt6pYKRg8-GKQA,41.22383,-73.98493,Deli Central,+18457863601,$,4.5,10980
+257,186 N Main St,italian,pizza,bars,New City,AZ9tgR3_UM6QA3547pO_fQ,41.1561753,-73.9884878,Norcina,+18456388030,$$,4.0,10956
+258,285 N Rt 303,diners,breakfast_brunch,,Congers,vDgoB6VEDnKJekKnT2Pfig,41.164993387591,-73.9384658134918,Cornerstone Restaurant,+18452672656,$,4.5,10920
+259,32 S Liberty Dr,breakfast_brunch,,,Stony Point,0d6vZL0H8yBk6xFmXkBljQ,41.2262022179475,-73.9856166020036,Stony Point Pancake Factory,+18455539621,,4.5,10980
+260,17 Rockland Ave N,tradamerican,bars,,Congers,B2y_iMkXBLXZyDd31srsGQ,41.15142,-73.94166,The Station Kitchen & Bar,+18457674007,$$,4.5,10920
+261,35 S Rte 9W,delis,,,West Haverstraw,9oExWtbB2suwYYHKCdp48A,41.207706,-73.985374,Italian Food Center,+18459473794,$$,4.5,10993
+262,22 Holt Dr,japanese,sushi,,Stony Point,hbDSwFsbr9r3f0BWNjERgQ,41.217243,-73.982576,Sakura,+18457860808,$$,4.0,10980
+263,10 Grassy Point Rd,mexican,,,Stony Point,CVEA0C0oRXgFbx6Ywt7EFw,41.22454,-73.96719,Playa Cancun,+18452713366,$$,4.0,10980
+264,21 S Rte 9W,venues,tradamerican,,Haverstraw,C6fTgMyVcFPOI6BUf7zahQ,41.192513,-73.966564,Terrace On The Hudson,+18452714932,,3.5,10927
+265,93 Broadway,mexican,,,Haverstraw,NS7nxvho4dYMVXrZsozZ4Q,41.2000198364258,-73.9660797119141,El Pastor,+18452714671,$$,4.0,10927
+266,606 Beach Rd,seafood,newamerican,,West Haverstraw,FnWFkB49kxMXH8xe8pkQEw,41.2151433,-73.9673018,Hudson Water Club,+18452714046,$$,3.0,10993
+267,120 W Ramapo Rd,greek,,,Mount Ivy,Otmiqkzd_Aac-YU3P7M1CQ,41.1941075166222,-74.0147262811661,Georgy Gyros,+18453544976,,4.5,10923
+268,32 S Liberty Dr,italian,,,Stony Point,JzT6nqpgA-wdpZMhECUxaw,41.22534,-73.98533,Mario's Pasta Cucina,+18457866060,$$,4.0,10980
+269,12 Old Haverstraw Rd,bakeries,,,Congers,oHodfhkNrzIhEX0QSkztxA,41.1513312,-73.9453607,Anna's Bakery,+18452687540,$$,4.5,10920
+270,120 W Ramapo Rd,chicken_wings,burgers,juicebars,Garnerville,LZ-LjsCcB5CoZY9haiC0Hw,41.1940368977793,-74.0147919097241,WingBurgers,+18453645454,$,4.0,10923
+271,120 W Ramapo Rd,chinese,,,Garnerville,KR5n41cRLuOdV6ZH8aOluQ,41.194038,-74.014411,Gum Hoi Take-Out Restaurant,+18453540802,$,4.0,10923
+272,129 Ramapo Rd,diners,,,Garnerville,Az9TklVmrtTj49WGIaWO3w,41.2019844055176,-73.9926528930664,Sparky's Diner,+18454298880,$,4.5,10923
+273,79 S Liberty Dr,tradamerican,,,Stony Point,l9kS6naOrbVGkE-ICzI2RQ,41.2146243,-73.9860285,Lynch's Restaurant,+18455539300,$$,4.0,10980
+274,51 US-202,coffee,,,Stony Point,jYEgvhNRFAQ7A2DopP_yvg,41.2246490670876,-73.9853377239521,It's Coffee,,,5.0,10980
+275,73 E Railroad Ave,bbq,,,West Haverstraw,nAkFLW2DpavZb_NISdzRYg,41.209095,-73.981773,Babe's,+18454298647,$$,4.0,10993
+276,67 S Liberty Dr,pizza,,,Stony Point,DLKjX2JWkVosxwd9EArvYw,41.22364,-73.98487,Pizzarena of Stony Point,+18457863666,$$,4.0,10980
+277,32 Samsondale Plz,pizza,,,West Haverstraw,j4_ligaQYzVo5DnFQ7TJAA,41.205627,-73.984919,Three Boys From Italy,+18459473285,$,4.0,10993
+278,75 N Route 9W,italian,bars,seafood,Congers,sZ8G1ihgp--TXGiba5xvRg,41.1528537274374,-73.9279326796532,Bolzano's Family Restaurant & Brick Oven Pizza,+18452689671,$$,4.0,10920
+279,81 N Central Hwy,newamerican,italian,,Garnerville,jQD51pj7HiFxphG4ZynqtA,41.21429,-73.99608,Beni's Trattoria,+18459421222,$$,4.0,10923
+280,306 Route 304,farmersmarket,desserts,,Congers,LuDtvLclJPshg9GU2g534g,41.1676256788776,-73.9578157313441,Dr Davies Farm Stand,+18452687020,$$,3.0,10920
+281,120 W Ramapo Rd,mexican,,,Garnerville,1rzmE_VdFn4o2Y0h7DCxqA,41.194153,-74.014743,D Patron,+18453542439,$$,4.0,10923
+282,61 S Route 9W,pizza,italian,,West Haverstraw,4Zvp1vrMr1O9REY8X-1gww,41.20226,-73.98406,Marcella's Pizzeria & Family Restaurant,+18452713414,$$,3.5,10923
+283,79 Washburns Ln,pizza,delis,breakfast_brunch,Stony Point,oNNTaHcejEoNI-WHkmAlYA,41.22415,-73.9923,Lane Deli & Pizza,+18459420346,$,5.0,10980
+284,21 New Main St,vegan,halal,spanish,Haverstraw,SxtExe7LfEDYC3vAyff80g,41.19631,-73.96525,Good Eats Deli,+18459478017,,5.0,10927
+285,42 W Ramapo Rd,sushi,asianfusion,,Garnerville,a1aC_bPjSihPMHwl4qZZmg,41.1997079460462,-74.0073455344846,Unicorn Asian Sushi Hibachi & Bar,+18455539688,,4.0,10923
+286,170 N Main St,bakeries,cafeteria,cafes,New City,Ytq6IbvOJ2sepqLF4A7bhA,41.1547746917491,-73.9879480434029,Challah Fairy,+18453234582,$$,4.0,10956
+287,8 West St,restaurants,,,Haverstraw,e0G6J4wqA9_-195kEKT1cw,41.1962624,-73.9644241,Delicias Latinas Restaurant,,$,5.0,10927
+293,840 Rt 9W,italian,pizza,cafes,Highland Falls,UhtoDAh69xFFwIYYqNdgzw,41.332234,-73.986223,Bear Mountain Pizza & Cafe,+18459778003,$$,4.0,10928
+294,145 Main St,mexican,steak,bars,Highland Falls,DnTWrw7Eul8saMG6jSWx9Q,41.3630799,-73.96764,Hacienda Mexicana,+18454460406,$$,4.0,10928
+295,467 Main St,mexican,newamerican,,Highland Falls,CmLQkLyd13o6K2a2rHx__A,41.37502,-73.96362,American Burrito,+18454462345,$,4.0,10928
+297,315 Main St,mexican,,,Highland Falls,_WD9HDdREC-I-ibIEGDLdg,41.371,-73.9652,Maria Bonita,+18454465393,$$,4.0,10928
+299,Bear Mountain State Park,zoos,museums,parks,Bear Mountain,VzEIysSsqdJ09jMtisxGIw,41.31335,-73.98886,Trailside Museums & Zoo,+18457862701,,5.0,10911
+300,125-141 New York State Bicycle Rt 9,hiking,,,Garrison,2JBlbuGIwFBAF25UYEj2tw,41.324201,-73.97532,Anthony's Nose,,,4.5,10524
+303,281 Main St,diners,coffee,breakfast_brunch,Highland Falls,vYyR73DAQSsXy-OR4sxgYw,41.3700197124172,-73.965598160799,Andy's Restaurant,+18454468736,$,4.0,10928
+305,45 Fair St,newamerican,seafood,pizza,Cold Spring,mNiCn_bHs8hSc7BTtYkz3g,41.41975,-73.96033,Riverview Restaurant,+18452654778,$$,4.0,10516
+307,92 Roa Hook Rd,newamerican,,,Cortlandt Manor,az3W1IiQSa2zyS3A5FWDYQ,41.29911,-73.93565,Table 9,+19147374959,$$,3.5,10567
+309,54 Main St,bars,burgers,,Cold Spring,mPMMNn1lPwOt1FFkwsnZug,41.4176358866655,-73.9589658379555,Doug's pretty good pub,+18452659500,$,4.5,10516
+312,43 Chestnut St,pizza,italian,,Cold Spring,QfYueId1Yc8N6FsMGq2-RA,41.4181478179045,-73.952590172257,Angelina's Restaurant & Pizzeria,+18452657078,$$,4.0,10516
+313,287 Main St,italian,breakfast_brunch,pizza,Highland Falls,aKTHQ1pP8YTSli5sRy3vvw,41.37043,-73.96568,Ermirio's Restaurant,+19175282902,$$,4.0,10928
+314,992 Main St,cocktailbars,tapas,spanish,Peekskill,8CNjaBDCKY-JDFfJjnmnkg,41.291893,-73.920082,Iron Vine,+19149308506,$$,4.0,10566
+315,101 S Division St,coffee,creperies,,Peekskill,pZX0hFRgub8j8AL5-Xm9QA,41.2897495102319,-73.9199752344698,The Peekskill Coffee House,+19147391287,$$,4.5,10566
+316,76 Main St,french,brasseries,,Cold Spring,fWWdlHYV-puOoRvCgO0_VQ,41.41804,-73.95849,Brasserie Le Bouchon,+18452657676,$$$,3.5,10516
+319,47-53 S Water St,pubs,breweries,newamerican,Peekskill,076JoUmMskVHpopG8ccCnQ,41.286952,-73.928955,Peekskill Brewery,+19147342337,$$,3.5,10566
+322,970 Main St,newamerican,bars,,Peekskill,rjepDbUJ38GtlNXlQTAhUA,41.29184,-73.9205099,Birdsall House,+19149301880,$$,3.5,10566
+323,521A Main St,delis,tradamerican,breakfast_brunch,Highland Falls,H6mPiOaLzPkEx1h3Am2-2g,41.37634,-73.9629999,Thayer Gate Deli & Cafe,+18454462769,$,4.5,10928
+324,990 Main St,caribbean,newamerican,italian,Peekskill,e5edYAzQbC7qrcNo5WSwEw,41.29188,-73.92017,Touch Of Class Caribbean Fusion Cuisine,+19149307958,$$,4.5,10566
+325,979 Main St,coffee,salad,sandwiches,Peekskill,dj6yzDGuBZlMAiBsn1SnUw,41.29147,-73.92026,Kathleen's Tea Room,+19147342520,$$,4.5,10566
+327,419 Main St,icecream,,,Highland Falls,-Yrneu-LTCZ1RqO5hT1dfw,41.373612,-73.963998,The Ice Cream Shoppe,+18454462380,$,5.0,10928
+328,1 Depot Square,tradamerican,bars,salad,Cold Spring,SuCs7XqL7CL6yB0u4Rwf0w,41.41744,-73.95988,Cold Spring Depot Restaurant,+18452655000,$$,3.0,10516
+329,55 Hudson Ave,desserts,coffee,icecream,Peekskill,Mzuh2nDFpqEOa7IH_Vbz2g,41.28565,-73.92996,The Hudson Creamery,+19142937811,$$,4.5,10566
+330,1008 Main St,ramen,,,Peekskill,B4ZSqkGJdM4AV5_Mw7pfFw,41.292084,-73.91922,RameNesque,+19149301788,$$,4.0,10566
+331,303 Main St,creperies,,,Beacon,zHx_fRRs4rYUo4XpTfP02A,41.50555,-73.97123,Royal Crepes,+18458316200,$$,4.5,12508
+332,91 Main St,italian,,,Cold Spring,JWwilTgNPLpxxsZwLOgczg,41.41783,-73.95771,Cathryn's Tuscan Grill,+18452655582,$$$,3.5,10516
+333,2 Main St,bedbreakfast,newamerican,,Cold Spring,8Wvq-J5iYFsGdHooiTVgMw,41.4163370409301,-73.9610767505502,Hudson House River Inn,+18452659355,$$,3.5,10516
+334,1969 E Main St,halal,mideastern,intlgrocery,Mohegan Lake,quezXFIQN9IJS1RvOdYRWw,41.319493,-73.858168,Almadinah Market,+19147431560,$,5.0,10547
+335,184 Main St,burgers,tradamerican,,Cold Spring,Ey_VtsgSE-eTdjY18pcilA,41.4202209,-73.9547298,Whistling Willie's,+18452652012,$$,3.5,10516
+337,US 9W,hiking,,,Cornwall-on-Hudson,ZLojNVbeZHRDdSjCNrxM2A,41.421923,-74.0091842,Storm King State Park,,,4.5,12520
+338,1 Museum Rd,artmuseums,,,New Windsor,vQDBCeTL3mpdwfujqJwGEQ,41.4267036892527,-74.0633010864258,Storm King Art Center,+18455343115,,4.5,12553
+339,514 Rt 32,delis,coffee,tacos,Highland Mills,1jChni0caCW1OoePl5J5iA,41.347023,-74.125922,Tacos Express & Deli,+18459285305,$,4.5,10930
+340,100 State Rt 32,italian,pizza,,Woodbury,egQ0-8D-m1cwsxVoGw38Cg,41.3207781,-74.1256556,Cosimo's Brick Oven Of Woodbury,+18459285222,$$,4.0,10917
+341,1251 Rt 208,farmersmarket,newamerican,farms,Monroe,iKqR-QJbrizZmSsv19-tjQ,41.386969,-74.179338,Blooming Hill Farm,+18452385004,$$,4.5,10950
+343,200 Rte 32,bars,comfortfood,tradamerican,Central Valley,FrA8aNiSC9bm-fzmQiBC8w,41.3273112680549,-74.1224988471205,A Better Place Bar & Grill,+18458276332,$$,4.0,10917
+344,1004 Rt 94,indpak,thai,,New Windsor,GziemXAtGNjqS_y7936X_Q,41.45436,-74.05844,Citrus Restaurant,+18457874947,$$,4.5,12553
+345,115 Main St,mideastern,falafel,,Chester,43DHb54mYg2BT8jR1qZnmw,41.3564458,-74.2773042,Allan's Falafel,+18454691714,$$,4.5,10918
+346,785 Shoprite Plaza State Route 17M,pizza,italian,desserts,Monroe,TzztJ-HWZLMX_EcNamDL8A,41.3322851346024,-74.194099981932,Scalia & Co Craft Kitchen and Bar,+18453950906,$$,4.0,10950
+347,190 Angola Rd,bakeries,flowers,galleries,Cornwall,3qoFZDt4w_d9ap86Lr217Q,41.4230916971766,-74.0451260426069,Jones Farm & Country Store,+18455344445,$$,4.5,12518
+348,817 Rt 17M,mexican,,,Monroe,BiBFx_b_O5h5b4IRM3UZ9g,41.3350564001145,-74.1925857256303,Tulcingo Mexican Restaurant,+18457827593,$$,4.0,10950
+349,76 Rt 17M,pizza,italian,,Harriman,3rRV6vzvg8DvaRLzFm0MIg,41.30717,-74.15169,Marina Restaurant & Pizza,+18457824143,$,4.5,10926
+350,371 State Rt 17M,japanese,sushi,,Monroe,P5TbT-FRe1XBetnnvxn52w,41.3152605,-74.1677215,Yune's Sushi,+18452382288,$$,4.0,10950
+351,2402 Route 32,bbq,soulfood,catering,New Windsor,mqo-7SfoGcWsHwdvFS3wKg,41.44732,-74.0562,Brothers Barbecue,+18455344227,$$,4.0,12553
+352,215 Larkin Dr,japanese,sushi,seafood,Monroe,Ey1mZfWi5DtOmXdIH3sPdw,41.3211920279146,-74.1528280898108,Okaeri Sushi Hibachi,+18454922191,$$,4.0,10950
+353,32 West St,icecream,coffee,,Cold Spring,XbO-eLwLYi-Obk7pKOmDCA,41.4164352586008,-73.9612715690001,Moo Moo's Creamery,+18455543666,$$,4.5,10516
+354,2741 Route 9,bbq,,,Cold Spring,LEZY1sGKC32EETTIW3vWnw,41.4311119316347,-73.9168310165405,Round Up TX BBQ,+18458095557,$$,4.5,10516
+355,1008 Little Britain Rd,mexican,,,New Windsor,alBp8b3tif095fUsqyArLQ,41.4864921569824,-74.0928344726562,Talavera Restaurant,+18455630552,$$,4.5,12553
+356,20 Smith Clove Rd,caribbean,comfortfood,,Woodbury,XnlX45CSyFaFfMlwpnMrZw,41.33293,-74.11987,Grand Mango Caribbean Restaurant,+18458276710,,4.5,10917
+357,319 Main St,sandwiches,breakfast_brunch,salad,Cornwall,xUlGO3vwD0YVSJITuJlvMQ,41.43479,-74.03479,Fiddlestix Cafe,+18455343866,$$,4.0,12518
+358,129 Main St,tradamerican,breakfast_brunch,,Cold Spring,Q91rwjdRSSNFNfdyFV4NbQ,41.4185125769399,-73.9569391416659,Hudson Hil's Market & Café,+18452659471,$$,4.0,10516
+359,Palisades Pkwy And Rt 9W,parks,hiking,swimmingpools,Bear Mountain,MDUVh9N2lifdQ-8BjGmA5Q,41.2890479531073,-74.0297872210237,Bear Mountain State Park,+18457862701,,4.0,10911
+360,,parks,hiking,,Bear Mountain,NIdH00QbwZKLvwHRu_fdNQ,41.302571,-74.078865,Harriman State Park,+18459422560,,4.5,10911
+361,32 W Main St,tradamerican,burgers,comfortfood,Washingtonville,7iy1gwU0aS2uNJVAysD8aA,41.426794,-74.1688305,Betty's Country Kitchen,+18456145422,$$,4.0,10992
+362,816 State Route 17M,burgers,tradamerican,hotdog,Monroe,_oHmrzyV0xTeF_jhsW-koQ,41.3349197547306,-74.1917261361548,Wayback Burgers,+18453950707,$$,4.0,10950
+363,1390 NY-17A,icecream,,,Warwick,WFJGWpk6lh7FzefCrdGGJw,41.2446597,-74.2817119,Bellvale Farms Creamery,+18459881818,$,4.5,10990
+364,1 Quaker Rd,italian,,,Highland Mills,OT8PayIbzKhcH5__hFgAIg,41.3591479,-74.1140679,Peppy & Eddy's,+18459289876,$$,3.5,10930
+365,43 Hillside Ter,italian,,,Monroe,CP88JcmiS4i-eNiAE8NuVQ,41.321296,-74.19966,La Vera Cucina,+18457743340,$$,4.0,10950
+366,21 Main St,desserts,coffee,,Cold Spring,NHFYavkZosuLYPGuakNU_w,41.4165884687801,-73.9602031059175,Rincon Argentino,+19144824795,$,5.0,10516
+367,157 Main St,newamerican,beerbar,wine_bars,Beacon,4WXWVg6NS-BfIfDTdSYgnw,41.50814,-73.97592,Kitchen Sink Food & Drink,+18457650240,$$,4.5,12508
+368,69 Brookside Ave,newamerican,,,Chester,jWqrUnyNHF242LVASD3OPw,41.35381,-74.28129,Christopher's Bistro,+18456105400,$$,4.5,10918
+369,97 Liberty St,cocktailbars,newamerican,french,Newburgh,cpARqEBVOebhQJU6wo0Blg,41.4982509029774,-74.0108863944427,Liberty Street Bistro,+18455623900,$$$,4.5,12550
+370,46 Millpond Pkwy,italian,seafood,,Monroe,ObuBAEOBF4q2TyPGjNLzbg,41.327724,-74.188495,Angelo's Sicilian Trattoria,+18457814641,$$,4.0,10950
+371,311 Hudson St,coffee,,,Cornwall on Hudson,6BSZErJ1qSrP4W8LQjvGfg,41.4442263543606,-74.0203542262316,2 Alices Coffee Lounge,+18455344717,$,4.5,12520
+372,199 Niagara Ln,burgers,icecream,tradamerican,Central Valley,aDI2Yo24nsvA8Pt03U7MKg,41.32813,-74.12266,Shake Shack,+18458273140,$$,3.0,10917
+373,30 Millpond Pkwy,coffee,coffeeroasteries,,Monroe,Q6ie71Bj3Z6-m4PrtbHENg,41.32682,-74.18783,Javajo's Coffee Bar,+19143299463,$,5.0,10950
+374,287 Rt 32,asianfusion,,,Central Valley,fRLTPAK6RzBEY_vRm2TFMA,41.3326173356118,-74.1225299709536,Aji Asian Cuisine,+18458276655,$$,3.5,10917
+375,78 Millpond Pkwy,cajun,tradamerican,sportsbars,Monroe,bfFubW9EVsuuH2mBsIfu3w,41.3293144,-74.1893551,Bourbon Street Bar and Grill,+18457828501,$$,4.0,10950
+376,1217 Route 300,pizza,italian,venues,Newburgh,FbsOAphvWi5e4e1A6oDHeQ,41.4996724690854,-74.0713765040438,Cosimo's On Union,+18455671556,$$,4.0,12550
+377,34 Smith Clove Rd,delis,breakfast_brunch,,Central Valley,SI7GjLR2u9lEo-P8_-NnSQ,41.3333656278511,-74.1188492998481,Jorge's Kitchen,+18458276658,$,4.5,10917
+378,12 Lake St,sushi,japanese,salad,Monroe,qWiX6bUqbze6k_vX9T4DyA,41.3284091901628,-74.1877522328035,Plum House Japanese Restaurant,+18457830211,$$,4.0,10950
+379,1076 Rt 9W,bbq,,,Fort Montgomery,-6FjecSrNwBwGiuYOdmNUw,41.3378493275301,-73.9792663489364,Barnstormer Barbeque,+18454460912,$$,4.0,10922
+380,1795 Rt 32,italian,pizza,catering,New Windsor,ozizja24qJO8LFiJW3mUgQ,41.408212,-74.072643,Cafe Richiesto and Pizzeria,+18454585513,$$,4.5,12553
+381,252 Main St,pizza,,,Cornwall,v4_npWWShaURQsKlED5F9Q,41.4363,-74.03268,Prima Pizza,+18455347003,$,4.0,12518
+382,26 Front St,bbq,bars,newamerican,Newburgh,695wcjiDU0kJX2R6mtvEsA,41.50216,-74.00518,Billy Joe's Ribworks,+18455651560,$$,3.5,12550
+383,547 State Rt 17M,tradamerican,burgers,sportsbars,Monroe,qb49fPkNVOMSfh9X1GWmQQ,41.32053,-74.18184,Captains Table,+18457830209,$$,3.5,10950
+384,1396 Kings Hwy,mexican,,,Sugar Loaf,jHKnZqR2GvFl1Qq9ovs4lQ,41.320249,-74.285786,Cancun Inn,+18455441570,$$,4.5,10981
+385,120 Front St,seafood,steak,wine_bars,Newburgh,L-wpUzijbz8yzQlKCl6Rrg,41.50589,-74.00472,Blu Pointe,+18455680100,$$$,4.0,12550
+386,Rt 9D,parks,hiking,,Beacon,qrvwrU6qcb46MOqmfU6xOw,41.4500929128695,-73.9824914932251,Hudson Highlands State Park,,,4.5,12508
+387,2159 State Rte 94,icecream,,,Salisbury Mills,UtLUfEWRD5TgKiJoQifW_Q,41.4294735,-74.1292949,Weir's Ice Cream,+18454964258,$$,4.0,12577
+388,67 Orange Tpke,sushi,japanese,korean,Sloatsburg,plYnFE13irfYBQRmh_HYtQ,41.1555935,-74.1933364,Sushiville,+18457125006,$$,4.5,10974
+389,74 Lafayette Ave,japanese,sushi,wine_bars,Suffern,kePi_F16lxM0YXGZ4O6rSA,41.115608,-74.151533,Sushi Bada,+18455334178,$$,4.5,10901
+390,80 Orange Tpke,beerbar,beverage_stores,newamerican,Sloatsburg,1Fi3mRVlpUbTagwKvK523Q,41.15639,-74.19262,Seven Lakes Station,+18457125586,$$,4.5,10974
+391,296 Old Rte 17 N,japanese,sushi,steak,Hillburn,InshM-PrYQTV9ztFV1pgcA,41.128833,-74.1687676,Mt Fuji Japanese Steak House,+18453574270,$$$,3.5,10931
+392,549 Ny-17,coffee,breakfast_brunch,bakeries,Tuxedo Park,simMjDdZ5NfH8aPNDznewQ,41.214491,-74.184959,Dottie Audrey's Bakery Kitchen,+18459153088,$$,5.0,10987
+393,83 Lafayette Ave,newamerican,seafood,tradamerican,Suffern,PS2G2poJX49f8VD5Fhw5ng,41.1150956,-74.1508008,Mia's Kitchen,+18455472427,$,4.5,10901
+394,32 Orange Ave,tradamerican,bbq,sandwiches,Suffern,XXgq4XCECp8hwfvkjuuNMw,41.11997,-74.15843,Fink's BBQ and Cheesesteak Roadhouse,+18455334033,$$,4.0,10901
+395,40 Orange Tpke,tradamerican,bbq,breakfast_brunch,Sloatsburg,08ef-UKJ5cC64mXzP0U2Yw,41.15382,-74.19306,Rhodes North Tavern,+18457536438,$$,3.5,10974
+396,1A Suffern Pl,pizza,italian,chicken_wings,Suffern,Xf3slHf0WLAbYktd5l8rOA,41.11543,-74.15045,Forgia Brick Oven Pizzeria,+18453570378,$$,4.5,10901
+397,21 Lafayette Ave,italian,cookingclasses,,Suffern,uy4N0JB5NHjwfzS3hhRReQ,41.1161030083895,-74.15362,Marcellos Ristorante,+18453579108,$$$,4.0,10901
+398,57 Lafayette Ave,thai,beer_and_wine,,Suffern,M84RSr63EsmLUKacgZLGDQ,41.1156209364221,-74.1520102488114,Jay's Thai Kitchen,+18455472458,$$,4.5,10901
+399,150 Orange Ave,bagels,,,Suffern,aAhfBdD6zxfTG_T-VVATWw,41.1130067,-74.1527727,Bagel Train,+18453684234,$,4.5,10901
+400,28 Prairie Ave,pizza,delis,italian,Suffern,pGw1dMSfGROaGYBFpLWOcQ,41.1102467285043,-74.1487094754625,B-Balls Meatballs,+18453578054,$,4.5,10901
+401,586 N Franklin Tpke,pizza,,,Ramsey,Ha1gyVrl5m0iH1xZOmcaVw,41.07769,-74.13747,Kinchley's Tavern,+12019347777,$$,4.0,07446
+402,1033 MacArthur Blvd,spanish,tapas,seafood,Mahwah,NAvwWNVjbS-TSdFD73qkRw,41.079193,-74.165503,Sangria,+12019623310,$$,4.0,07430
+403,41 Lafayette Ave,mexican,,,Suffern,P8IIkgdyYpSkVXUKxnd5PQ,41.1157035827637,-74.1528549194336,My Mexican House,+18453680388,$$,4.5,10901
+404,1300 Rt 17 N,pizza,sandwiches,soup,Ramsey,PkmO99zR-93y5uWZ_U1sSg,41.072484,-74.138698,La Gondola Pizzeria & Restorante,+12018258990,$,4.5,07446
+405,88 Orange Ave,mexican,,,Suffern,Z3HS96rGnCSMVhJKuYyT2Q,41.11694,-74.15462,Tequila Sal Y Limon,+18453577707,$$,4.0,10901
+406,17 Lafayette Ave,tacos,,,Suffern,XN6ijozlwVmW43WDwxBUYA,41.1162486055513,-74.1536259955556,Taqueria America,+19732487570,$,4.5,10901
+407,8 N Airmont Rd,sushi,cajun,seafood,Suffern,C3df6pWSbLiaVESSfTmIiw,41.1132641635818,-74.11438653451,AJ'S Sushi & Cajun Seafood,+18455472326,$$,4.5,10901
+408,94 Orange Tpke,bars,pizza,irish,Sloatsburg,mJRC46iz3KidelCc00u0ww,41.15732,-74.19228,Characters,+18457535200,$$,3.5,10974
+409,84 Orange Ave,tradamerican,irish_pubs,italian,Suffern,2vVFRLbb4nkAbiROiktzbQ,41.117431640625,-74.1546936035156,Curley's Corner,+18455472487,$$,4.5,10901
+410,114 Orange Ave,newamerican,gastropubs,,Suffern,GYwn3CRwIOn6A1-suc5ryw,41.1157149209387,-74.1542195901275,Plan B,+18453688181,$$,4.5,10901
+411,233 Rt 17,sushi,japanese,,Tuxedo Park,LKYqxAi4SlBYYtObnyQalA,41.193933,-74.18511,Tuxedo Sushi,+18453513211,$$,4.5,10987
+412,608 Ramapo Valley Rd,hiking,parks,lakes,Mahwah,mjoE9LIf9UU00Lec_yfD_A,41.0777461047138,-74.1868822301406,Ramapo Valley County Reservation,,,4.5,07430
+413,72 Lafayette Ave,mexican,,,Suffern,w7SVBeHBttarPIFedsmZ2Q,41.11576,-74.15159,La Hacienda Don Manuel,+18453691633,$$,3.5,10901
+414,1 Lafayette Ave,italian,,,Suffern,l7jzNEh4wW_ERgz61j1EnQ,41.116092,-74.154129,Da Nina's Italian Restaurant,+18453575988,$$$,4.5,10901
+415,1300 Rt 17 N,greek,mediterranean,salad,Ramsey,g-Ka1Qr47uJmlGuf-pZd8g,41.072603,-74.137873,Greek City,+12017602500,$$,4.0,07446
+416,171 Rt-17,bakeries,markets,gardening,Sloatsburg,R7cjKKSuvXCJkByNjefsoQ,41.14712,-74.19158,Auntie El's Farm Market and Bakery,+18457532122,$$,3.5,10974
+417,150 Franklin Tpke,italian,,,Mahwah,GZ0pXlZGHt8-zykJPZm-oA,41.09744,-74.1466499,Roxanne's Brick Oven Pizzeria Bar & Grill,+12015290007,$$,3.5,07430
+418,2 Island Rd,pubs,tradamerican,,Mahwah,S4nZ-12Uqdw9u-xU8MSsBQ,41.10225,-74.1525599,The Mahwah Bar & Grill,+12015298056,$$,3.5,07430
+419,36 Lafayette Ave,indpak,,,Suffern,7-iHgS0FMdtji1gaoe-YAQ,41.1161008137845,-74.1531234602166,Priya Indian Cuisine,+18453575700,$$,4.0,10901
+420,59 Orange Tpke,delis,sandwiches,,Sloatsburg,bt2a_Ge672X3BfVf8H7W8w,41.1552485078573,-74.1932883113623,Hayward's Deli & Market,+18457532016,$,4.5,10974
+421,1007 MacArthur Blvd,japanese,sushi,,Mahwah,87fC5ApCvVnkXctoLHUqVQ,41.0788320480838,-74.1654695605185,Nagoya,+12018189933,$$,3.5,07430
+422,75 Lafayette Ave,afghani,mideastern,,Suffern,8aO290cNeF5FwbbHI78uYw,41.11519,-74.15115,Sarinas Afghan Cuisine,+18453697400,$$,4.0,10901
+423,400 Ridge Rd,pizza,italian,,Mahwah,UTETBMX91Q7uiPv8d_FK_g,41.0786054055476,-74.164360679956,Sonny and Tony's Pizza & Restaurant,+12015294001,$$,4.0,07430
+424,375 State Rt 17,diners,breakfast_brunch,tradamerican,Mahwah,Nq2wk8lvpEOWk9ZAumecEA,41.084164,-74.150968,State Line Diner,+12015293353,$$,3.0,07430
+425,3 Franklin Tpke,chinese,,,Mahwah,EUbrkJksUkZ--mkUf5hDSw,41.1070588,-74.1497475,Imperial Dynasty,+12015298288,$$,3.5,07430
+426,2 Lafayette Ave,mexican,,,Suffern,EgRGWbe-2y6DdxEIb6_67g,41.1164824,-74.1544554,Ole Tapas Bar,+18453683058,$$,4.0,10901
+427,1315 Rte 17 S,seafood,tradamerican,sportsbars,Ramsey,JiVN0I5qjLUCFf2EsVrTQw,41.0718325907866,-74.1409775957311,Biggie's,+12019629099,$$,3.5,07446
+428,100 Orange Ave,mexican,latin,tapas,Suffern,Hj-qpcikBNxX_3cOKd28Qg,41.1165173314807,-74.1545002445629,Olé Olé Restaurant,+18453683058,$$,3.0,10901
+429,219 Ramapo Valley Rd,tradamerican,bbq,sportsbars,Mahwah,vyMw8-uiVdHH1TLfM1yRtw,41.09714,-74.16254,Mason Jar,+12015292302,$$,3.0,07430
+430,82 Lafayette Ave,mexican,,,Suffern,D3lplmhjHzrYkYMRowLpTw,41.115504,-74.1511208,Chilito's Mexican Restaurant,+18453575185,$$,4.0,10901
+431,9 North Airmont Rd,bagels,bakeries,coffee,Airmont,mmZKODfqiTgO5T_NQIuevw,41.11316,-74.11394,Bagel Boys,+18453683456,$$,3.5,10901
+432,210 Rte 59,diners,breakfast_brunch,,Suffern,-jwZ_ifBDtOaWTa2tKhTLQ,41.1126885541584,-74.1146975755692,Airmont Diner,+18453680020,$$,3.5,10901
+433,86 Lafayette Ave,salvadoran,,,Suffern,1pXnMgtXv4zY_AFEmps9dQ,41.1153140697083,-74.1513546879032,El Banquete Restaurant,+18457096707,$,4.5,10901
+434,557 North Franklin Turnpike,hotdogs,delis,sandwiches,Ramsey,kG-Qo9u7CYLGYKY5dKvdxg,41.076005,-74.13882,Jersey Mike's Subs,+12019628898,$,4.0,07446
+435,25 Lafayette Ave,sushi,chinese,thai,Suffern,yCyqhVB8ERio8a6mpBQUOg,41.11596,-74.15344,Jade Bistro,+18453680011,$$,3.5,10901
+436,11 Franklin Tpke,pizza,italian,sandwiches,Mahwah,y70OUSmBUeF0VM5nwIT6hQ,41.106698,-74.148958,Nonna's Pizza & Restaurant,+12015291151,$$,3.0,07430
+437,1304 Sloatsburg Rd,parks,,,Ringwood,AsuLigvrodsbgmGo4tNtRw,41.1281018704176,-74.259874150157,Ringwood State Park at Ringwood Manor,+19739627031,,4.5,07456
+438,44 W Main St,hotdog,,,Middletown,o9FuJ2Fzb2Ujnna2nqKSOg,41.445,-74.42197,Holydog,+18456497495,$,5.0,10940
+439,17 North St,desserts,diners,cafes,Middletown,QoXIWA98eG0FTupX2ytqHw,41.445646,-74.4197499,Something Sweet Dessert Cafe,+18453432233,$$,4.5,10940
+440,40 1/2 North St,mexican,,,Middletown,4zZnk5fcl85hUtSRwLDb7g,41.4460763842432,-74.4198129042645,Taco Factory,+18453437171,$,4.5,10940
+441,22 Cottage St,breweries,bars,newamerican,Middletown,iIH69MgAICJpY_peBp8YDQ,41.44701,-74.41559,Clemson Bros. Brewery - Middletown,+18457754638,$$,4.0,10940
+442,39 W Main St,tapasmallplates,,,Middletown,YuGNMmas__Dp5yG_ALOiTA,41.44529,-74.42142,J's Place,+18454674156,,5.0,10940
+443,22 Henry St,cocktailbars,tradamerican,,Middletown,hZfiIYM2xkqyDQh7QXS7Kg,41.44621931861,-74.4221099881965,Tapped,+18457754216,$$,4.0,10940
+444,27 W Main St,newamerican,cocktailbars,,Middletown,2Ptuzn3uSgjhTEIxsVSDBA,41.44523,-74.42093,The Bullroom,+18458009290,$$,4.5,10940
+445,21 W Main St,asianfusion,sushi,japanese,Middletown,yV4tF4TCuoRy-jEJSZQTfA,41.445014923811,-74.4207738339901,Hanami Japanese Cuisine,+18453423208,$$,4.0,10940
+446,4 E Main St,spanish,puertorican,,Middletown,mnIfjsoo9JEdaAsJ07tUsA,41.44485,-74.41954,Brunilda's Cuchifrito,+18453445141,$,4.0,10940
+447,12 W Main St,empanadas,latin,,Middletown,hI1LqlCrhvGvQ7hRUWlcNQ,41.44485,-74.4206,Olivia's Empanadas And More,+18453940001,$,5.0,10940
+448,28 E Main St,bakeries,customcakes,,Middletown,mVgGSa4rqW71CG49faGcqQ,41.4452680114954,-74.4190695907937,DeFilippis Bakery J & V,+18453431321,$,4.0,10940
+449,16 East Main St,mexican,,,Middletown,fPi-65ELpj0RWa9WZOVJuQ,41.4451378054953,-74.4193687755282,El Zapata,+18453460783,$$,4.5,10940
+450,27 W Main St,newamerican,lounges,steak,Middletown,V9RkgVPpsN4OxUuAqhOiCg,41.44523,-74.42093,Nina Restaurant,+18453446800,$$$,3.0,10940
+451,24 East Main St,soulfood,,,Middletown,UIEOlvXiKrzLYCetTIVB0A,41.44497,-74.41896,Cheryl's Fried Fish & Soul Food,+18453435565,$,4.0,10940
+452,330 NY-211 E,newmexican,mexican,,Middletown,TvxwxECsvfpKtHco9JQ3dA,41.45447,-74.39583,Frontera Tacos & Tequila,+18453940045,$$,3.5,10940
+453,211 Monhagen Ave,vietnamese,bubbletea,coffee,Middletown,cQTszOlxdhFyZsj5ybBIpg,41.45583,-74.43724,Pho Sai Gon,+18453431198,,4.0,10940
+454,76 East Main St,latin,empanadas,,Middletown,AEkDqeXQZ1OuqPCDEWkwGQ,41.4453681,-74.4165403,Jackie's Latin Kitchen,+18453815546,$$,4.5,10940
+455,655 Rte 17M,icecream,mini_golf,desserts,Middletown,UGyXmdZNUBaOp4hBbZRfKg,41.476814,-74.41579,Zoghby's Blueberry Mountain Ice Cream,+18453442500,$$,4.0,10940
+456,76 Wickham Ave,latin,,,Middletown,lQAHU7WbX7NgQCT1KrC-Fg,41.4501265436411,-74.4180366396904,La Fonda Boricua,+18453425550,$,3.5,10940
+457,7 W Main St,pubs,italian,seafood,Middletown,9D_477iWqS3_rPyk-Cfmhg,41.4451376,-74.4203703,Destefano's Old Erie,+18453443743,$$,3.0,10940
+458,9 King St,icecream,sandwiches,hotdog,Middletown,QX_Pfj8HI3DBitcxdh-DMw,41.44591,-74.42034,Sugar Shack Ice Cream,+18453430770,$,4.0,10940
+459,52 Cottage St,mexican,,,Middletown,4BdGZKlZmQgljNDeNbHzAQ,41.448902441366,-74.4143495782579,San Cristobal,+18457754373,$$,5.0,10940
+460,3 S St,dominican,spanish,,Middletown,A3_3W_sTr0n7jxXBHWtNjg,41.4447779432353,-74.4203490391374,Quisqueya Restaurant,+18454674557,$,3.5,10940
+461,13-19 Railroad Ave,bowling,burgers,escapegames,Middletown,XqgHb1QydhfRchYetm1fRQ,41.4479908,-74.4171775,Quinnz Pinz,+18453438121,$,3.5,10940
+462,285 Rt 211 W,intlgrocery,filipino,,Middletown,nKattk3IWR7Lq8-LrE-i7A,41.459244,-74.440769,Fil-Am Sari Sari,+18457754379,,5.0,10940
+463,580 Glenwood Rd,foodtrucks,tradamerican,bbq,Pine Island,ir9-5exTrZ0d_2trnzynaQ,41.29322,-74.464766,Pitchfork Barbecue & Biscuits,,,5.0,10969
+464,203 N St,chinese,seafood,soup,Middletown,oIVNrC65fMwjHUrCxd0HzA,41.4503926,-74.417311,Eastern Chinese Restaurant,+18453444888,$,4.5,10940
+465,36-42 James St,pizza,wraps,italian,Middletown,_X2cPik_LbPY7g58Q0y45w,41.44654,-74.42131,Caputo's Pizza,+18453421222,,4.5,10940
+466,19 W Main St,pizza,,,Middletown,Idb2flSYvp4g_By2BGrOVQ,41.4450608,-74.4212218,John's of Arthur Ave Restaurant & Pizzeria,+18454674712,$$,3.0,10940
+467,122-126 North St,mexican,,,Middletown,4Xtzc4vIGCdWQEWYwATRrw,41.44923,-74.41845,El Azteca Mexican Restaurant,+18453423448,,5.0,10940
+468,251 Highland Ave,chinese,,,Middletown,VQHcU-0qL7tUApvFblwEYw,41.4619799,-74.41328,Yuan Fu Chinese Food,+18453429967,$$,4.5,10940
+469,120 North St,chinese,,,Middletown,AWbP0JrsNHn17NOnw_D4SQ,41.44911,-74.41855,Number 1 Chinese Restaurant,+18453445185,,4.5,10940
+470,29 Center St,bars,tradamerican,,Middletown,MDoeI2VsxtE247-T_zyi9w,41.44674,-74.42031,The Bee Tavern,+18454674138,,4.0,10940
+471,511 Rte 17M,pizza,,,Middletown,_m93vjuHPZFpg44spbzx3g,41.4674,-74.41373,Bella Lena's Restaurant & Pizzeria,+18454674572,,4.5,10940
+472,2 E Main St,chinese,,,Middletown,mcnk9sg08EsY3Q8BiHDnNw,41.44491,-74.41976,Wing Hing Chinese Restaurant,+18453438888,$,2.5,10940
+473,202 North St,pizza,italian,,Middletown,DCiKR6GaVPTP4zchuERz3w,41.450611,-74.4173171,Yanis Pizzeria and Restaurant,+18452394746,,5.0,10940
+474,34 Mill St,cafes,,,Middletown,fX3MPlVfrzQFiNqvvmISfw,41.444724900698,-74.4252969000824,Mill Street Cafe,+18454216275,,4.5,10940
+475,126 E Main St,bars,tradamerican,karaoke,Middletown,LXn8qSl52BrVmTda7gUh2g,41.44576,-74.41333,The Switch Inn,+18453411347,$,4.0,10940
+476,90 N St,mexican,italian,,Middletown,bJmfAZEVjR2eUhtSpSf3nw,41.4477891877158,-74.4190500070496,Caborcas Pizzeria,+18453420023,,5.0,10940
+477,30 Henry St,pubs,divebars,,Middletown,vw6eF8yYJgs0q43aTO6R8w,41.44614,-74.42231,Player's,+18453426263,$,5.0,10940
+478,10 Railroad Ave,cafes,coffee,sandwiches,Middletown,-uTn5NguSRvw5_PmXU9pDg,41.44806,-74.4179,Coney Island Cafe,+18453433714,$,2.5,10940
+479,112 North St,mexican,,,Middletown,2GKxnFOQ5TVSJvkcWIibKA,41.448678,-74.4187969,La Esquina,+18453411008,$,5.0,10940
+480,81 Wickham Ave,chinese,,,Middletown,oCG32c59CEF929YxJbIAOw,41.45039,-74.41789,King Dong Chinese Restaurant,+18453422288,$,3.5,10940
+481,24 E Main St,restaurants,,,Middletown,QtWWYlDlSOW3pyY-y5NiwA,41.44497,-74.41896,Cheryl's Fried Fish,+18453435565,,4.0,10940
+482,42 Ingrassia Rd,gaybars,cabaret,,Middletown,x4_S3BKsCnDyCvSDQGou7g,41.463,-74.44181,Middletown Cabaret,+18453420088,,5.0,10940
+483,206 North St,restaurants,,,Middletown,uB43mVsMAH6nf9hozNJ0Hw,41.4506299,-74.41768,Kennedy Fried Chicken,+18453423467,,2.5,10940
+484,198 Monhagen Ave,cafes,catering,,Middletown,in0JBU5m1Oit6TGEsWJsOw,41.455541127823,-74.4362112879753,Alondra's Cafe & Catering,+18453433354,,5.0,10940
+485,171 W Main St,chicken_wings,tradamerican,,Middletown,lVJk2u2KwpHDKWs10YxcMg,41.4485394608542,-74.4306073377832,Planet Wings,+18453460060,$$,2.0,10940
+486,90 North St,caribbean,,,Middletown,ZKKySwCyIRSMsHLbiYyLZA,41.44782,-74.41945,Cafe De Novo,+18453411118,$,4.5,10940
+487,14 Cottage St,bars,venues,recreation,Middletown,NiNt9qk6MVV3sGAxTqxonA,41.4471443601774,-74.4151136566925,QB Ball,+18454674074,,3.5,10940

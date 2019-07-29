@@ -1,0 +1,1055 @@
+,address,category1,category2,category3,city,id,latitude,longitude,name,phone,price,rating,zip_code
+58,369 Main St,breakfast_brunch,tradamerican,,Agawam,axe5_nA1ylrVaN6Ov1QAQA,42.08076,-72.614573,Main Street Grille,+14137892020,$,4.0,01001
+61,382 Main St,chinese,,,Agawam,kmgzYGUATzf0NyiaxKfRCA,42.0804196,-72.6150226,China Star Restaurant,+14137897170,$,4.0,01001
+65,395 River Rd,italian,,,Agawam,HiHgSLONNoW4yCFiXK-w-w,42.05683,-72.60565,Michael's Pasta In the Pan,+14137891917,$$,3.0,01001
+71,1 Cooper St,pizza,italian,salad,Agawam,EI01qC9xbqqld6gxtJdJjg,42.0810981,-72.6155878,Valenti's Restaurant,+14137864852,$$,4.5,01001
+80,1305 Memorial Ave,tradamerican,bars,venues,West Springfield,UhSenOaxiGL21mHjZDvq7w,42.091147,-72.6160879,Storrowton Tavern & Carriage House,+14137324188,$$,3.5,01089
+90,365 Walnut St Ext,coffee,breakfast_brunch,,Agawam,wmpivzW425XCPRwGIaDemw,42.08742,-72.62902,1st Stop Cafe,+14134553510,$,4.0,01001
+95,1676 Main St,italian,,,Agawam,oZX4y5ZsMSIE7f1PxRYlHQ,42.0363884,-72.6169205,Ferrentino Pizzeria & Pub,+14137893222,$,4.0,01001
+99,218 Union St,breakfast_brunch,diners,,West Springfield,evkWgTX3sn2mF0tEnxNL3g,42.102717,-72.617537,Charlie's Diner,+14137338551,$,4.0,01089
+174,112 N Main St,newamerican,,,Sunderland,ZrnKQkZYNw_otzzh6EIiHQ,42.46719,-72.57818,Blue Heron Restaurant,+14136652102,$$$,4.0,01375
+195,163 Sunderland Rd,irish_pubs,,,Amherst,T-Ouo3opXRiUEyGoBT0aoA,42.4156,-72.5328399,The Harp Irish Pub,+14138350050,$$,4.0,01002
+224,115 N Pleasant St,halal,streetvendors,mediterranean,Amherst,PlMKmByQbmWCvyOPYK-CkQ,42.378148,-72.519928,The Halal Cart,+16463315115,$,4.5,01002
+225,62 Main St,taiwanese,chinese,,Amherst,o766sCbxUEbiBxr14X4ryw,42.3758907917114,-72.5185187374798,Formosa Chinese Restaurant,+14132537835,$$,4.0,01002
+226,280 Main St,museums,,,Amherst,JTcPfVn5_N8yBt81SMNAsg,42.376220703125,-72.5139541625977,Emily Dickinson Museum,+14135428161,,4.5,01002
+227,24 N Pleasant St,pubs,newamerican,,Amherst,e5bI0nEjKHM6xYRc1hb3vA,42.376197040205,-72.5201359183853,High Horse,+14132303034,$$,3.0,01002
+228,11 N Pleasant St,sushi,japanese,korean,Amherst,bzP1utyRGu6ywPric5UmGg,42.3759798393699,-72.5196934563388,Arigato Sushi,+14132531070,$$,3.5,01002
+230,63 S Pleasant St,mexican,,,Amherst,3Wr0o6qZfbUoP7mkl0zPoQ,42.374797453538,-72.520020664947,La Veracruzana Mexican Restaurant,+14132536900,$$,3.0,01002
+231,103 N Pleasant St,chinese,japanese,,Amherst,ZiDnZGOCsr9xBGEL9ihzjg,42.37722,-72.51936,Panda East,+14132568923,$$,3.0,01002
+232,255 Triangle St,pizza,italian,burgers,Amherst,7rD52PKYYUpAQDSruT8UJA,42.3811003969016,-72.5186309760506,Primo Pizzeria Too,+14136580100,$,4.0,01002
+233,41 Campus Center Way,vegetarian,,,Amherst,54NNpmmHGyas53lS-hqzJQ,42.3904151916504,-72.5283737182617,Earthfoods Cafe,+14135451554,$,4.5,01003
+234,178 N Pleasant St,coffee,bakeries,,Amherst,2KSwu2rNp9t_NbdLM1mURQ,42.37829,-72.5205299,Share Amherst,+14132539441,$$,3.5,01002
+235,30 Boltwood Walk,ramen,bbq,bars,Amherst,6EIJiG73rc9zCZSXOrksbw,42.376387,-72.518217,Kaiju,+14134610405,,3.5,01002
+236,243 Stockbridge Rd,tradamerican,newamerican,lounges,Amherst,leTHc9wctzklRk6rGw7VBw,42.3891652753559,-72.5234329620205,The University Club & Restaurant,+14135452551,$$$,3.5,01003
+237,150 Fearing St,pizza,tradamerican,,Amherst,fYOPoMtoJ4m0yGbxAMjNfw,42.38105,-72.52728,Sunset Grill and Pizza,+14138350568,$,4.0,01002
+238,48 N Pleasant St,bagels,sandwiches,breakfast_brunch,Amherst,NWZbIKlYUT9LwUD7v-5vfA,42.376465,-72.52031,The Works Bakery Café,+14138350561,$$,3.0,01002
+239,41 Campus Center Way,coffee,bagels,bakeries,Amherst,kaiz7lD3qoC0ZJzGKQcr5A,42.390663889995,-72.5273621787637,People's Market,+14135452060,$,5.0,01003
+240,1 Campus Center Way,food_court,,,Amherst,5lZ6vYXgDWjYC2DfUfiLuw,42.391782,-72.527004,The Blue Wall,,$$,2.5,01003
+241,48 N Pleasant St,bubbletea,,,Amherst,B3gO4HN_kIu2m-KGpCmFUg,42.37642,-72.52031,ViVi Bubble Tea,+14132303809,,4.0,01002
+242,363 Main St,pizza,,,Amherst,KbFb1n-RZd5HOn2q1qOD1A,42.3757726413449,-72.5127280375822,Bruno's Pizza,+14132560222,$,3.5,01002
+243,15 E Pleasant St,danceclubs,bars,tradamerican,Amherst,rRmH0Shfb8hj_Tk0zFEOLg,42.37959,-72.51882,The Pub,+14135491200,$$,3.0,01002
+244,11 E Pleasant St,lebanese,mediterranean,sandwiches,Amherst,8OQKkdxsEaAz3bnXdoZT2g,42.3792821207804,-72.5189330801368,Malek Shawarma,+14132303375,$,4.5,01002
+245,34 E Pleasant St,divebars,,,Amherst,6qG0UnftcA8vPKbee4Qykg,42.380295895822,-72.519304879315,The Spoke,+14135497140,$,3.0,01002
+246,87 Main St,indpak,,,Amherst,bUOQz09aRLhDVV5Lg35o6w,42.375682107816,-72.518003456808,Paradise Of India Restaurant,+14132561067,$$,3.0,01002
+250,669 N Pleasant St,soup,pizza,,Amherst,_9fx7H2bsf_COclbn5xbrg,42.3936650395243,-72.5240462528631,Worcester Dining Commons,+14135452472,$,4.0,01003
+251,57 N Pleasant St,sportsbars,,,Amherst,wTJXfjD-KfETh0ZU3iQqqQ,42.376683,-72.5197028,Stackers Pub,+14132535141,$,3.0,01002
+252,30 Main St,desserts,bakeries,,Amherst,HrIxBrNE48InpMofE-dyZw,42.3757045716047,-72.5193605571985,Insomnia Cookies,+18776326654,$,2.5,01002
+253,120 Greenough Hall Basement,sandwiches,,,Amherst,Rlt9O-ZnZJwbbz5lNnOe7A,42.3904151916504,-72.5283737182617,Greeno Sub Shop,+14135452380,$,3.5,01003
+254,71 North Pleasant Street,coffee,,,Amherst,1WRP-fgtTrsBJ-HMifskqw,42.376776,-72.519619,Starbucks,+14132561669,$,3.0,01002
+255,170 N Pleasant St,bagels,breakfast_brunch,sandwiches,Amherst,A0e-tQr8h6nZ7a9VzZMgCg,42.3782241,-72.5201029,Bruegger's Bagels,+14132535713,$,2.5,01002
+256,41 Boltwood Walk,danceclubs,lounges,newamerican,Amherst,WSV-t7fuDkvZonTC-MHbPw,42.3763305335657,-72.5191700687967,Lit Restaurant & Lounge,+14133206322,$$,3.5,01002
+257,63 N Pleasant St,bars,danceclubs,,Amherst,YnPF-O9PSpWOeR_GgoNlsQ,42.37668,-72.51952,Monkey Bar & Grill,+14132591600,$$,2.5,01002
+258,37 N Pleasant St,bars,,,Amherst,JkdZsw_ASWWPYIsA2W5fsQ,42.37626,-72.51945,McMurphy's Uptown Tavern,+14132530170,$,2.5,01002
+260,104 N Pleasant St,noodles,chinese,seafood,Amherst,EqB3lqlR-iy6NOQ8JbOI0w,42.3777202,-72.5200449,Chuan Jiao Bistro,+14138350913,,3.0,01002
+261,E Pleasant St,coffee,,,Amherst,q6X2wTDiNmoueLABmILBgQ,42.3960313,-72.5154309,Field Guide To Amherst,,$$,5.0,01002
+263,157 Commonwealth Ave,cafes,coffee,,Amherst,33NPj7t3cxn_dPJiJN5-UQ,42.3882024948657,-72.5305322930217,Roots Café,+14135458402,,4.0,01002
+264,103 N Pleasant St,icecream,desserts,,Amherst,Xe-pM2plRJmcN4C577ZaRQ,42.37722,-72.51936,Bart's Ice Cream,+14137747438,$,3.0,01002
+265,390 Whitmore Administration Bldg,localflavor,arts,,Amherst,vQSm6zHwrmB45OZRgONUlA,42.386284,-72.526782,Occupy UMass,,,3.0,01003
+266,Triangle St,landmarks,,,Amherst,N7qZEvs_Pa1X1wMfX6M_KQ,42.37934,-72.51618,West Cemetery,,,4.0,01002
+267,102 Eastman Ln,desserts,pizza,sandwiches,Amherst,ZtM_ln7Tsn075y7RnDTsqQ,42.3973721265793,-72.5196287781,Sylvan Snack Bar,+14135453020,,2.0,01003
+268,96 Amity St,bars,,,Amherst,eNcBmO6KOdVnVytETfKJdg,42.3755111694336,-72.5217666625977,American Legion Post 148,+14132539036,,5.0,01002
+271,4 Main St,sandwiches,hotdogs,,Amherst,EBOKlLXepUQImS8wV4068A,42.37577,-72.51981,Subway,+14132561919,$,2.5,01002
+272,1 Campus Center Way,bakeries,desserts,,Amherst,sKZVPWPEZDs_s1RQDjPxhA,42.3918047508616,-72.5268004050629,Yum! Bakery,,,4.0,01003
+273,1 Pray St,bbq,sportsbars,,Amherst,KErm3hRz7Nde2NLlTXm9vg,42.3797092619075,-72.5187191665098,Olde Towne Tavern,+14135490050,$,3.0,01002
+274,1 Campus Center Way,coffee,bakeries,,Amherst,QZk1NGMDLd7mZJzfJGQy3A,42.3903507739305,-72.5323069095612,French Meadow Bakery & Cafe,,,4.0,01003
+275,,foodstands,,,Amherst Center,rfsbS44y-fo40Zis_9d7qg,42.3752212524414,-72.5198364257812,Bite Me Please,+14132190591,,4.0,
+276,1 Campus Center Way,salad,,,Amherst,nKmZUo1GL5gXHI42Y_41kA,42.3917175889903,-72.5265750995056,Green Fields,,,3.0,01003
+278,434 North Pleasant St,coffee,,,Amherst,DtjedCjidu7fMWNKZOdk6g,42.3852816578708,-72.5230062221967,Freedom Café -UMass,+14133452999,$,5.0,01002
+286,1 Village Sq,seafoodmarkets,seafood,,Westminster,wzs8aDcYZyAWOWghMoaGzw,42.545545,-71.914566,Angler Fish Market & Chowder,+19788742202,$$,4.0,01473
+289,163 Maple Ave,attractionfarms,newamerican,,Rutland,ldY_Cv8HJO2JO0XilE6SEQ,42.36017,-71.9415,Schultz Country Store and Barnside Cafe,+17742340405,$,4.5,01543
+291,50 Rw Moore Ave,coffee,,,Orange,weGI-7IfKVtoBT6F3HlsNQ,42.56756,-72.30018,Dean's Beans,+19785442002,$$,4.5,01364
+292,360 Timpany Blvd,asianfusion,,,Gardner,jTPPscieN_KRrwxq3Cvoxg,42.559041712705,-71.989148206288,Sawa Asian Bistro,+19786323888,$$,4.0,01440
+293,206 N Spencer Rd,tradamerican,italian,seafood,Spencer,W-if4K_9EljWBdVzXlb4SA,42.302455,-71.989682,Black & White Grille,+15088855018,$$,3.5,01562
+294,173 Pearson Blvd,breakfast_brunch,,,Gardner,P54MnoErmGdonro_OcbxCg,42.5602303,-71.9806137,Gabbys Place,+19786322282,$,4.5,01440
+296,24 Pommogussett Rd,breakfast_brunch,,,Rutland,pV8zeBYV-_DeOM-YoS6DGg,42.379295,-71.955873,Kp's Breakfast and Lunch,+15088866408,$,4.5,01543
+298,681 Pleasant St,breakfast_brunch,,,Paxton,dS4Lx9m7zrHypNavr7UqGQ,42.310719,-71.927681,Theo's Breakfast & Lunch,+15084591330,$,4.5,01612
+299,207 Daniel Shays Hwy,tradamerican,sportsbars,,Orange,lUxVsuNo5syFd_cxEplvaA,42.5542299,-72.28915,Herrick's Tavern,+19785443902,$$,4.0,01364
+301,64 Barre Paxton Rd,seafood,,,Rutland,Sp04BT3fIADzvBUnSHpMHg,42.33576,-71.96584,Ladd's Restaurant,+15088864771,$$,3.5,01543
+304,10 Village Square,newamerican,bars,,Westminster,7x3ahfSXy7WIbiyTWXP9Ow,42.5457633862712,-71.9147932863456,Blueprint American Bar And Grille,+19786685580,$$,3.5,01473
+305,1 Sawmill Rd,parks,,,Paxton,k2yJMS7-2p599r93kYAh0w,42.3082805424929,-71.9518567621708,Moore State Park,+15087923969,,5.0,01612
+306,2 Maple Ave,diners,,,Rutland,zO6XVdcnBaFIiG9rxdKVrw,42.3768478631973,-71.9532662630081,Heavy Evie's Diner,+17742340600,$,4.0,01543
+309,7 Village Sq,chinese,,,Westminster,TVd2898Jy_u8ro-GLrZEIQ,42.5467888580999,-71.9142293930054,Green Tea,+19788742288,$$,4.5,01473
+311,196 State Rd W,icecream,seafood,,Westminster,6X755NM6my9JyexFB_XX_A,42.5517,-71.9587,Kay's Dairy Bar,+19786327191,$$,4.0,01473
+312,487 Chestnut St,pizza,,,Gardner,mRj1oNilgeEiMyTDE-XRFA,42.56806,-71.98405,Sorrento's Brick Oven Pizza,+19786300045,$$,3.5,01440
+313,224 Barre Paxton Rd,seafood,tradamerican,,Rutland,KI0RQ0NbbiO7AM4I8fODxw,42.3497930914164,-71.9850182533264,Still Four Corners,+15088866666,$,4.0,01543
+315,35 State Rd,tradamerican,,,Phillipston,MsAsPmMTX5uPzvmVov6B9w,42.5698651,-72.1321599,King Phillip Restaurant,+19782496300,$$,3.0,01331
+316,51 Main St,breakfast_brunch,seafood,icecream,Westminster,bxPkkUUZSgpcIECmiOVHBA,42.54877,-71.91756,Westminster Cafe,+19788741833,$,4.0,01473
+317,486 Chestnut St,cafes,,,Gardner,LD-RgCjEvITIBLap0VuSeA,42.5682063218004,-71.9837307929993,Cafe Edesia,+19786301555,$,3.5,01440
+319,184 Pearson Blvd,newamerican,seafood,sandwiches,Gardner,lfQN5QSEPMr4ng0eW3lvEA,42.55953,-71.98036,Williams Restaurant,+19786327794,$$,3.5,01440
+320,677 Pleasant St,pizza,,,Paxton,weSMNlLoYuqL2wXmNHOsKQ,42.31029,-71.92717,Paxton House of Pizza,+15087556680,,4.5,01612
+322,625 Betty Spring Rd,tradamerican,seafood,pizza,Gardner,EZhQ41NJaq4no3RTzs7cmw,42.562668,-71.949158,Colonial Grille,+19786302500,$$,3.5,01440
+323,146 Patriots Rd,pizza,tradamerican,,Templeton,pSBQkytH3cknYyZVcREyvg,42.5615082,-72.038887,Patriots Roast Beef and Grill,+19786329951,$,3.5,01468
+324,249 Main St,bars,tradamerican,pizza,Rutland,i8CP0pPlUwa4C_e0Zt3jSw,42.3759484186041,-71.9545865803957,Center Tree Bar & Grill,+17742340234,,4.5,01543
+325,68 Main St,pizza,italian,breakfast_brunch,Westminster,kKKJ4J05Jii-oAc6oEJifg,42.5484099,-71.91575,Town House of Pizza,+19788740326,$,4.0,01473
+326,51 Ellis Rd,newamerican,breakfast_brunch,bars,Westminster,xd-G4ijhAy3m3UUwecSF8w,42.54569,-71.93143,Albatross,+19788745900,,5.0,01473
+329,119 Patriots Rd,tradamerican,,,East Templeton,6eDMigdX2fH32_2cuaHzpw,42.56267,-72.03679,JK Crossroads,+19786327070,$$,3.0,01438
+332,136 Marshall St,golf,,,Paxton,qD51vvp5Zf5DgPEGy7yfDQ,42.289863,-71.929451,Kettle Brook Golf Club,+15087994653,,4.0,01612
+333,68 Worcester Rd,beaches,,,Hubbardston,tBauEJYnHcxpwnwLEWcsSw,42.455861,-71.983868,Asnacomet Pond Beach,,,5.0,01452
+334,242 W Broadway,tradamerican,mexican,,Gardner,Er46vYBcDS6EjNNSUkZymA,42.56069,-71.98926,Southside Grille & Margarita Factory,+19786321057,$$,2.5,01440
+335,87 Main St,pizza,seafood,,Rutland,CHSG_1GTPDJtbP7CMjNVVw,42.37652,-71.93563,Toula's House of Pizza,+15088868888,$,3.5,01543
+336,249 Main St,customcakes,bakeries,cupcakes,Rutland,WUBBMUh08s1pKWbYkxptng,42.37602,-71.95448,Baked,+15088869000,,5.0,01543
+337,52 Pearson Blvd,pizza,,,Gardner,boiEL8LxY8US_zN67Hd8gQ,42.5662419,-71.9800468,Patriot Pizza & Subs,+19786324500,$$,3.5,01440
+338,249 Main St,chinese,,,Rutland,caZ_VkDE5opTNQ_uHR-p9w,42.3760185,-71.954483,Yang's Kitchen,+15088862228,$,3.5,01543
+340,42 Pearson Blvd,chinese,,,Gardner,-6SXunk8sa57KHosd5CSYQ,42.5662039,-71.9769619,Yen Yen Chinese Restaurant,+19786301535,$$,2.5,01440
+341,5 Maple Ave,pizza,,,Rutland,Nwd8vF2dgSY5JP2zc0qMAQ,42.3766975,-71.9528885,Rutland House of Pizza,+15088862500,$$,3.0,01543
+342,203 Turner Ln,bakeries,,,Templeton,GPcR3rmPPC2x6LMTyxKN9w,42.5466499328613,-72.0271377563477,Cakes For All Occasions,+19786327634,$$,5.0,01468
+346,207 Daniel Shay Hwy,tradamerican,,,Orange,yiV75hVHG23qJ3ESA1MzRg,42.55423,-72.28915,202 Grill Nos/Age,+19785443902,$$$,3.5,01364
+347,2443 Main St,florists,farmersmarket,icecream,Holden,0dNeiTxzet3fPCH8cjyaWA,42.371128,-71.922613,Howe's Country Store,+15088292517,,3.5,01520
+350,15 W Broadway,pizza,,,Gardner,PhQ3uxMgUl-T6aAKhoQZ9A,42.5579833984375,-71.9809036254883,West Broadway Pizza,+19786303111,$$,3.5,01440
+351,326 Timpany Blvd,pizza,,,Gardner,eIl4-S0XOnUZ4SLZrcaJgw,42.55884,-71.98973,Papa Gino's Pizzeria,+19786328051,$,2.5,01440
+352,105 Main St,pizza,salad,sandwiches,Westminster,37gP7ifq1CpZz9L9Pz80YQ,42.546079,-71.91376,Stefanos' House of Pizza,+19788741922,$,3.0,01473
+353,28 Pearson Blvd,hotdogs,burgers,,Gardner,e331pQV1I-SSnWw_w0PfMA,42.56622,-71.97991,Wendy's,+19786303490,$,3.5,01440
+354,8 E Broadway,bars,tradamerican,,Gardner,a8wLG4HuNxWHoEYtNrYogw,42.557515,-71.980038,South Gardner Hotel,+19786301322,$,3.5,01440
+355,223 Timpany Blvd,hotdogs,burgers,coffee,Gardner,bVbAQw_laKoEw8HUBEdj5w,42.5632433186274,-71.99085699943,McDonald's,+19786329859,$,2.5,01440
+356,2 Crawford Rd,hiking,parks,mountainbiking,Rutland,5coWMgNItpX72uewSyHhuA,42.3606731087079,-71.9931088374317,Rutland State Park,,,4.0,01543
+357,17 Pearson St.,donuts,coffee,,Gardner,o7fvK7SVQ8d7GoWf6RKJzg,42.5658,-71.97989,Dunkin' Donuts,+19786301150,$,4.0,01440
+358,Westminster Plaza,donuts,coffee,,Westminster,NzeF00Ipim1hYdYhWOREVw,42.5464,-71.91433,Dunkin' Donuts,+19788740070,$,4.0,01473
+359,18 Pearson Blvd,icecream,burgers,tradamerican,Gardner,3ejotiHbd3qB8M1ZSr6iuw,42.566247470663,-71.979320066874,Friendly's,+19786301821,$,2.0,01440
+360,29 Dowds Ln,icecream,foodstands,,Princeton,aWYujjBXWiC-8oY7MrZG3w,42.4229399,-71.92728,Wild Child Express,+19784644570,,5.0,01541
+361,51 Main St,icecream,,,Westminster,DSqFDWWHmd-tBeB7_wV33g,42.54879,-71.9174881,Mountain Ice Cream & Video,+19788740590,,4.5,01473
+362,167 Daniel Shays Hwy,donuts,coffee,,Orange,HoMx4n9cznAFujoBpaEdPw,42.55749,-72.28551,Dunkin' Donuts,+19785445554,$,3.5,01364
+363,207 Daniel Shays Hwy,golf,,,Orange,assyEGQORTl7dOAi9No7rg,42.5542299,-72.28915,202 Driving Range,+19785440977,,3.5,01364
+364,607 Pleasant St,donuts,coffee,,Paxton,utkEKI9OeNQp8d2LBpMU4Q,42.30653,-71.92376,Dunkin' Donuts,+15087536426,$,2.5,01612
+366,35 State Rd,hotels,restaurants,,Phillipston,Kr3vRRhCDsLj6LY6OEaR5A,42.5698651,-72.1321599,King Phillip Motel,+19782495300,,3.0,01331
+367,30 Pearson Blvd,sandwiches,hotdogs,,Gardner,ca-cNiTee3s_oxTewG1CDg,42.566088,-71.977446,Subway,+19786325213,$,3.5,01440
+368,255 Main St,donuts,coffee,,Rutland,Qh7Cgq8r1RTKrmGEvVSCUw,42.37585,-71.95505,Dunkin' Donuts,+15088860294,$,1.5,01543
+369,97 Main St,sandwiches,,,Westminster,iFhZ31feMlCA1F6H-rLVUA,42.5464,-71.91433,Subway,+19788742185,$,3.5,01473
+370,19 Union Sq,restaurants,,,Gardner,3PdRmNoO-NYX1eU3Zu3A1w,42.567081451416,-71.9835357666016,Jade II,+19786308868,,2.5,01440
+372,33 Pearson Blvd,donuts,coffee,,Gardner,ovZI1j_QC9wLIBT7mF8Dcw,42.5653999,-71.97898,Dunkin' Donuts,+19786320474,$,3.0,01440
+373,8 Pearson Blvd,hotdogs,chicken_wings,chickenshop,Gardner,Y-INEv-QS9f7qJVDe5HjTA,42.5663,-71.9806,KFC,+19786302011,$,2.0,01440
+374,32 Main Street,pizza,,,Hubbardston,5um6bgKp_RBrNh3pyS5Gig,42.4784779082112,-72.0091371899555,Family Kitchen,+19788201440,,1.0,01452
+375,132 Patriots Rd,pizza,burgers,delis,Templeton,TrnTjJ1-_E6C73HYGLwsKw,42.5620072921407,-72.0375560224056,Reno's Pizza,+19786323200,,5.0,01438
+376,324 North Main St,museums,,,Petersham,Zp3ZmR7j6OKX0cMc0BSNAg,42.5282744,-72.1875772,Fisher Museum,+19787243302,,4.0,01366
+377,163 Patriots Rd.,donuts,coffee,,East Templeton,J1f4j6m0N6GiWouGqPYdSg,42.561405,-72.040679,Dunkin' Donuts,+19786309989,$,2.0,01468
+384,146 State St,breakfast_brunch,coffee,cafes,Belchertown,gDTCV0OBNL7Kk3c3_rg4Fg,42.2690146,-72.415876,Almeida's Country Cafe,+14133236360,$,4.0,01007
+386,178 Federal St,breakfast_brunch,cafes,,Belchertown,Lwjwq2MI6EBw-adaJCv4zQ,42.29843,-72.41532,Roadhouse Cafe,+14133236175,$$,3.5,01007
+388,37 State St,italian,pizza,,Belchertown,pJ_sOJl6j4NULj38TLlSpg,42.271956,-72.410926,La Trattoria Pizzeria & Ristorante,+14133230706,$,4.0,01007
+391,62 Turkey Hill Rd,italian,tradamerican,greek,Belchertown,i1290e-E1YNWw3vusBjMKg,42.26436,-72.41944,The Grapevine Grille,+14133234117,$$,3.5,01007
+407,481 West St,pizza,chicken_wings,vegan,Amherst,08KuvUqdONvE2YE9OGKqWQ,42.339745,-72.520776,Sibie's Pizza,+14132566100,$,3.5,01002
+408,30 Boltwood Ave,newamerican,bars,breakfast_brunch,Amherst,BV7lzWCXot_NQaQ5YS9z7Q,42.37452,-72.51826,30 Boltwood,+14138352011,$$$,3.5,01002
+413,546 Center St,pizza,,,Ludlow,AR37mJt6vRJfHQqkK87_lA,42.17423,-72.47452,Palermo's Restaurant & Pizzeria,+14135891416,$,4.0,01056
+415,973 East St,pizza,,,Ludlow,63xKdxToPIiBZj5Isiq91w,42.171461,-72.444013,Oscar's Pizza Restaurant,+14135476010,$,3.5,01056
+417,37 State St,donuts,coffee,,Belchertown,L5TvhkiLhuEV0mcbJbR2uQ,42.2719573974609,-72.4109268188477,Dunkin' Donuts,+14133236384,$,4.0,01007
+418,65 University Dr,greek,pizza,chicken_wings,Amherst,Im68PoWLtYHB7AcxGfoM_A,42.371578,-72.533959,Athena's Pizza,+14135499900,$,4.0,01002
+423,1500 West St,hiking,parks,,Amherst,ozgaUbx64COxUIvjsAYg1w,42.3058561,-72.5293021,Holyoke Range State Park,+14132532883,,5.0,01002
+425,172 W State St,golf,mini_golf,,Granby,LpKT70NyMXSUj676Cb9nWA,42.253902,-72.528409,Happy Days Family Fun Spot,+14133545808,,5.0,01033
+426,314 College St,newamerican,breakfast_brunch,,Amherst,WQkrz00jNyQsaJadxL0h7Q,42.373229,-72.503424,Kelly's Restaurant,+14132539521,$,3.5,01002
+429,11 Barrett Hill Rd,museums,,,Amherst,_3J0oVaaH92_lK2EFw9nVA,42.3719812047151,-72.5142779999403,Beneski Museum of Natural History,+14135422165,,4.0,01002
+430,434 E State St,bakeries,,,Granby,r7Kjc61f_ITIzMo0IKWYMw,42.26403,-72.48446,Tirozzi’s Bakery,+14132712766,,4.5,01033
+431,68 Nash Hill Rd,zoos,,,Ludlow,dACUAy5h9wXMPWF6Xu9Ilg,42.19882,-72.49152,Lupa Game Farm,+14135838370,,2.5,01056
+432,1021 West St,theater,educationservices,museums,Amherst,vCJ1xBWnos-OdB2V4LZ6-A,42.321529408859,-72.527878433706,Yiddish Book Center,+14132564900,,4.5,01002
+434,455 Russell St,icecream,burgers,tradamerican,Hadley,R_Dbzv_Qldr8iQSurwMgNQ,42.3637771606445,-72.5378112792969,Friendly's,+14132537640,$$,4.0,01035
+435,Mass Pike Plaza Milepost Marker 60,sandwiches,,,Ludlow,AN0qA-CvLXIZV86DLS0hqg,42.171,-72.4554988871617,D'angelo Sandwich,+14135899321,,3.5,01056
+436,19-59 Taylor St,dog_parks,,,Granby,APiYnSJWrA8e3gO1lVxcpw,42.2569756629656,-72.504540681839,Dog Park at Dufresne Park,,,3.5,01033
+437,191 W Pomeroy Ln,golf,,,Amherst,5UWkbSgFRIOdevprXJqQMQ,42.343113,-72.528673,Hickory Ridge Golf Club,+14132303360,,4.5,01002
+438,1500 W St,hiking,,,Amherst,dwaIBrjZ1etECuiGQ0re2g,42.3052144359866,-72.5277619063854,The Notch,+14132532883,,4.5,01002
+439,20 Belchertown Rd,chinese,hotpot,,Amherst,gjEJbmb3zxK79b1gCZkEUw,42.37233,-72.49943,North Hot Pot,+14138350351,,3.5,01002
+440,481 Center St,italian,,,Ludlow,GyiGG91uCWHNkg8uUJHbDg,42.17153,-72.47933,Joy's Restaurant,+14135472640,$,3.0,01056
+441,456 Center St.,coffee,,,Ludlow,Z09Fmcr7_gGH0ObNI41tJQ,42.169853,-72.479528,Starbucks,+14133359917,$$,3.0,01056
+442,460 West St,chinese,,,Amherst,aZ0spgQ-Hfr3j8OLbtQ8kQ,42.3407759993207,-72.5196475170102,Zhang's Kitchen,+14132530584,$,2.0,01002
+443,Umass Campus And Beyond,streetvendors,,,Amherst,VXua65ANlPYKtEBSmGp6CQ,42.3707695007324,-72.533203125,Baby Berk,+14135452472,$,4.5,
+444,1149 Center St,hiking,,,Ludlow,F2ugsOHlbc_IYm51qTx--w,42.1985422920656,-72.434058599174,Ludlow Reservoir,+14135833909,,4.0,01056
+445,27 White Birch Plz,chinese,,,Chicopee,9Vn2Ol3v1B3OOm1j8-Bu7g,42.173807,-72.534199,Great Wall,+14135924504,$$,4.0,01020
+446,,cupcakes,bakeries,desserts,Amherst,hKymjYCGlFmSaZyE-Tx72w,42.366667,-72.516667,Auntie M's Bakeshoppe,+14136877450,,4.0,01002
+447,312 College St,donuts,coffee,,Amherst,jZsabhZHuC0aBX88qP53pg,42.373347,-72.503946,Dunkin' Donuts,+14132563425,$,2.0,01002
+448,771 Burnett Rd,breakfast_brunch,,,Chicopee,6P4QXEPF6LlOapSRenAaRQ,42.17407,-72.53474,Country Trading & Restaurant,+14135921641,$,3.0,01020
+451,41 Quadrangle Dr,artmuseums,,,Amherst,5vO-OlU2_1bq7gKSkHCYWQ,42.3708874161788,-72.5155242727572,Mead Art Museum,+14135422335,,3.5,01002
+452,459 Russell St,pizza,chicken_wings,sandwiches,Hadley,Eu9D2dTHMxUZifR8Nw_7sg,42.36456463353,-72.5365933603404,Domino's Pizza,+14132568911,$,1.5,01035
+453,187 College Road,bakeries,,,Southport,zI2oZqoHr5ikRni2whYgYg,53.4869804,-3.0338268,David Cakes Of Distinction,,,4.0,L23 3AT
+454,175 University Dr,donuts,coffee,,Amherst,LJzes4GfuyV-yd1JlD5q_A,42.367478,-72.53405,Dunkin' Donuts,+14132560719,$,1.5,01002
+456,,localflavor,,,Amherst,oSUgFLgqDKfZXayGxISXOQ,42.37077,-72.53321,Taste of Amherst,,,5.0,01002
+457,570 Burnett Rd,parks,,,Chicopee,4wZdRhYy9gda_7clsU7qgA,42.17122,-72.53983,Chicopee Memorial State Park,+14135949416,,5.0,01020
+458,257 Fuller St,pizza,,,Ludlow,clTGqlSS0PZftqYiuLE0QA,42.180795,-72.487059,Ludlow Pizza,+14135834077,$,2.5,01056
+459,477 Center St,sandwiches,hotdogs,,Ludlow,ez4AzmdJiafQdc4Gk9BQFA,42.17141,-72.47968,Subway,+14135478370,$,3.0,01056
+460,145A N Main St,pizza,italian,chicken_wings,Belchertown,4WtYm41hw7hiMU5BxSxA8w,42.2885820507419,-72.4075278639793,Pizza Hut,+14133230900,,1.0,01007
+461,4 Harding Ave,donuts,coffee,breakfast_brunch,Ludlow,zBciK1USsF2mkSna7PrQvg,42.17086,-72.48011,Dunkin'donuts,+14135833482,$,1.5,01056
+462,I-90 Sw Area 4W,coffee,,,Ludlow,0t8OEBLHNydYypYegN6rXw,42.171056,-72.454445,Starbucks,+14136367500,$,1.5,01056
+464,59 College St,tradamerican,diners,breakfast_brunch,Amherst,-QyJ17Tl5StCDa-J4tWCQw,42.3731250339904,-72.51625,Valentine Dining Hall,+14135422220,,2.5,01002
+467,172 W State St,diners,breakfast_brunch,tradamerican,Granby,6syoJQk4jH34ix5ox1zzkQ,42.252963,-72.527756,Cruis-in Cafe,+14134679073,,1.0,01033
+468,181 University Dr,vietnamese,sandwiches,,Amherst,1K-cj8tD7mHMuDxvkeI-xw,42.36781,-72.53494,Omi Omy,+14132303766,,4.0,01002
+469,,streetvendors,,,Amherst,S3ixWlItI6GiZ9Bg5cWzkA,42.3752593994141,-72.5189514160156,Berkshire Dining Common,,$$,3.0,
+496,69 Franklin St,mexican,tex-mex,,Westfield,9liFsX4ASC-aulosutlblQ,42.12576,-72.75269,Mi Ranchito Tex Mex,+14135681150,$,4.0,01085
+497,400 Western Ave,playgrounds,parks,hiking,Westfield,aGQaV_m_xMppWBxbwLI-bQ,42.12615,-72.79067,Stanley Park,+14135689312,,4.0,01085
+498,784 College Hwy,breakfast_brunch,burgers,,Southwick,BpAyDg26jMIPVX5qWlZUxQ,42.0852923936762,-72.7651793422864,D&J's Hash House,+14138316082,$$,3.5,01077
+499,46 Main Rd,tradamerican,mexican,breakfast_brunch,Montgomery,625FRIW_XeYQDooSanOH4w,42.206230173471,-72.8008604049683,Montgomery Grille,+14138623663,,5.0,01085
+502,106 Point Grove Rd,bars,newamerican,,Southwick,_fbnH1lHAzDKswzdn8J2yg,42.0415878295898,-72.7553100585938,Nora's Restaurant,+14135699585,$$$,3.5,01077
+509,610 College Hwy,chinese,,,Southwick,GBeWGwKZu_URwU1tl17VRQ,42.063179,-72.7645921,New Main Moon Chinese Restaurant,+14135691234,$,3.5,01077
+510,57 Southwick Rd,newamerican,pizza,,Westfield,kL-FqrnTERfQUpzlsKIrgw,42.1088089,-72.7648151,Bella Roma Pizza,+14136425656,$,3.0,01085
+511,63 Southwick Rd,newamerican,,,Westfield,xI-cP_d_HDTf2PutrKFWTg,42.1085356,-72.7648185,Yankee Village Restaurant,+14135721224,$,3.5,01085
+512,568 College Hwy,coffee,,,Southwick,UbtiIFt53nUJXrOSsfJzrw,42.059899,-72.765259,The Daily Grind,+14135692500,$$,4.0,01077
+513,76 Franklin St,chinese,,,Westfield,MTzTTIUF_uMQp2P0WaZgpg,42.125347,-72.753719,Tung Shing Dragon,+14135724522,$$,3.0,01085
+514,65 Sunnyside Rd,golf,venues,,Southwick,c5TLS5K7gICwQ9qb4n-LYg,42.08465,-72.77369,The Ranch Golf Club,+14135699333,,3.5,01077
+515,625 College Hwy,tradamerican,venues,wine_bars,Southwick,VazvqfJnJ1Rv7K0pDBfE0w,42.0647039134398,-72.7647228702056,Tucker's Restaurant,+14135690120,$$,3.5,01077
+516,36 Southwick Rd,chinese,buffets,,Westfield,7WcO9LZyhcQcQo_qWKrm2w,42.1093406677246,-72.7643814086914,China Star,+14135689698,$,3.0,01085
+518,11 Arnold St,bars,burgers,,Westfield,98NOrHpP8oM6MDcIbgM02g,42.1230392456055,-72.7492218017578,Maple Leaf Bar & Grill,+14135625068,$$,3.0,01085
+519,610 College Hwy,breakfast_brunch,tradamerican,,Southwick,C8sZqgLpXgUAD4FoLwND9w,42.063179,-72.7645921,Gristmill Cafe,+14135693000,,4.5,01077
+520,249A College Hwy,bakeries,markets,,Southwick,XUaXJID6jLs3CAmkvDTFhQ,42.0311546325684,-72.791145324707,Blossoming Acres Putnam Farm,+14135693663,$,4.0,01077
+523,31B Franklin St,pizza,,,Westfield,KKtvGPtMcIizZwV-HTfewQ,42.12474,-72.7491,Valley Pizza,+14134850066,,3.0,01085
+524,561 College Hwy,pizza,,,Southwick,XqIn43rbVwYglfSI9aO5JA,42.0605,-72.76873,Roma Restaurant,+14135696315,$$,3.0,01077
+525,515 College Hwy,pizza,,,Southwick,g_Z91F4sXjvoPPum7nSa7A,42.057816,-72.768672,Village Pizza Restaurant,+14135693160,$$,3.0,01077
+526,3 Main St,delis,tradamerican,sandwiches,Westfield,Q5GWdipUWMJomzgGx8SYoA,42.121242,-72.7489103,Leo's Gallery Deli,+14135682586,$,3.5,01085
+528,479 College Hwy,bars,,,Southwick,ZH3EOJSlkP4N51T21i_WpQ,42.055012,-72.770337,Southwick Inn,+14135695031,$$,3.5,01077
+529,610 College Hwy,delis,sandwiches,bakeries,Southwick,BZ3NZeta65lK-8rsB5KuUg,42.0629339737052,-72.7636916321636,Pasticceria Italia,+14135692250,$$,3.0,01077
+532,648 College Hwy,chinese,,,Southwick,Ih17NKWk7pb2yJX3HGw4aw,42.067104,-72.764068,New King Yen Too,+14135699888,$$,2.5,01077
+534,25 Point Grove Rd,sportsbars,,,Southwick,GVlHNPu2wZDP2otNLrrLjA,42.0460243,-72.7631226,Sky Box Sports Bar,+14139980555,,4.0,01077
+537,358 Southwick Rd,pizza,salad,,Westfield,GtL1D9N0eA0UuR4Hcu164Q,42.0985981822014,-72.7632819861174,Gigi's Pizzeria,+14135620887,$$,1.5,01085
+538,29 S Broad St,childrensmuseums,,,Westfield,Dq7tsDcyZM1wOTQTDI073A,42.1117013686745,-72.7507127300635,Amelia Park Children's Museum,+14135724014,,2.5,01085
+540,6 Southwick Rd,coffee,donuts,,Westfield,wMcPGF0A-3xi66mZsCvLXA,42.111125,-72.764345,Dunkin' Donuts,+14135626036,$,3.5,01085
+541,65 Sunny Side Rd,tradamerican,,,Southwick,RbUXu0Dr79pTDSjOUFH-hA,42.0861460268497,-72.7745874971151,The Ranch Tavern,+14135699333,$$,5.0,01077
+542,Main St And Rte 202,landmarks,,,Westfield,hFcTIPP0VaIc9Lxe7XIrYA,42.1214436,-72.7489563,General Henry Knox Marker,,,5.0,01085
+543,18 School St,bakeries,customcakes,,Westfield,2CZspTUHuzx0kFYZbwwidw,42.121272,-72.749918,JP's Totally Baked Goods,+14136426686,,5.0,01085
+546,161 Sheep Pasture Rd,restaurants,,,Southwick,KlooJx4jsR0RDFY7qf5FBQ,42.0416877418756,-72.7671906352043,Edgewood Golf Course Restaurant,+14135695401,$,4.0,01077
+550,101 Point Grove Rd,asianfusion,cocktailbars,tapas,Southwick,5HeBUKMSh8MHAEcK3-XIFA,42.041237,-72.756134,Wok on Water,+14135699651,,4.0,01077
+551,116 Elm St,chinese,,,Westfield,ON0INzwLTAeckQNNGr6WQg,42.123119354248,-72.7487716674805,Real China,+14135689991,,1.5,01085
+552,535 College Hwy,sandwiches,hotdogs,,Southwick,fruKmXZY1tao07hOhJWtCA,42.0586967468262,-72.7676620483398,Subway,+14135690869,$,2.5,01077
+553,397 College Hwy,donuts,coffee,,Southwick,puH0c3OI1Dd4pcrrWk9ALQ,42.0559095887676,-72.7694099016528,Dunkin' Donuts,+14135699144,$,1.0,01077
+554,161 Sheep Pasture Rd,golf,,,Southwick,8e7y6D2PjgSCnMdOH-Gbdg,42.0416877418756,-72.7671906352043,Edgewood Golf Course,+14135696826,,3.0,01077
+560,2054 Bridge St,italian,,,Three Rivers,6EmNAWSo0EWjwiP9G8zFWw,42.181665,-72.367511,Pinocchio's Ristorante,+14132840202,$$,3.0,01080
+561,4175 Pleasant St,bakeries,,,Thorndike,QwMFE2bxGuKzqDcHyNYoFw,42.195107,-72.340996,Tyburski's Countryside Bakery,+14132833173,$,4.0,01079
+562,1219 Thorndike St,chicken_wings,pizza,sandwiches,Palmer,DqykbdUgYwboKgNhqjuAIA,42.1744194030762,-72.3206405639648,Domino's Pizza,+14132896245,$,4.0,01069
+563,1184 Thorndike St,coffee,burgers,hotdogs,Palmer,i36ybHMGuHOgH7BN7cFN1A,42.1744,-72.32263,McDonald's,+14132839095,$,2.5,01069
+564,1213 Thorndike St,burgers,hotdogs,,Palmer,MwToLNoS7ocAP983G30vrg,42.1737670898438,-72.3224945068359,Wendy's,+14132833037,$,2.0,01069
+565,6201 S I-45,hotdogs,sandwiches,,Palmer,IpbxmvGylhsedcfuvkswgw,32.41635,-96.658956,Subway,+14132834570,$,1.0,75152
+566,2052 Main St,seafood,sandwiches,burgers,Three Rivers,5Cx_U0_NCW4GQfpeaf50rw,42.18104,-72.36299,Radar's Pub,+14132836989,,1.0,01080
+568,392 Main St,bbq,sandwiches,,Sturbridge,OBhbnRg34SUC2CiWSg39zg,42.111246811233,-72.094700341653,B.T.'s Smokehouse,+15083473188,$$,4.5,01566
+569,376 Main St,seafood,cocktailbars,,Sturbridge,Tj_HA19wOFNTttpgI9Oghg,42.1110211366217,-72.0949529,Sturbridge Seafood,+15083472600,$$,4.0,01566
+570,12 Cedar St,newamerican,bars,,Sturbridge,Xgfi4591xeqagTByrp1JCw,42.11328,-72.09685,Cedar Street Grille,+15083475800,$$,4.0,01566
+571,479 Main St,sushi,japanese,seafood,Fiskdale,3Z9VY5355u-Pk8mqPSeNgQ,42.1140959214547,-72.1061149612069,Kaizen Sushi Bar & Grill,+15083471088,$$,4.0,01518
+572,25 Brookfield Rd,breakfast_brunch,,,Fiskdale,sZ0p22_iFpei323pgUw8tQ,42.1167144775391,-72.1180419921875,Old Village Grille,+15083472255,$$,4.5,01518
+573,559 Main St,tradamerican,salad,soup,Fiskdale,3NY6GIUCr-ZnypGT3kD-0w,42.11572,-72.11337,Soup To Nuts,+15083479771,$,4.5,01518
+574,453 Main St,japanese,sushi,hotpot,Sturbridge,OgiLAYr-UVwtOJvN2xqP7w,42.1131134033203,-72.1032867431641,Baba Sushi,+17743041068,$$,4.5,01518
+575,1 Old Sturbridge Village Rd,museums,,,Sturbridge,CmZM-WAPT-r8bzo1X2YJMQ,42.1089447617257,-72.0987662262115,Old Sturbridge Village,+18007331830,,4.0,01566
+576,52 Palmer Rd,cafes,,,Brimfield,aGFyqgUCXsusLVNCxZCGBw,42.120546,-72.216371,Apple Barn Cafe,+14132454575,$,4.0,01010
+577,28 Depot St,tradamerican,bars,breakfast_brunch,Palmer,uAyUmojSQXzAhpTrOyF00A,42.15578,-72.3292,Steaming Tender Restaurant,+14132832744,$$,4.0,01069
+578,45 Palmer Rd,italian,pizza,,Brimfield,AbtBV17tzg0-IqHnydKqsw,42.1200899,-72.2150277,Francesco's Restaurant,+14132454640,$$,3.5,01010
+579,3 Arnold Rd,breweries,jazzandblues,tapasmallplates,Fiskdale,SajwcXf2pvMEKwnB20qFiA,42.1147600996541,-72.1065116787681,Homefield Kitchen & Brewery,+17742426365,$$,4.5,01518
+580,1257 Buckley Hwy,tradamerican,,,Union,R-J4SqIZeJD_iHXvTUnqbA,42.0253299,-72.13991,Traveler Restaurant,+18606844920,$$,4.0,06076
+581,210 Hamilton St,coffee,,,Southbridge,0WzVSYQ5-8Y2QlZOPFiuzA,42.0800772,-72.035466,Sturbridge Coffee Roasters,+15087655520,$,5.0,01550
+582,502 Main St,newamerican,,,Sturbridge,vDFiWgMLhkHSOxTwxUkuDg,42.1152532,-72.1083662,The Duck,+15083472321,$$,3.5,01566
+583,111 E Hill Rd,icecream,tradamerican,,Monson,aJleDSvGLb0dLrH8GPbVPg,42.09952,-72.2844,Westview Farm Creamery,+14132675355,$,4.5,01057
+584,140 Main St,diners,breakfast_brunch,tradamerican,Sturbridge,myeXXntCGzO1I77zfpa-kg,42.09361,-72.06773,Annie's Country Kitchen,+15083472320,$,4.0,01566
+585,420 Main St,cafes,coffee,sandwiches,Sturbridge,Mhc3mcpYnT4B8iEHSZf2Sg,42.112913536056,-72.0982651412487,Cedar Street Café,+15083476800,$,4.0,01566
+586,502 Main St,italian,,,Sturbridge,9zY1OSIH3cq3_bk-QavVLg,42.115324,-72.108366,Avellino,+15083472321,$$,4.0,01518
+587,176 Main St,french,,,Southbridge,HFSgx8AqyNaLVk8Ho_ATBA,42.0743435,-72.031125,The Metro Bistrot,+15087642073,$$,4.5,01550
+588,500 Main St,pizza,,,Sturbridge,3D10PFQnnqC94qkXe5TNqA,42.11526,-72.1077,Enricos Brick Oven Pizzeria,+15083471740,$$,3.5,01518
+589,371 Main St,thai,,,Sturbridge,4eJhLya5NEK4wpAOWBwJHQ,42.11048,-72.09087,The Thai Place,+15083472999,$$,3.5,01566
+590,179 Main St,pubs,tradamerican,,Sturbridge,fo_PdfhtHdZUvTR2QUgMCA,42.096327,-72.072453,Teddy G's,+15083471900,$$,3.5,01566
+591,407 Main St,tradamerican,salad,cocktailbars,Sturbridge,O8RUnchuFOKrWg88txImOA,42.11097,-72.09596,Sturbridge Porterhouse,+15083472700,$$$,4.0,01566
+592,57 Main St,pizza,,,Sturbridge,OYcyLRQP551-8KpTHxeq0w,42.0871878421181,-72.0623428423839,Napoli Pizzeria III,+15083478225,$,4.5,01566
+593,1427 N Main St,sushi,chinese,japanese,Palmer,r_Zv8AQJ7V8_Bc5H275Zmw,42.1581185,-72.3303866,Wen Ming House,+14132896478,$$,4.5,01069
+594,450 Main St,tradamerican,breakfast_brunch,burgers,Sturbridge,6-UBeV-s9neyFr_u6hMh9w,42.11605,-72.10226,Churchill's Village Eatery,+15083477455,$,4.0,01518
+595,407B Main St,tradamerican,coffee,breakfast_brunch,Sturbridge,xHaYttFhZE8GwhkPXP0r8w,42.11097,-72.09596,Sturbridge Coffee House,+15083472288,$,4.0,01566
+597,90 Charlton St,thai,,,Southbridge,g9IrY-bv316Znx-bJ6JIHA,42.0788953453302,-72.027493044734,Thai Orchid,+15087654809,$,4.5,01550
+598,,localflavor,,,Brimfield,MGC4yEUYjDCVWJY5hXLCtQ,42.127311706543,-72.1961441040039,Town of Brimfield,,,5.0,01010
+599,413 Main St,icecream,sandwiches,,Sturbridge,1t09LSm3g0nBY_VDZ5b-PA,42.111444,-72.097315,Jimmy D's,+17743041023,$,4.0,01518
+600,215 Charlton Rd,tradamerican,breakfast_brunch,southern,Sturbridge,K3bdvsIEAHX53hBMGuko8Q,42.1162022993265,-72.0665799951547,Cracker Barrel Old Country Store,+15083478925,$$,3.5,01566
+601,936 Main St,tex-mex,mexican,,Southbridge,Sot1yKepx0fuZ8hS8FT9aw,42.0819542527904,-72.0476240292192,Burrito Hut,,$,4.5,01550
+602,39 Elm St,diners,breakfast_brunch,,Southbridge,B4nNgnSMIqxGNyksVG1VZw,42.073748,-72.033803,Elm Centre Cafe,+15087647288,$,4.5,01550
+603,2048 Main St,delis,sandwiches,breakfast_brunch,Three Rivers,B64xV_p3vrtrcyRoFK2DIQ,42.180909,-72.363095,Burgundy Brook Cafe,+14132896359,$$,3.5,01080
+604,5 Brimfield Rd,italian,,,Holland,P4qT5mxnKXKpdE4G3WIUYA,42.0660911,-72.1638886,Dianes Villa Nova,+14132459090,$$,4.0,01521
+605,16 Holland Rd,irish_pubs,tradamerican,diners,Holland,UVo_ZqEbVZ3etybVhYOmLw,42.0777236263114,-72.2023394443603,Wales Irish Pub,+14132459730,$$,4.5,01521
+610,1376 Main St,breakfast_brunch,,,Palmer,5XNM4ZhQAO64mQcEatrFpw,42.1563998023598,-72.3289753496647,Angel's 1376 Palmer Restaurant,+14132896956,,4.5,01069
+613,1033 Thorndike St,asianfusion,,,Palmer,T04Zol_-RBaQowkVUSlWGw,42.15904,-72.3289999,Yummy Asian cuisine,+14132836888,,4.5,01069
+614,366 Main St,burgers,salad,soup,Sturbridge,FNOazjjpZFEJdkPa6oXapw,42.11358,-72.089915,Oxhead Tavern,+15083477393,$$,2.5,01566
+615,858 Main St,seafood,bars,steak,Southbridge,ZfVtwS5deJcw1Qcr2q3GwA,42.0812139,-72.0454595,Fins & Tales,+15087643349,$$,4.0,01550
+616,25 Palmer Rd,breakfast_brunch,cafes,,Monson,uNVJBRZSTtjrKbF7eb0IdQ,42.1127899,-72.31469,The Mug 'N' Muffin,+14132674300,$,4.0,01057
+617,26 Sturbridge Rd,pizza,,,Brimfield,P3GSgNPUBIVmkGJTil5Wwg,42.11982,-72.19916,Athens Pizza,+14132459437,$,3.5,01010
+618,13 Central St,diners,,,Southbridge,8rQlNJmWffGVZ0KN7rdA7A,42.0756589,-72.0336335,Fedele's Coffee Shop & Restaurant,+15087648019,$,4.5,01550
+619,1300 Ware St,foodstands,hotdog,seafood,Palmer,QAYlKRxw_hdSe8PjkVbgrg,42.21143,-72.3027,Alvin Rondeau's Dairy Bar,+14132835281,$,4.0,01069
+621,484 Main St,breakfast_brunch,,,Sturbridge,gMOB92qCnBO46CtdtgzRgw,42.11496,-72.10682,Sunburst Restaurant,+15083473097,$,4.0,01518
+622,14 Milton Fountain Way,breakfast_brunch,,,Warren,2BIeNbfudbD_sPWyDv0pNQ,42.2128038938205,-72.1945668384433,Mason's Grille,+14134368042,$,4.0,01083
+623,487 Main St,pizza,,,Fiskdale,2LdyJd-Jumkp0W2adGDa4Q,42.11436,-72.10714,Village Pizza Restaurant,+15083477166,$$,3.0,01518
+624,2162 Main St,breakfast_brunch,bakeries,,West Warren,FSut6zne5cIrqeWwHCmDZQ,42.21223,-72.23523,The Village Bakery and Bistro,+14134368527,$,4.5,01092
+625,702 River St,seafood,steak,,Palmer,HQEBY4lEJxmn6G5tDYWEVg,42.210545,-72.307816,Russo's Lakeside Seafood & Steakhouse,+14132892360,$$,3.5,01069
+628,119 Main St,chinese,,,Sturbridge,NkHjumQE57NYn1nqmrBoag,42.09101,-72.06768,Kahula Restaurant,+15083477121,$$,3.0,01566
+632,Rt 20,hiking,,,Brimfield,K5NRZ8zm33daXWSRO8wBOA,42.1224958436407,-72.2004428878427,Grand Trunk Trail,,,4.5,01010
+633,398 Main St,pizza,,,Sturbridge,WxhnbSCk4_X_RNECbOoCDg,42.1112301914023,-72.0940843108447,Old Sturbridge Pizza & Restaurant,+15083475111,$,3.0,01566
+634,Dean Pond Rd,lakes,,,Brimfield,x9iE63nJFKl3zVXZ2h0rOA,42.1007668053225,-72.2709177951749,Dean Pond Recreation Area,,,4.5,
+635,100 Charlton Rd,pizza,gluten_free,tradamerican,Sturbridge,nyhbSselfpJd_ajuEVYNAw,42.124927,-72.058578,Uno Pizzeria & Grill,+15083476420,$$,3.0,01566
+636,1581 N Main St,pizza,,,Palmer,PDWsw_neHOTUg8EKhdW8IA,42.163029,-72.341228,Apollo 1 Pizza,+14132839939,$$,3.5,01069
+637,139 Main St,italian,catering,,Sturbridge,fVDP7GSAhHEkMOf0J3Jw6A,42.09389,-72.06961,Giovanello's Italian Market,+15083471440,$$,4.5,01566
+638,1315 Park St,diners,breakfast_brunch,tradamerican,Palmer,3gPEJ6FE1_Ivtq4MEuhCgg,42.1501241705257,-72.3098161605006,Girly's Grill,+14132840005,$$,3.5,01069
+640,154 Mashapaug Rd,seafood,icecream,tradamerican,Holland,yAZHUhdwTi2ygoFS_J4F0g,42.0582043,-72.1612952,Maine Attraction,+14132456043,$$,3.0,01521
+643,376 Main St,hotdog,,,Sturbridge,zO_mZR9-JBJq6e8SaOsGLw,42.1126999,-72.09148,Village Hotdog,+17742399998,$,4.0,01566
+644,275-287 Bigelow Hollow Rd,hiking,fishing,parks,Union,xPnAMpoSejPnsEGUT5EKVQ,41.991397857666,-72.1303253173828,Bigelow Hollow State Park,+18604243200,,4.5,06076
+645,223 Main St,icecream,gelato,sandwiches,Monson,ooC2guPCI2B1e9Yxg7XBgw,42.0963302033287,-72.3127286916714,Salerno's Taste of Philadelphia,+14138939444,,4.5,01057
+647,53 S Maple St,tradamerican,seafood,burgers,Brookfield,ydG7dmQFYzlPBzQuyTprXA,42.2111,-72.085135,The Clam Box,+15086371790,$$,3.0,01506
+648,136 Main St,italian,pizza,,Monson,ZJo82cXL2ocRUPjbuSvxmQ,42.0985418558121,-72.3145960271358,Monson Italian Pizza,+14132679792,,4.0,01057
+649,39 Hamilton St,galleries,cocktailbars,musicvenues,Southbridge,Pyt3nFhD9i5FubyT7BQtHA,42.0769339,-72.0343997,Starlite,+17742622994,$$,5.0,01550
+651,446 Main St,chinese,seafood,soup,Sturbridge,87nWwQ6ApFXYhaKWr3wjrw,42.11386,-72.101336,Empire Village,+15083476588,$,2.5,01566
+653,1446 N Main St,bowling,bars,,Palmer,9wROs4OSfyQgnviQdgtEuw,42.1579466,-72.330872,Diamond Junction Bowling Lanes,+14132890013,$,4.5,01069
+654,33 Crystal St,delis,,,Southbridge,sPH06k6JL5WtFngmAzp2VA,42.0742,-72.02733,Margaux's Deli & Catering,+15087650954,$,4.0,01550
+656,159 Walker Pond Rd,hiking,campgrounds,,Sturbridge,BZemf3ky739-0eOX066t1g,42.1460507,-72.0560549,Wells State Park,+15083479257,,3.5,01566
+658,1240 Park St,bakeries,,,Palmer,Tt6yH3ZMNMs8JWJL7KAMCA,42.15189,-72.31515,Chmura's Bakery,+14132891539,$$,4.0,01069
+662,1 Old Sturbridge Village Rd,tradamerican,,,Sturbridge,6AhxPdBYNVZsPJo73k2TPg,42.108951,-72.098735,Oliver Wight Tavern,+15083470397,$$,2.5,01566
+663,3092 Palmer St,breakfast_brunch,tradamerican,,Palmer,Tl4vnrf3G4sSXzpSgvKczQ,42.192764,-72.35028967,Tables at the Farm,+14133242986,,4.5,01069
+664,344 Main St,chinese,,,Southbridge,EOaQtECguXla5hB1BJLU-w,42.07605,-72.03468,Dynasty Chinese Restaurant,+15087650398,$,3.5,01550
+666,15 Hospital Rd,golf,,,Monson,boXmUSIu99fD2ezUwHU0xg,42.1451566,-72.3208519,River Hollow Family Golf,+14132834388,,5.0,01057
+667,220 Airport Access Rd,breakfast_brunch,diners,sandwiches,Southbridge,7Tw9y8vw6X94LfKhTZK28Q,42.1014830050289,-72.0381578430533,Red Baron Diner,+15087655800,,5.0,01550
+726,1 N Main St,coffee,breakfast_brunch,sandwiches,Florence,WXMV2M3JjMhIifScR5umUA,42.33568,-72.6720859,Freckled Fox Cafe,+14135850445,$$,4.0,01062
+731,143 Main St,pizza,italian,,Florence,94V7YzpmGIwYa4h7w9peCA,42.3356271137677,-72.6718680313525,Pizza Factory,+14135847777,$$,3.5,01062
+732,100 Mountain Rd,tradamerican,beer_and_wine,desserts,Easthampton,b9TX7xue5tmqZq7wTtVxxg,42.2378044128418,-72.6523895263672,Tavern on the Hill,+14134931700,$$,3.0,01027
+733,500 Easthampton Rd,tradamerican,,,Holyoke,NLXXr9wHtj7dQGVIF1pDrQ,42.23617,-72.65188,Log Cabin,+14135355077,$$$,4.0,01040
+737,98 Union St,chinese,,,Easthampton,1ARTh9M8gPmHgZxWsUJgew,42.2664455041139,-72.6701871880798,Golden China Pan,+14135275888,$,3.5,01027
+739,31 Main St,delis,sandwiches,,Florence,NZ-KxOMeY2CqaQb4mrOH4Q,42.3349699,-72.6681617,Cooper's Corner,+14135861684,,3.5,01062
+740,53 Burts Pit Rd,dog_parks,,,Northampton,c2oWC91lIoqt9gIJyoDXLQ,42.31198,-72.6541788,Northampton Dog Park,,,5.0,01060
+742,35 Union St,bakeries,,,Easthampton,yZG_c6Nq6dGTDCOURUgtzg,42.2692278723049,-72.6712396368384,Union Street Bistro,,,4.0,01027
+743,136 College Hwy,pizza,italian,,Southampton,ST2IKt3aNPnw5cfvMbfspQ,42.2382105429036,-72.7205873717075,Paisanos,+14135278900,$$,3.0,01073
+745,43 Main,bars,pizza,,Conway,O-cuf9gqctm096VCcM79Lg,42.5087199,-72.69772,Conway Inn,+14133694428,$,4.5,01341
+746,92 Maple St,pizza,italian,,Florence,GhaYwhg5B1ZDGygGNVazmg,42.335307,-72.672278,A-1 Pizza House,+14135864196,$,3.5,01062
+747,65 Glendale S,tradamerican,,,Easthampton,uhI0q5g8AYGOFGVio7Cj_g,42.2649067,-72.6880527,Glendale Grill,+14132032300,$$,3.5,01027
+748,93 Main St,gardening,icecream,,Haydenville,WRr26PhIHVvxunO2l38Cuw,42.38258,-72.71233,Village Green,+14132687814,$$,4.5,01039
+749,180 Pleasant St,newamerican,venues,bars,Easthampton,3nJ4YUaH4VjJo9WJWWMnhA,42.2747649,-72.6600492,Mill 180 Park,+14132031687,$,3.0,01027
+753,54 Main St,icecream,burgers,tradamerican,Florence,T5K5NDHfw6sBhvDSv2fYrg,42.3349100747765,-72.6694301515818,Friendly's,+14135841772,$,4.0,01062
+754,65 Cottage St,divebars,,,Easthampton,ZaaUNbLv4eFmNzY-szwjsQ,42.2647999819397,-72.6662638797672,Brass Cat,+14135274085,$,3.5,01027
+755,320 Riverside Dr,divebars,,,Florence,tP11L6BFtiFb5Lf81_ml7A,42.3202,-72.66504,The Office,+14135849798,$,5.0,01062
+757,117 Union St,diners,breakfast_brunch,pizza,Easthampton,VocCpICIlPD_WO9y98Vgtw,42.26656,-72.66925,Easthampton Diner,+14135270855,$$,3.0,01027
+758,99 Main St,tradamerican,pubs,burgers,Florence,9Ui5x2OFuyWat5SC3f6CwA,42.335644,-72.671405,JJ's Tavern,+14135865705,$$,3.5,01062
+760,59 Main St,pizza,,,Florence,6Ew_pVMJhG2IMBk-l8bBGA,42.3350912332535,-72.669425457716,Starr's Pizza,+14135849946,$,4.0,01062
+761,34 N Rd,breakfast_brunch,,,Westhampton,mHA-Vrq7cgnsFODSvZqHuA,42.307695,-72.77132,Steve's Sugar Shack,+14135270294,,5.0,01027
+762,75 Cottage St,sportsbars,tradamerican,,Easthampton,5AyoYkXx5oL20ln10LKS5Q,42.26476,-72.66583,Se7ens Sports Bar & Grill,+14135271477,,4.5,01027
+763,500 Easthampton Rd,coffee,sandwiches,hotdogs,Holyoke,4hpk-dP4FvxAYbOQBFGx6A,42.2361640930176,-72.6518630981445,Mt. Joe To Go,+14134270538,$,3.5,01040
+764,126 Northampton St,salvadoran,tacos,salad,Easthampton,QHDPhHU0ORgudmbLGBrnBQ,42.28109,-72.6711468,El Comalito,+14132035186,,3.0,01027
+765,126 Northampton St,chinese,,,Easthampton,Os3U8olEG3F4BIDCjXLpCQ,42.281145,-72.670897,Tong Sing Chinese Restaurant,+14135273080,$,3.0,01027
+766,135 Northampton St,pizza,,,Easthampton,8MWkw8ZzxPSyOvRoFJbu5w,42.28091,-72.66924,Papa George,+14135278222,$,4.0,01027
+768,127 Combs Rd,parks,childcare,,Easthampton,-D47hmJPLAwPWBTH8BpN-w,42.2898063659668,-72.6462326049805,Mass Audubon at Arcadia,+14135843009,,4.5,01027
+769,169 College Hwy,steak,seafood,burgers,Southampton,VSHEJiD6LQGbPqFDLpy4qg,42.2360550917783,-72.724673723866,jp's steakhouse,+14132032197,,3.0,01073
+770,15 College Hwy,chinese,,,Southampton,8G2C6pDPclfoGHk9gVmu_Q,42.252496,-72.697897,West Lake Gourmet Chinese Restaurant,+14135275207,$$,3.5,01073
+771,100 Union St,pizza,,,Easthampton,0rVn2K7cuT6T967aalrrjA,42.2663566,-72.6698095,Easthampton Village Pizza,+14135273340,$,3.0,01027
+772,32 Union St,chinese,,,Easthampton,jW38JcbztI3CzGRwLwfzeQ,42.26906,-72.672,Dynasty Gourmet,+14135290171,,3.5,01027
+773,60 Main St,pizza,,,Florence,pUPqX_XUmDoTEa8XO5sfpw,42.33467,-72.67003,Florence Pizza & Family Restaurant,+14135845759,$$,2.5,01062
+776,87 Searle Road,breakfast_brunch,,,Huntington,9LrxgQh9i7vmsFqGmz5B9Q,42.3006329582653,-72.8418831154704,Norwich Lake Farm and Sugar House Restaurant,+14136678830,,5.0,01050
+777,660 Riverside Dr,coffee,,,Florence,85r0K5dgXKpFcbvc5XPyBg,42.32959,-72.6728,Indigo Coffee Roasters,+14135864537,,5.0,01062
+779,180 Pleasant St,foodtrucks,asianfusion,,Easthampton,2QYXfo90aHXZ1yVe3Bm4DQ,42.2744661849982,-72.6592728561672,Little Truc,+14132827520,,5.0,01027
+780,11 Union St,pizza,chicken_wings,sandwiches,Easthampton,uYFlgK3FYZVvJp7fLlW8pg,42.2701416015625,-72.6714477539062,Domino's Pizza,+14135270821,$,3.0,01027
+785,80 Locust St,tradamerican,buffets,,Northampton,aBiCOJoljrSfA6gZZ8Qg2w,42.331199,-72.659231,Oliver Smith Restaurant,+14135871432,,5.0,01060
+786,Williamsburg Rd,lakes,,,Whately,pMu6rdDzURng0QLV6zQAWQ,42.4391540784654,-72.6841802895069,Northampton Reservoir,,,5.0,
+886,919 Riverdale St,italian,salad,,West Springfield,npIyseIpAkihKCEsOucZcg,42.1287092,-72.62648,Olive Garden Italian Restaurant,+14137505390,$$,3.0,01089
+923,Westfield Rd,hiking,,,Holyoke,rnwRZUQ2Ef0XqikPf1rvHw,42.1858099,-72.66043,Ashley Reservoir,,,5.0,01040
+969,597 Memorial Dr,tradamerican,sportsbars,burgers,Chicopee,29e2DQrQzYrqKnzuXYoE2Q,42.1735,-72.5756,Applebee's Grill + Bar,+14135930134,$$,3.0,01020
+975,653 Grattan St,pizza,,,Chicopee,jafgjkpKBWYXxY96ucrnqg,42.17286,-72.599,Brothers Pizza,+14135328452,$,3.5,01020
+976,467 Memorial Dr,diners,breakfast_brunch,tradamerican,Chicopee Falls,OrWwZCoxAK_L9C2NklzKfg,42.1706596966572,-72.5768126588628,Denny's,+14135926059,$$,2.5,01020
+983,1371 Liberty St,tradamerican,pubs,,Springfield,WJDPbSUSiSohQ6R6Ku4wFA,42.13959,-72.58195,99 Restaurants,+14137319999,$$,4.0,01104
+987,601 Memorial Dr,sandwiches,salad,soup,Chicopee,iRpB9gWZO8vl2OCYIMEyng,42.174626,-72.575755,Panera Bread,+14135931800,$,3.0,01020
+1002,687 James St,greek,,,Chicopee,Avu1eyQA2cvPSR9_8t7eTA,42.19997,-72.56742,Mykonos Gr Restaurant,+14134378256,,4.5,01020
+1006,1329 Memorial Dr,seafood,newamerican,,Chicopee,I4lgSBkRb99Sj6O4jx2Y_A,42.19356,-72.5748,Masse's American Bistro,+14133158501,$$,3.0,01020
+1012,1780 Westover Rd,diners,cafes,,Chicopee,q5YmJKFz7LetrJrJYBiifQ,42.18248,-72.5686,Homestyle Cafe,+14135933282,$$,4.5,01020
+1013,340 Carew St,pizza,,,Chicopee,UJjKiEWRvmJ4hW9uG4gsUg,42.14748,-72.56495,Milano's Pizzaria & Restaurant,+14135942857,$$,4.0,01020
+1014,2341 Boston Rd,coffee,cafes,,Wilbraham,bnz8y_c9J-xjsfjek478WQ,42.15066,-72.45927,Common Grounds Cafe,+14132791700,$,4.5,01095
+1015,50 Holyoke St,sushi,japanese,steak,Holyoke,6HXOqji7R0KWtdO9GY0rkg,42.1671,-72.6399,Sumo Japanese Steakhouse & Sushi Bar,+14133229887,$$,4.0,01040
+1017,18 Cabot St,pizza,,,Holyoke,x6opfqMO35lx_yIg33PimA,42.19774,-72.60444,Capri Pizza,+14135323460,$,4.0,01040
+1018,409 Broadway St,breakfast_brunch,tradamerican,diners,Chicopee,QUKEmDdtWZXQ0A-Uq5Mu6Q,42.1467693075963,-72.5797014306625,The Copperline Eatery,+14135948332,$,4.0,01020
+1019,92 Race St,bars,newamerican,breakfast_brunch,Holyoke,P5YvMzMj-8qXg6yyVRad1A,42.20409,-72.60377,The Bistro At Gateway City Arts,+14136500786,$$,4.5,01040
+1021,1693 Northampton St,delis,thai,sandwiches,Holyoke,rwaW3WMVQJGmARlLs0mJ5Q,42.206197888014,-72.630953527987,Silk Deli & Bistro,+14133156504,$,4.5,01040
+1023,930 Hampden St,cafes,breakfast_brunch,,Holyoke,aSh9w8cA3WdHt06qymNEtg,42.21301,-72.6226499,Rusty's Place,+14134377530,$,4.0,01040
+1024,14 Yelle St,diners,,,Chicopee,erqQ3-F8jVBQMZ1Stg95EQ,42.1918989,-72.5988849,Al's Diner,+14135343607,$,4.0,01013
+1025,17 White Birch Plz,pizza,italian,,Chicopee,TwRfJJSAOATywnZaRdeOsQ,42.1739353,-72.5341894,Pizza Palace Restaurant,+14135920413,$,4.5,01020
+1027,50 Holyoke St,tradamerican,greek,importedfood,Holyoke,5Ccl0sur_T90pL5mkd6lUg,42.167247,-72.641327,Greek Place,+14135368976,$,4.5,01040
+1028,363 Burnett Rd,tradamerican,diners,breakfast_brunch,Chicopee,Wi2ErQPmjlBNSnAileL03w,42.1660070555322,-72.5451809033657,Fifties Diner,+14135945436,$,3.0,01020
+1029,200 Center St,breakfast_brunch,,,Ludlow,ePtBPRWyDAUy9sBd2am3bw,42.1632738708683,-72.4827430661874,Evans Egg House,+14135895500,$$,4.5,01056
+1030,329 West St,icecream,juicebars,,Ludlow,UFGo1-MqZg5kBqUQ3U1lLw,42.1815677226272,-72.5062458962202,Midwoods Dairy Barn,+14136101399,$$,5.0,01056
+1031,424 Front St,pizza,italian,sandwiches,Chicopee,64FEB431hVFw13U8K-reKQ,42.147989,-72.60077,John's Pizzeria & Restaurant,+14135921715,$$,4.0,01013
+1032,186 Main St,polish,diners,,Indian Orchard,5X92ui8x506lAwx5ofZYRw,42.1596145629883,-72.5013809204102,Hanna's Diner & Deli Shoppe,+14133424367,$$,4.5,01151
+1033,2000 Boston Rd,thai,,,Wilbraham,39SOZhoDjz8QrVpkRaemBw,42.1496887326255,-72.4747608267501,Blue Elephant Restaurant,+14135431500,,4.5,01059
+1034,89 Main St,caribbean,,,Indian Orchard,pP6B5AyV9abQyV_SOTavcQ,42.1595868,-72.5062708,Yaad Food,+14138838364,$,4.0,01151
+1036,2014 Northampton St,cafes,,,Holyoke,4aD-UpB9gs0BKSie7J3JEw,42.1934757,-72.629631,Dam Cafe,+14135331866,$,3.5,01040
+1039,703 Grattan St,breakfast_brunch,tradamerican,,Chicopee,zd4eEblxwqCawQa0xW78gA,42.17417,-72.59973,Lucky Strike Restaurant,+14135367912,$$,3.5,01020
+1040,480 Memorial Dr,chicken_wings,sportsbars,tradamerican,Chicopee,W0RYdButnTP-93nLxXS2_A,42.172048,-72.577751,Buffalo Wild Wings,+14133315041,$$,3.0,01020
+1041,444 Dwight St,childrensmuseums,,,Holyoke,QtZ_fKFREdfnIaA4IdD_gQ,42.20571,-72.60598,Children's Museum At Holyoke,+14135365437,,4.0,01040
+1045,782 Center St,mediterranean,modern_european,tradamerican,Ludlow,nMfYMj0i5NIJK27UjSFOkw,42.1872,-72.46254,Europa Black Rock Bar & Grille,+14135476443,$$,3.0,01056
+1046,1268 Riverdale St,burgers,hotdogs,,West Springfield,RWmE_GBO39oX4Yk8rp7F7Q,42.1383166,-72.6265141,Five Guys,+14133065353,$$,4.0,01085
+1048,1597 Northampton St,hotdog,icecream,,Holyoke,7yp9vICoDt89G3iicYM9-Q,42.21009,-72.63035,Nick's Nest,+14135325229,$,3.5,01040
+1049,227 Whiting Farms Rd,tradamerican,breakfast_brunch,southern,Holyoke,E-5u0QKs_XRC2jTxFlKdvQ,42.1771,-72.64163,Cracker Barrel Old Country Store,+14134931831,$$,3.0,01040
+1050,27 Holyoke St,burgers,tradamerican,,Holyoke,CwV3ZD7qW9XNeL4dgCE6rQ,42.17361,-72.64059,Red Robin Gourmet Burgers,+14133154350,$$,3.0,01040
+1051,530 Memorial Dr,mexican,hotdogs,,Chicopee,s10eoL5D6Q1bmIzS7zXD8g,42.1727036515862,-72.5775907980462,Chipotle Mexican Grill,+14135925455,$,3.5,01020
+1052,1995 Memorial Dr,chinese,,,Chicopee,T6V81F2O5GgfcANv12kRdA,42.21173,-72.57133,North China Restaurant,+14135321499,$,3.5,01020
+1053,46 Center St,coffee,bakeries,,Chicopee,x3GPQ_JQJF0QpbKH683Dow,42.147054501595,-72.6072458550932,Goodworks Coffee House,+14133313910,$$,5.0,01013
+1055,351 West St,pizza,salad,wraps,Ludlow,vDSCyD_k2dq0wtG-8Zuw_A,42.18312,-72.5057,Poppi's Pizzeria,+14135837828,$,4.0,01056
+1056,50 Holyoke St,newamerican,tradamerican,gluten_free,Holyoke,62OOS81QAf1_kutgA9u7DQ,42.1671,-72.6399,110 Grill,+14135384220,$$,3.5,01040
+1057,191 State St,portuguese,,,Ludlow,L8JldfEEjRD_oEKq5ut9Gg,42.1565101,-72.4736487,Come e Cala- Te,+14135833286,$$,4.0,01056
+1058,42 Myron St,chinese,seafood,soup,West Springfield,Lff5fb8TZKIaY1PhnvuadQ,42.13329,-72.62745,North Garden,+14137320338,$$,4.0,01089
+1059,224 Westfield Rd,seafoodmarkets,seafood,,Holyoke,GnQaW0tIAPliH4FPiFJB2w,42.1908930996048,-72.6388066397266,Schermerhorn's Seafood,+14135339229,$$,3.0,01040
+1060,2200 Boston Rd,steak,italian,seafood,Wilbraham,HRZA22Sc9dWdZbgZTnW8Sw,42.1515239654645,-72.4652285755606,Cima Restaurant and Chop House,+14132793322,$$$,4.0,01095
+1061,480 Burnett Rd,chinese,,,Chicopee,nha2i8VoLnpwMQ9YW9n4hQ,42.1684757620096,-72.5429633259773,Po's Chinese Restaurant,+14135988826,$$,3.5,01020
+1062,14 Pulaski St,bakeries,,,Springfield,EoYlSXuHSbrYYsqBHTJrsQ,42.1532296653968,-72.4897197478157,Chmura's Bakery,+14135432521,$,4.5,01151
+1064,257 East St,portuguese,,,Ludlow,D1uGBQz06YOZNSQ5dZxFhA,42.15879,-72.47602,Primavera Cafe Restaurant,+14135890562,$$,3.5,01056
+1065,955 Riverdale St,italian,seafood,,W Springfield,HQLngGuq0iyE0MK9bh754g,42.1299778,-72.6260722,Carrabba's Italian Grill,+14137333960,$$,3.5,01089
+1066,325 East St,pizza,,,Ludlow,klsHjAJBH0DYM4sQUxP-Cw,42.1597,-72.47372,Casa Pizzeria,+14135890468,$,4.0,01056
+1067,555 Memorial Dr,hotdogs,,,Chicopee,KVOvPk_P_mEoMqiY7VSSfw,42.1727982,-72.5764923,99 Restaurants,+14135939909,$$,3.5,01020
+1068,1290 Riverdale St,tradamerican,sportsbars,chicken_wings,West Springfield,eHnDYRZqJpiqbom9XwTKgQ,42.1388972,-72.6268324202204,Hooters,+14133019741,$$,3.5,01089
+1070,351 Front St,breakfast_brunch,sandwiches,burgers,Chicopee,hpsVZWw9Jx7l6VUCkJvUoA,42.148460592641,-72.603321386947,Petros Breakfast & Lunch,+14133314422,$,4.0,01013
+1071,405 Armory St,grocery,herbsandspices,lebanese,Springfield,NYOK1a75n68qSQmuGVH8rg,42.1205328594902,-72.5861070211283,Cedar's Food Mart & Grill,+14132731215,$,4.0,01104
+1074,334 Newton St,pizza,,,South Hadley,pLNLE0qmSH1qniH0WKVUOg,42.230461,-72.586547,Family Pizza and Grinders,+14135363197,$,4.0,01075
+1076,2341 Boston Rd,pubs,tradamerican,,Wilbraham,X0Wlrt01XBX8nSdQ5tfpNA,42.150937,-72.45997,Route 20 Bar & Grille,+14132792020,$$,4.0,01095
+1077,89 Park St,polish,tradamerican,,Chicopee,LtJgv5DArFGfARgH4KyL_Q,42.1456488221884,-72.6093392819166,The Collegian Court,+14133314444,$$,3.5,01013
+1078,1301 Liberty St,buffets,spanish,,Springfield,PqsSDSq31EnyXpMHG4_x8w,42.1387376,-72.582476,Mesa Buffet,+14134176855,$$,3.5,01104
+1079,1537 Riverdale St,steak,,,West Springfield,WzPN0PgbX7d7fE_z1uJwuQ,42.14542,-72.62831,Outback Steakhouse,+14137465700,$$,4.0,01089
+1080,200 Whiting Farms Rd,sportsbars,tradamerican,,Holyoke,miwjwxTo95VRiYKrb2YALA,42.17798,-72.63991,JP's Restaurant,+14135329444,$$,3.5,01040
+1081,620 Memorial Dr,coffee,,,Chicopee,vun9a_8XWr38UPsoUjDJQQ,42.174689,-72.577687,Starbucks,+14135931457,$$,3.0,01020
+1083,319 East St,bbq,portuguese,,Ludlow,jB9DMn0GcWxchOJPEFvS3A,42.1594172716141,-72.4739722162485,Galo Rei,+14136100737,$$,4.0,01056
+1084,489 Newton St,breakfast_brunch,tradamerican,diners,South Hadley,o25ce2CeQyYbmuOxIUyiLA,42.2368092,-72.5817893,Egg & I,+14133228753,$,3.5,01075
+1085,7 College St,delis,,,South Hadley,B0u1yyATuOR2f9u8b5FeVg,42.259395,-72.575935,Tailgate Picnic,+14135327597,$,3.5,01075
+1087,80 Jarvis Ave,newamerican,bars,,Holyoke,uK0PEZf39yA9HAsMv4NlJg,42.217394,-72.641519,Sláinte,+14135344000,$$,3.0,01040
+1089,24 Bridge St,fishnchips,desserts,salad,Shelburne Falls,oLM42PUJliWpu1_UN-G1fQ,42.6036331,-72.7393198,Hearty Eats,+14136256460,$$,4.5,01370
+1090,,parks,,,Shelburne Falls,VlD3rmZaui4gy9SGMCbxJg,42.60683,-72.73678,Bridge of Flowers,,,5.0,01370
+1091,16 State St,tradamerican,pubs,burgers,Shelburne Falls,cjeDbBpMLrjHMIeqHwU_jg,42.603919,-72.7413603,West End Pub,+14136256216,$$,4.0,01370
+1093,65 Bridge St,french,bars,,Shelburne Falls,6E4Wd60NQcqPCGYtiKvbWg,42.6034651,-72.7377135,Gypsy Apple Bistro,+14136256345,$$$,4.5,01370
+1095,1 Ashfield St,newamerican,cocktailbars,beerbar,Shelburne Falls,jwLPIWGACP3mDVqh-mflQw,42.6031535,-72.7412502,The Blue Rock,+14136258133,$$,4.5,01370
+1096,4 Deerfield Ave,cafes,breakfast_brunch,bakeries,Shelburne Falls,GrjITzOl6sPP8DSv1RWxnw,42.6032697149586,-72.7398762962963,Baked,+14134893139,$,4.5,01370
+1097,324 Old North Rd Rte 143,sportsbars,tradamerican,,Worthington,aw0FDqkiYDIE33KmHW7YHQ,42.42713,-72.95322,Listons Bar & Grill,+14132385353,,4.5,01098
+1100,43 Bridge St,bowling,bars,,Shelburne Falls,VDBwt4UekLscXB0EYgLdMA,42.6032941408784,-72.7388477325439,Shelburne Falls Bowling Alley,+14136256179,$,5.0,01370
+1101,25 Bridge St,sandwiches,breakfast_brunch,burgers,Shelburne Falls,vie_fCh-eUqGfKNiNVjFow,42.603473,-72.739337,Foxtown Diner,+14136256606,$,4.0,01370
+1102,47 Bridge St,coffee,musicvenues,pubs,Shelburne Falls,LAtu87OYDWMcMyuVktxqQg,42.6034751,-72.7388452,Mocha Maya's,+14136256292,$,4.0,01370
+1104,8 Bridge St,delis,cafes,bagels,Shelburne Falls,cSqUvTVIVcf0SxF2OnzQ4A,42.6037749,-72.7402612,Delicatesse,+14134893257,,5.0,01370
+1107,9 State St,bakeries,chocolate,,Shelburne Falls,3XUku2sxAw-ZiL9j3_USqg,42.6036797,-72.7418518,Mo's Fudge Factor,+14136256645,$$,4.5,01370
+1108,17 Commercial St,austrian,tradamerican,,Adams,FzEewR1sdPRNgIqTvxfh7Q,42.618738,-73.121827,Haflinger Haus,+14137432221,$$,4.0,01220
+1109,207 Bryant Rd,landmarks,,,Cummington,4u26NC5cangef6aaT72BoA,42.4704636633396,-72.9347670078278,William Cullen Bryant Homestead,+14136342244,,4.0,01026
+1110,Deerfield Ave,landmarks,,,Shelburne Falls,OErXX_y0rXCh-IyBZB_6Ng,42.6025996903993,-72.739315778017,Glacial Potholes,+14136252526,,4.5,01370
+1113,584 Kinnebrook Rd,breakfast_brunch,tradamerican,,Worthington,7V3RX-SPaYFt5aytErDK0g,42.344486,-72.919398,The Red Bucket Sugar Shack,+14132387710,$,4.0,01098
+1114,13 State St,pizza,,,Shelburne Falls,0xEKvNlbiPjEpNXeX02LJA,42.6038289562622,-72.7414358539614,Buckland Pizza,+14136256342,$$,3.5,01370
+1115,113 Ridge Rd,bars,newamerican,,Worthington,rCi5XRAlbjFJBD05OWfR1A,42.40855,-72.94236,Velvet Restaurant,+14132384492,,5.0,01098
+1119,144 Huntington Rd,hotels,bars,,Worthington,32Q6yvCGZgWlxC0oT1Dm7w,42.4006249755621,-72.9378435015678,The Blackburn Inn,+14132380144,$$,3.5,01098
+1120,218 Trouble St,landmarks,,,Cummington,YetwSuX03s8dWXPzG3zXwQ,42.45207,-72.972,Arunah Hill Natural Science Center,+14136340180,,5.0,01026
+1121,,parks,,,Windsor,Cj6r9deBw-Vh-qh1iN3Q2w,42.51099,-73.06454,Wahconah Falls State Park,+14134428992,,4.5,01270
+1122,10 Bridge St,mexican,,,Shelburne,JIUMuy58yl_k85Y_Fig7LQ,42.603818,-72.739733,El Sotano,+14134893754,,4.5,01370
+1123,35 Main St,pizza,,,Williamsburg,TIm9N1EDtxj_WR95fwR5Ow,42.391134,-72.724329,A-1 Hilltown Pizza,+14132680202,$$,3.5,01096
+1125,1 W Sam Hill Rd,breakfast_brunch,,,Worthington,NE3t2ECJh8NDDsUbrlhwYQ,42.394454581771,-72.9491633361976,Mollison's Windy Hill Sugar Shack,+14132385869,$,4.5,01098
+1126,53 State St,pizza,,,Shelburne Falls,9xQYh7R3rN-eG46eyKBJiQ,42.6050615597785,-72.7410017671526,Pondside Pizza,+14134893349,,4.5,01370
+1127,83 Old Rte 9,skiresorts,hiking,,Windsor,EZQDn3TzAKUtZJMgs0u96Q,42.502887,-73.030238,Notchview,+14136840148,,4.0,01270
+1128,Williamsburg Rd,hiking,localflavor,,Ashfield,v-J4B3x4c4jpT-p5MZhCJA,42.497797,-72.765776,Chapel Brook Falls,+14135321631,,5.0,01330
+1129,14 Depot St,museums,,,Shelburne Falls,hxdjmJG5wExJY4Nx4-2o9w,42.6023585,-72.7411628,Shelburne Falls Trolley Museum,+14136259443,,4.5,01370
+1130,67 East Rd,museums,educationservices,historicaltours,Adams,s6RIZWNuPxghCMnU66ZOwA,42.6154,-73.10223,Susan B Anthony Birthplace Museum,+14137437121,,5.0,01220
+1131,1 Park St,coffee,,,Adams,Rkpf5oJEA82Qyt-pA_IpNQ,42.62098,-73.12029,Coffee Liberation Front,,$,4.0,01220
+1132,258 Maple St,icecream,,,Hinsdale,XI5GLkwKesY0pOJVCc2v4Q,42.4410209655762,-73.1177597045898,Topsy's Treats,,$$,4.0,01235
+1133,869 Creamery Rd,landmarks,localflavor,,Ashfield,jDOofiEgKxiGWXRwhbZD0A,42.5203548671947,-72.8013133022133,Creamery Covered Bridge,,,5.0,01330
+1134,144 Huntington Rd,newamerican,,,Worthington,IRDbtfi_STNrrinh1V3csg,42.40078,-72.93759,The Rabbit Hole,+14132380144,,5.0,01098
+1135,213 South St,restaurants,,,Hinsdale,5pMuo6RdZ6JZF0E_Dl1eDQ,42.4343329668045,-73.1187625229359,Home Club,+14136550167,$,5.0,01235
+1136,River Rd,hiking,,,Chesterfield,--Cj61hhiZTHHT9AoZebYw,42.3666143495863,-72.8685328736901,Chesterfield Gorge,+14135321631,,3.5,01012
+1137,49 Main St,coffee,,,Williamsburg,qPGRiT9fgNadml9vHbsEsg,42.3903426,-72.7211833,Elbow Room Coffee,+14135755383,$,5.0,01096
+1138,191 Main Rd,golf,,,Williamsburg,8V9UuraR77LhockFi_SmYw,42.3829622,-72.8075778,Beaver Brook Golf Course,+14132687229,,3.0,01096
+1139,37 Main St,coffee,donuts,,Williamsburg,1smix65x-XQ6S3sHvY5-lQ,42.390982,-72.723695,Dunkin' Donuts,+14132687220,$,3.0,01096
+1140,50 Summer St,newamerican,,,Adams,bcJyzsejMPVlVLCjFJJDfw,42.62182,-73.11519,Corner Lunch,+14137439725,$,4.0,01220
+1141,24 Mohawk Trl,fishing,hiking,localflavor,Shelburne Falls,5oI4r_wsqt9UmKNV6RsM_g,42.619829,-72.748517,Fish Tale Fabricators,+14133251710,,5.0,01370
+1142,12 Pleasant St,tradamerican,pubs,,Adams,q_XWxF3s5hTEnPiLbgmzjQ,42.6217931885812,-73.1190310791135,AJs trailside pub,+14137437831,,5.0,01220
+1143,47 Ball Rd,hotdogs,,,Williamsburg,rHXDd-R9ztUJxKRMj2Ziqw,42.443226,-72.815647,Goshen Snack Bar,+14132689240,,5.0,01096
+1144,298 Barnes Rd,golf,,,Shelburne Falls,zfso1Yr_Z5n2abGEvciJKA,42.5537299001266,-72.7826585416355,Edge Hill Golf Course,+14136256018,,4.0,01370
+1146,2 Commercial St,coffee,burgers,hotdogs,Adams,pZ5Q3wPrBLmHXmV6LKlpcg,42.6198977,-73.1200694,McDonald's,+14137434678,$,2.0,01220
+1177,73 Main St,diners,breakfast_brunch,tradamerican,Easthampton,dQV3LpK8w42ZrvMogf-Yfg,42.270737312599,-72.6724829875412,Silver Spoon Restaurant,+14135273363,$,4.0,01027
+1178,88 Cottage St,sushi,korean,japanese,Easthampton,91PW7jAXOm8YJV449Qr-yQ,42.2646721669469,-72.6659128365786,Kisara Japanese & Korean Restaurant,+14132032095,$$,4.0,01027
+1185,116 Pleasant St,lounges,tradamerican,,Easthampton,yyJUlX-SO79I00b9-UvhrA,42.272495,-72.663742,The Hideaway Lounge,+14135278811,$$,4.0,01027
+1186,29 Union St,indpak,,,Easthampton,Sv0ItBszllG1Ochdh3H99g,42.2694,-72.67131,Glory of India,+14135279100,$$,4.0,01027
+1194,60 Main St,cocktailbars,newamerican,salad,Easthampton,lgmse49W68w4gJS-qNPWQw,42.2707822,-72.6721996,Galaxy,+14132032011,$$,3.5,01027
+1201,47 Union St,coffee,,,Easthampton,b8bBxCwnAd0gDSZVhCLyWg,42.268545,-72.6709064,Shelburne Falls Coffee Roasters,+14135270597,$,4.0,01027
+1210,71 Main St,chicken_wings,pizza,,Easthampton,a5MSc3hCiNECKbn5wfb4bw,42.2709022,-72.6723462,Antonio's Pizza and Wings,+14135278383,$,3.5,01027
+1225,124 Cottage St,italian,seafood,,Easthampton,YzzLI9_BrwEZnRHP7iuQVQ,42.2638958037146,-72.6638027036164,Nini's Ristoranti,+14135270149,$$,4.0,01027
+1229,136 Main Rd,bedbreakfast,meats,sandwiches,Westhampton,2Hxb37Ezwblm7x8czP40Vg,42.287347,-72.7613498,Outlook Farm Country Store,+14135299388,$,3.5,01027
+1234,80 Cottage St,pubs,newamerican,,Easthampton,wqCC8QJ_nNUoiz3Y89kBTw,42.26421,-72.66587,Amy's Place,+14135279333,$$,4.0,01027
+1243,15 College Hwy,cafes,,,Southampton,w8Ei4KseWaa6O9ox73Oyfw,42.252372,-72.69815,Mikel Coffee,+14132032442,,4.5,01073
+1244,229 Main St,icecream,desserts,bubbletea,Northampton,8uqTf8sTBhoD3gdztxKTtQ,42.31805,-72.63261,Absolute Zero,+14137278926,$,4.5,01060
+1255,684 Bliss Rd,burgers,,,Longmeadow,B7wMQrO-Ls0p2Z-j4u706w,42.0569045553503,-72.5554972887039,Max Burger,+14137980101,$$,4.0,01106
+1256,400 Dickinson St,vietnamese,,,Springfield,q4FRXozpbX1TnZ6MbgiK_g,42.08653,-72.55834,Pho Saigon Restaurant,+14137814488,$$,4.5,01108
+1259,409 Dickinson St,vietnamese,,,Springfield,h-pkEE7UD1fkSjzzmo3qbw,42.0864779,-72.5577561,Vinh Chau,+14137318858,$$,4.5,01108
+1261,880 Sumner Ave,mexican,,,Springfield,8zy1sfIVKdT8Lj3IHQUTrg,42.0889499,-72.5451099,Bueno y Sano,+14133010976,$,4.0,01108
+1265,684 Belmont Ave,mexican,,,Springfield,CJK8fjOrfCY1QQeSpaLntg,42.0852405,-72.5529348,Moctezuma's Tradition and Flavor,+14133177977,$,4.5,01108
+1266,113 Vermont St,vietnamese,,,Springfield,g-KOiaYR5lsoP0M0mwZoyg,42.0884132385254,-72.5512237548828,Soc Trang Vietnamese Restaurant,+14137369999,$$,4.5,01108
+1267,732 Bliss Rd,sushi,asianfusion,japanese,Longmeadow,UiYFYz-dSuXFdDrLEqd2Sg,42.0566606,-72.5564449,Ume Asian Bistro,+14135655088,$$,4.0,01106
+1269,715 Sumner Ave,pizza,italian,salad,Springfield,bddH2rK9BJXpl_4CnjNfSg,42.08733,-72.55049,Family Pizzeria and Restaurant,+14137369146,$$,4.5,01108
+1271,676 Belmont Ave,vietnamese,,,Springfield,gdvbEY3k20pCoaq7B_GFZw,42.0851968,-72.5532552,Bamboo House,+14137320741,$$,4.5,01108
+1272,422 N Main St,japanese,sushi,chinese,East Longmeadow,_oCJr_JVPBCT-Ap1rUbveg,42.0781819,-72.5263044,Ichiban East Longmeadow,+14135251688,$$,4.0,01028
+1273,31 Harkness Ave,asianfusion,sushi,,East Longmeadow,cC3MXwOa2pRknnqkyKDxtQ,42.0806085800348,-72.5290245482753,Tao's Asian Cuisine,+14135251820,$$,4.0,01028
+1274,61 Palomba Dr,mexican,bars,,Enfield,DBbMYXVbjgCglLsmL67MYQ,41.9912226,-72.5716811,Acapulcos Mexican Family Restaurant & Cantina,+18607635000,$$,4.0,06082
+1278,497 Belmont Ave,italian,desserts,cocktailbars,Springfield,OSQlCJ8FK3zAfx3qK0TiEA,42.08671,-72.55961,Typical Sicilian,+14137397100,$$,4.0,01108
+1280,929 Belmont Ave,sandwiches,salad,soup,Springfield,EHtaP-aIvTxAXmTdcFVtGA,42.0838206,-72.5442487,The Souper Sweet Sandwich Shop,+14132098260,,5.0,01108
+1285,520 N Main St,breakfast_brunch,cafes,bagels,East Longmeadow,norfMJfZE-8U-8EOMI5iMg,42.07905,-72.53166,Cookie's Cafe,+14137341615,$,3.5,01028
+1286,284 N Maple St,pizza,italian,bars,Enfield,55uwClRFlnavSUOCMB6bqw,42.021699,-72.540339,Buona Vita Bar & Grille,+18607495903,$$,4.0,06082
+1291,923 Shaker Rd,sushi,chinese,,Longmeadow,cP5UQDzXPGabXISX9wxEHw,42.0331335,-72.553239,Iron Chef Asian Cuisine,+14135678001,$$,4.0,01106
+1293,461 Belmont Ave,vietnamese,bubbletea,sandwiches,Springfield,DbBax9fmhZbM8n_TJb-hRA,42.0869497,-72.5610807,Trung Nguyên/ Banh mì Mia,+14138882223,$,4.5,01108
+1294,664 N Main St,italian,,,East Longmeadow,WENKITfiMcn8DVRcdCCjEg,42.080729,-72.539177,Villa Napoletana,+14137329300,$$,3.5,01028
+1295,83 Freshwater Blvd,sandwiches,salad,soup,Enfield,roOmZEXOwqbF4wMpZbO5pA,41.9919794870649,-72.5762882337677,Hot Table,+18607412000,$,4.0,06082
+1296,75 Hazard Ave,icecream,,,Enfield,kkL3XCjRb7VbQJhJ0WJP5g,41.989741,-72.573838,Smyth's Ice Cream Stand,+18607630449,$,4.5,06082
+1298,600 N Main St,italian,,,East Longmeadow,Nu24v7fAIsm0B3cwgWDIkw,42.0798263549805,-72.5355911254883,Patsy's Ristorante,+14137390275,$$,4.0,01028
+1301,117 Hazard Ave,cafes,breakfast_brunch,,Enfield,HH06176zEq_I4IvmzMIXIA,41.9888211,-72.5660321,For Love and Food Cafe,+18607490813,$$,4.0,06082
+1303,33 Harkness Ave,pizza,,,East Longmeadow,bv8FLMjPNIWFKJrTWYXj7Q,42.080487,-72.5291754,Peppas By The Slice,+14135257859,$,3.5,01028
+1309,281 Belmont Ave,vietnamese,,,Springfield,xOx0-L5qcIbDbWIrlRM_qQ,42.0880699157715,-72.5672454833984,Traditional Saigon Restaurant,+14138884196,$,5.0,01108
+1312,168 Elm St,burgers,hotdogs,,Enfield,PXSDvrqfdPeO1bhcBy8ffg,41.9992787,-72.5720257,Five Guys,+18602653300,$,4.0,06028
+1313,110 Island Pond Rd,tradamerican,irish,bars,Springfield,OLSHO3Uc3X79JRmvosTDnQ,42.0963504,-72.5507442,Nathan Bill's Bar & Restaurant,+14137376135,$$,4.0,01118
+1314,455 Breckwood Blvd,sandwiches,,,Springfield,n2Yp8raloZC2PLvLqC15pA,42.1168251037598,-72.523567199707,Hot Table,+14137828800,$,4.0,01109
+1315,25 Hazard Ave,hotdogs,,,Enfield,4lno5QOCfEpSMXBTUXNuxw,41.9903007,-72.579674,Chick-fil-A,+18602530469,$,4.0,06082
+1319,403 Dickinson St,mexican,latin,,Springfield,emkBWB1Sqwl9DzoerATCcA,42.0866068,-72.5579109,Salsa's Gourmet Mexican Restaurant,+14137464456,$,4.0,01108
+1321,151 Hazard Ave,pizza,italian,,Enfield,6G0vV9cSEF3t_u5wLkvobg,41.9877145791773,-72.5574706693103,Lulu's Pizzeria & Family Restaurant,+18607632377,$$,4.0,06082
+1323,795 Maple Rd,chinese,japanese,sushi,Longmeadow,KeRNly6qnqWCCY2VLz3L8Q,42.0327901898061,-72.5529426647795,Li's Brothers,+14135672037,$$,3.5,01106
+1327,108 Boston Rd,pizza,italian,,Springfield,P3Zd1y8I7tNAIVMqCCphEw,42.12516,-72.53664,Tony's Pizza,+14137326600,$$,4.5,01109
+1331,749 Sumner Ave,chinese,,,Springfield,hcHRZJw7gIwYaESrEZzrvw,42.08769,-72.5495399,Wong Wok,+14137468084,$$,3.5,01108
+1332,753 Maple Rd,greek,pizza,,Longmeadow,zTaqO3RyZPjm0Jo8tUpe5g,42.0325069,-72.5547146,Grapevine Pizzeria & Restaurant,+14135676266,$$,4.0,01106
+1334,699 Sumner Ave,sandwiches,chicken_wings,pizza,Springfield,3rY1AKSNIvtaVmsdQUIKzA,42.0874733,-72.5512531,Wild Olive Pizzeria,+14137888791,$,3.5,01108
+1335,15 Hazard Ave,burgers,tradamerican,,Enfield,Fvn6Rcla3IFXQTSBRjg74A,41.9906099,-72.58237,Red Robin Gourmet Burgers,+18607417003,$$,3.5,06082
+1336,1251 River Rd,seafood,salad,tradamerican,Agawam,7OSZQfnJggXq-6VrOoEVtQ,42.08174,-72.58611,Catch 1251 Seafood & Grill,+14133917640,$$,3.5,01001
+1337,111 Hazard Ave,diners,,,Enfield,CPv0147LStg3NzOMPKXA9A,41.98908,-72.56692,The Country Diner,+18607635338,$,3.5,06082
+1339,598 Sumner Ave,bagels,,,Springfield,p7JL2lsaFcjlvFOmlGvbSQ,42.087267,-72.55504,Benson's Bagels,+14137322435,$,4.0,01108
+1341,One MGM Way,steak,,,Springfield,ZPsA0mpC4vMmS9JjCQ8voA,42.100167,-72.586214,The Chandler Steakhouse,+14132735420,,3.5,01103
+1342,207 Worthington St,poolhalls,beerbar,,Springfield,NHIzfuwcTnqDOSaSnVukoQ,42.10413,-72.59203,Smith's Billiards,+14137349616,$$,4.0,01103
+1343,1341 Main St,cafes,sandwiches,salad,Springfield,zu7oVgauvXaw0GjR-TMrcw,42.1022,-72.58899,Nosh Restaurant and Cafè,+14132371822,,5.0,01103
+1344,398 Longmeadow St,bagels,,,Longmeadow,4e-f7_6ax6scRWhbCGAvxQ,42.0596836,-72.5800272,Alex's Bagel Shop,+14135673304,$,3.5,01106
+1345,1105 Main St,italian,newamerican,beer_and_wine,West Springfield,7ZZHKcCWXua6J_h_C7n3XA,42.0973188,-72.6006724,1105 Main,+14137374905,,4.5,01089
+1347,8 S Main Rd,italian,pizza,,Otis,yjoE7dKa-FC51WJ4XvcDwQ,42.19269,-73.09249,Fratelli's Restaurant & Pizza,+14132694900,$$,4.0,01253
+1348,40 Main St,creperies,cafes,,Lee,p-HyVSwogxhHQs8xJ-t9vQ,42.30504,-73.24892,The Starving Artist Creperie and Cafe,+14133945046,$$,4.0,01238
+1349,159 Monterey Rd,newamerican,,,Otis,E0wk9-VkuKMY6TKHReKETw,42.19675,-73.10065,The Grouse House,+14132694446,$,4.0,01253
+1350,150 Main St,french,,,Lee,o972aKqdzYGiCzWWZx6vWQ,42.30769,-73.25031,Chez Nous,+14132436397,$$$,4.5,01238
+1353,51 Park St,pizza,bars,tradamerican,Lee,1rI6pNcpm187YIP4Q1kIkw,42.3041968750153,-73.2482657867333,51 Park Restaurant & Tavern,+14132432153,$$,4.0,01238
+1354,229 Hartsville New Marlboro Rd,tapas,vegetarian,asianfusion,New Marlborough,KvDsKP3pvTjryvkzyibs-Q,42.123587790542,-73.2348696057758,Cantina 229,+14132293276,$$,4.5,01230
+1355,10 Railroad St,bars,,,Lee,aIJj2vTbBd_F5pIKGG-4qQ,42.3057941,-73.2500778,Moe's Tavern,+14132436637,$$,5.0,01238
+1356,30 Main St,comfortfood,tradamerican,,Chester,L23iQ-ONcUb0edZeJJX_nA,42.280002,-72.980058,Chester Common Table,+14133541076,$$,4.5,01011
+1357,437 Wells Rd,convenience,breakfast_brunch,delis,Becket,sZgz8QmrpPP9Bdb05duIIw,42.2538082301617,-73.0638302117586,Sherwood Shoppe,+14136232338,$,4.5,01223
+1359,1342 County Rd,bars,newamerican,,Becket,KwAaAZte_nWKeny_lAb0nA,42.32495,-73.14103,Dream Away Lodge,+14136238725,$$,3.5,01223
+1360,60 Main St,peruvian,seafood,soup,Lee,UE7ZoJkkX3Enq8MS5X4ASw,42.3056,-73.249264,Alpamayo Restaurant,+14132436000,$$,4.0,01238
+1361,78 Main St,seafood,,,Lee,Ij8RafJOGZno1-M4ueMrdQ,42.3060492,-73.2495023,Salmon Run Fish House,+14132433900,$$,3.5,01238
+1362,4 Main St,bars,tradamerican,,Huntington,cdlN_aSJOn0EDVexGo0v5g,42.2348748399165,-72.8799170197082,Comfort Kitchen and Bar,+14132073011,$$,4.5,01050
+1363,33 Main St,bedbreakfast,newamerican,tradamerican,Lee,NQILKfW2PMwlWb1V-ppJMQ,42.30484,-73.24921,Morgan House,+14132433661,$$,4.0,01238
+1364,275 Main Rd,breakfast_brunch,,,Monterey,zYfLzClfWhxKE9wWRaDXfA,42.18406,-73.24207,Roadside Store & Cafe,+14135282633,$,4.5,01245
+1367,34 Hartsville-New Marlboro Rd,venues,vegetarian,tradamerican,New Marlborough,DmetKxKYhXoqaI_R5DwyJQ,42.1218836220813,-73.2255731630722,Gedney Farm,+14132293131,$$$,4.0,01230
+1368,160 Housatonic St,breakfast_brunch,,,Lee,8nhaIMcLJMrfsiic0hSoOg,42.300715,-73.243111,Roses Restaurant,+14132433333,$,3.5,01238
+1369,85 Central St,tradamerican,diners,breakfast_brunch,Lee,xoajVHJmQPp4kc5qgGc1BA,42.310245,-73.252144,Joe's Diner,+14132439756,$,3.5,01238
+1371,163 Norfolk Rd,bakeries,coffee,newamerican,Southfield,BAJESGPWmLCLIpdMaiGUqA,42.100691,-73.233851,The Southfield Store,+14132295050,$$,3.5,01259
+1372,3235 Main St,breakfast_brunch,pizza,bars,Becket,b4-4eClP0ksWjfBUMkI1-A,42.3275317514641,-73.0836283305567,Becket General Store,+14136236026,,4.5,01223
+1373,54 Main St,pizza,,,Lee,kikbfGQqB_s-Fstuix0S3w,42.30556,-73.2491299,Timothy's Grill and Pizzeria,+14132438220,$$,3.5,01238
+1374,232 Main St,tradamerican,sportsbars,,Lee,YxyGGdlxUYVA3vkINjyNTQ,42.309491,-73.251066,Locker Room Sports Bar,+14132432662,$$,4.0,01238
+1376,5 Railroad St,newamerican,,,Lee,Rr4cVS2LhKTmPM8bozHf_A,42.30537,-73.24988,post eatery and bar,+14133944275,,4.0,01238
+1377,165 Quarry Hill Rd,coffeeroasteries,,,Lee,loLdU5U7ducG_svWIyCKAQ,42.2276275790294,-73.1969690322876,Barrington Coffee Roasting Company,+18005280998,$$,4.0,01238
+1378,100 Gould Rd,bakeries,,,Monterey,J9zIMFGr6vFMq_tPhmcCNQ,42.1747543818567,-73.2411820004485,Harvest Barn,+14136449718,$$,5.0,01245
+1379,78 Tyringham Rd,lakes,,,Monterey,G8N3i204GBZZlkMTc50HRQ,42.1896122395992,-73.2098449766636,Lake Garfield Beach,+14135283831,,4.5,01245
+1380,Route 272,parks,,,Norfolk,E1yLHCgd5lBJ8ZNSq7DITQ,42.04222,-73.226073,Campbell Falls State Park,+18604821817,,4.5,06058
+1381,200 Worthington Rd,tradamerican,bars,,Huntington,wrtX2ZzygWcN6PPLIJAZwA,42.27658,-72.86391,The Rapids Bar & Grill,+14136673300,$$,4.0,01050
+1382,135 Main St,museums,,,Lee,Jka9LLJUlg6d8xclyCmDEg,42.3069482644052,-73.2502760120342,Animagic Museum of Animation Special Effects & Art,+14138416679,,4.0,01238
+1383,33 Park Plz,pizza,,,Lee,ix1WhyVc9cWYQExuGrlQDQ,42.303386,-73.247599,Vivaldi's Pizzeria,+14132434041,$$,3.5,01238
+1384,70 Worthington Rd,giftshops,bakeries,icecream,Huntington,waDo_iatl3PqJUur5oDgvQ,42.2485580444336,-72.8687133789062,Huntington Country Store,+14136673232,$$,4.0,01050
+1385,Clark Wright Rd,hiking,,,Middlefield,DoOBiPrUEnn3S8Zt8YxTtw,42.347707,-72.971218,Glendale Falls,+14135321631,,5.0,01243
+1388,358 George Carter Rd,newamerican,,,Becket,EXUaFzhvXNjCRNmylmOhxw,42.26658,-73.11659,The Old Inn on the Green at the Pillow,+14132120303,,3.0,01223
+1389,1132 Huntington Rd,breakfast_brunch,,,Worthington,E0BNgyLQy3WUwFSnMLaQpA,42.3418042,-72.8882095,High Hopes Farm,+14132385919,$$,5.0,01098
+1390,30 Housatonic St,italian,burgers,mediterranean,Lee,6VWXDm7k3-iPfm0cArdRdA,42.303675,-73.245625,Athena's Restaurant & Pizzeria,+14132431215,$,2.5,01238
+1392,71 Chester Rd,pubs,,,Becket,Stqfu3Zz-w7LGnWHNCHt9g,42.2642057799168,-73.0492941727214,Papa Bobs,+14136238777,,3.5,01223
+1393,185 Water St,beer_and_wine,delis,,Lee,oP6MxD_tKqBF_hCgk9dOmg,42.2972074,-73.2314694,East Lee Package Store,+14132439768,$,3.5,01238
+1394,29 Main St,pizza,,,Chester,ARnHCxfth45qbu5AU2g3Og,42.2799491882324,-72.9793853759766,Classic Pizza,+14133546554,$$,3.0,01011
+1395,100 Art School Rd,museums,,,Monterey,jxztQM6ihyu9nEyYvUrY4w,42.206314355135,-73.2169669121504,Bidwell House Museum,+14135286888,,5.0,01245
+1396,145 Housatonic St,burgers,icecream,tradamerican,Lee,ASNb-OVmTa01jVAcugD4Tg,42.301231,-73.242804,Friendly's,+14132433535,$,2.5,01238
+1397,23 Park Plz,chinese,,,Lee,u3vTda2vtkOdRqya20iSyg,42.3042413144758,-73.246378730496,Red Apple,+14132434027,$,3.5,01238
+1402,95 Main St,chinese,,,Lee,Y5fUpTFQ-9MFrUa1s8jSRg,42.3060799,-73.2501526,Panda Garden,+14132439188,$,3.0,01238
+1403,62 Main St,indpak,,,Lee,y6UTWVCEElf-FSp6p6DxDw,42.30535,-73.24909,Chef Express,+14133944081,$$,3.5,01238
+1405,Hotchkiss Rd,hiking,,,New Marlborough,IvdIxj1vKHOKxeUkso9jug,42.07564,-73.20833,Thousand Acre Swamp,+14132298212,,5.0,01259
+1406,109 Railroad St,latin,,,Lee,bPB51VTWLgvlO_afOXGfVg,42.30863,-73.25241,Lucia's Latin Kitchen,+14133945009,,5.0,01238
+1407,25 Consolati Way,tradamerican,bars,,Lee,A40Rx6mb2y4rX3bz2tCMug,42.3052711,-73.2502518,Bucky's Tavern,+14132436484,,4.0,01238
+1408,370 Stockbridge Rd,food_court,,,Lee,4NosW9Y5YnRNcqbRxR_ySw,42.3054990935517,-73.2489395141602,Fresh City,+14132433268,$,2.0,01238
+1409,245 Housatonic St,burgers,hotdogs,coffee,Lee,y-WH9WEyQNpsAWCoffxn1A,42.2991668943395,-73.240801692009,McDonald's,+14132432253,$,2.0,01238
+1410,240 Hatchery Rd,aquariums,,,Great Barrington,-8Uj3PXAO-RoGz9yFupqDA,42.16578,-73.24938,Berkshire National Fish Hatchery,+14135289761,,4.0,01230
+1411,30 Housatonic St,pizza,,,Lee,7eYkLZ4rnX_Fs-de-R5VnA,42.303669,-73.245622,Athena's Pizza House,+14132431223,,4.5,01238
+1412,40 Main St,landmarks,,,Lee,UeOUPFRZrK2C9GsfABMLzg,42.305371,-73.249053,Kilbon Memorial Fountain,,,5.0,01238
+1413,200 Housatonic St,donuts,coffee,,Lee,BSYTzjGQC5WNd12nWodOQA,42.2997863,-73.242521,Dunkin' Donuts,+14132431676,$,2.0,01238
+1414,50 Water St,newamerican,,,Lee,1abRo8so6LKnAwAouIzOtQ,42.294388,-73.234434,Simply Grillicious,+14132431345,$,2.5,01238
+1416,50 Water St,sandwiches,hotdogs,,Lee,1KvLXb2nhGIUXwFUmfYolw,42.29413,-73.233387,Subway,+14132438292,$,1.5,01238
+1417,50 Massachusetts Tpke,coffee,burgers,hotdogs,Blandford,wGMb0UHJg7OtJSZ0dD7qvg,42.20413,-72.9453599,McDonald's,+14138482284,$,1.0,01008
+1418,208 Norfolk Rd,soup,,,Southfield,2kBz_-OHhdpA7AQd2Rg7rg,42.0989608764648,-73.2321166992188,Farm Country Soup,+14135280040,,5.0,01259
+1419,22 E Main St,cafes,bakeries,breakfast_brunch,Huntington,5iWbkRJXtRqBGCwbX8s69Q,42.23577,-72.87314,Hunt + Hart | Cafe + Bakery,+14136673030,,4.0,01050
+1420,22 E Main St,pizza,icecream,chicken_wings,Huntington,OoDv6rbUbXOn1KgbK8jP_Q,42.23577,-72.87314,Gino's Pizzeria & Hut,+14136673190,,3.0,01050
+1421,236 Main St,sandwiches,hotdogs,,Lee,TIYWAT8N9h-K2loTE-HH4A,42.3092498779297,-73.2511367797852,Subway,+14132434142,$,3.0,01238
+1422,50 Water St,chinese,,,Lee,dEt-yktUtzEXyyspQfm_fQ,42.294122,-73.233635,Orient Taste,+14132436028,$$,1.0,01238
+1423,50 Water St,pizza,,,Lee,2-qHSKRWlFMEBRiRbRSrzg,42.294695,-73.23371,Villa Pizza,+14133949940,,2.0,01238
+1424,1226 Springfield St,coffee,,,Agawam,B89Ro65uGprAbmMZpReEMw,42.0681637,-72.6713629,Agawam's Java Stop,+14137860000,$,5.0,01030
+1425,360 N Westfield St,mexican,bars,,Agawam,Eza-9btbwfRjI5bDXWra6w,42.0794913,-72.6789735,El Forastero,+14134553297,$$,4.0,01030
+1426,827 Springfield St,tradamerican,beerbar,,Agawam,E11EY59SdtiyWeQbbFTSBg,42.074577910205,-72.6565357831051,The Back Room Bar And Grill,+14133424266,$$,4.5,01030
+1427,63 Liberty St,cajun,,,Springfield,GlxVHKd0H1pjjUXPRBVPCA,42.1063652646148,-72.5954923619712,Chef Wayne's Big Mamou,+14137321011,$$,4.5,01103
+1428,201 Worthington St,bbq,jazzandblues,bars,Springfield,glj2EqPtInlYmC73dASY5Q,42.1041412353516,-72.592041015625,Theodore's Booze Blues & BBQ,+14137366000,$$,4.5,01103
+1429,553 Main St,desserts,mediterranean,lebanese,West Springfield,FjImeE0Eptdz5PhUrRiPXQ,42.1019861,-72.6087658,Taste of Lebanon,+14133630414,$,4.5,01089
+1430,135 Cooper St,newamerican,steak,,Agawam,vyJLJKDe6mEiR7-IzUwA-w,42.08238,-72.62149,The Federal,+14137891267,$$$,4.5,01001
+1431,421 Springfield St,pizza,italian,,Agawam,hVJbzy9W6XZSkmNMSgKGCA,42.0849135,-72.6435869,Peppo's Pizza,+14137899066,$$,5.0,01001
+1432,261 Union St,coffee,breakfast_brunch,creperies,West Springfield,znBePHm2wFOjVzR91UGG9g,42.1025529,-72.6165117,Crepes Tea House,+14133042052,$$,4.5,01089
+1433,34 Franklin St,spanish,latin,,Westfield,ZiHnY5W-l_08UP9XuLkjQQ,42.1244010925293,-72.7496871948242,Santiago Family Restaurant,+14135620210,$$,5.0,01085
+1434,1060 Main St,pizza,italian,soup,Springfield,zQ99spImDikWqsSFF_hnrg,42.0995144,-72.5852145,Red Rose,+14137398510,$$,4.0,01103
+1435,1338 Memorial Ave,desserts,breakfast_brunch,catering,West Springfield,n99Vr7EwiUU9T2gRYDvNbQ,42.0929948581104,-72.6200693576235,Lattitude Restaurant,+14132418888,$$,4.0,01089
+1436,90 William St,delis,italian,sandwiches,Springfield,y2Wr3CwqHTu9iep3eh8rWw,42.09708,-72.58512,Frigo Gourmet Foods,+14137325428,$,4.5,01105
+1438,36 Elm St,mexican,newamerican,tex-mex,Westfield,KoovhR9aNO7ZNjIpAmR2Ag,42.1219372299061,-72.7491059463501,Two Rivers Burrito Co,+14135795469,$,4.5,01085
+1439,1272 Memorial Ave,coffee,breakfast_brunch,newamerican,West Springfield,v05QpWaX5EAeq_CBU_TL5Q,42.093295,-72.619034,Memo's Restaurant & Catering,+14137398420,$,4.0,01089
+1440,8 Fort St,german,tradamerican,bars,Springfield,K3DiUWJ0UBKpGVLIWBETXw,42.1031436,-72.5943831,Student Prince Cafe And Fort Restaurant,+14137347475,$$,4.0,01103
+1441,1261 Westfield St,burgers,tradamerican,icecream,West Springfield,gpLPD7T4pT_qsUt-BneuHw,42.1062530659152,-72.6447293534875,Classic Burgers,+14133631654,$,4.0,01089
+1442,1000 W Columbus Ave,burgers,beerbar,tradamerican,Springfield,wXpijaaA6uCQrAR4_6i2ug,42.094073,-72.585155,Plan B Burger Bar,+14132858296,$$,3.5,01105
+1443,67 Springfield St,tacos,tex-mex,,Agawam,MDxhEEjK3wnjEJgbQsYEag,42.0895051537608,-72.6303144823267,Macho Taco,+14132857060,$$,4.0,01001
+1444,159 Main St,bakeries,cupcakes,customcakes,Agawam,fpJALtytI9snJX0P3L103Q,42.08673,-72.62078,Auntie Cathie's Kitchen,+14137880022,$$,4.0,01001
+1445,280 Memorial Ave,burgers,hotdog,sandwiches,West Springfield,60wF03Xx312K6oI-ej2tyQ,42.0967,-72.60156,White Hut,+14137369390,$,4.0,01089
+1446,1000 Main St,pizza,italian,,Agawam,aFkoHrO0ElrWzC1FJmLwZA,42.059326171875,-72.6173934936523,Nicky's Pizza,+14137869977,$,4.5,01001
+1447,760 Springfield St,sushi,asianfusion,,Feeding Hills,ul6vXu2dme-HiMN5mE6JvQ,42.0767417,-72.654345,Cocochi Asian Cuisine,+14137862777,$,4.5,01030
+1448,22 Elm St,coffee,,,Westfield,lzHTQ0ZT7H3XrcBN3tb-jQ,42.12115,-72.74937,Circuit Coffee,+14135798093,$$,4.5,01085
+1449,4 Southwick St,pizza,italian,,Feeding Hills,88rFs5UlVfacm3LW4ifs2Q,42.06728,-72.67971,Tolli's Pizzeria & Deli,+14137868418,$$,4.0,01030
+1450,37 Pleasant St,tradamerican,breakfast_brunch,customcakes,Enfield,kpuF9XS6TSA8mqXOeKWmBg,42.0019899300078,-72.6014358042666,Mark's Restaurant,+18609902051,$,4.5,06082
+1452,659 Westfield St,pizza,,,West Springfield,AnxHS20ffU08OXkdwAM9-Q,42.1035723,-72.6348607,Liquori's Pizza,+14137379690,$,4.0,01089
+1453,28 Southwick St,chinese,,,Feeding Hills,3fC8DGIB4-8cWikX3XdA_Q,42.0670212,-72.6807186,Main Garden,+14137861234,,4.5,01030
+1454,185 Elm St,italian,,,West Springfield,KZCF690ooNnrriMO-4-VdQ,42.10725,-72.623573,bnapoli Italian,+14132402106,$$$,4.5,01089
+1455,485 Springfield St,breakfast_brunch,sandwiches,burgers,Feeding Hills,aZwe-gy1WNCWWD8HfA3mBA,42.0831979,-72.6457336,Partners Restaurant,+14137860975,$$,4.0,01030
+1456,944 Springfield St,bars,italian,seafood,Feeding Hills,aPSmJfy16tIFj2atsgH0ag,42.07232,-72.66053,Take Five,+14137860962,$$,4.0,01030
+1457,37 Southwick St,coffee,tradamerican,breakfast_brunch,Feeding Hills,pxzxHZK35FlY1AXtoqx0KQ,42.0667543,-72.6806684,On The Hill Restaurant,+14137862252,$,3.5,01030
+1458,95 High St,mexican,,,Enfield,kf6O5xhf_gINo2B2OHPNPw,41.997342,-72.597649,Sarapes Restaurant,+18607457781,$$,4.0,06082
+1459,2648 Westfield St,breakfast_brunch,sandwiches,tradamerican,West Springfield,gMOo83Nmfu8xUxFYPQ6EyQ,42.10774094673,-72.6883686209164,Little Georges,+14137882120,$,4.0,01089
+1460,45 Washington St,italian,,,Westfield,PtDrRhB6DJDwua5LdVWKNQ,42.12351,-72.75134,Emma's Everyday Gourmet,+14136423221,$$,4.5,01085
+1461,1688 Main St,indpak,,,Springfield,SdTi833EjUg-Cn8ZxdZ20A,42.10444592769,-72.5946414470673,Panjabi Tadka,+14137321453,$$,4.0,01103
+1462,25 Park Ave,indpak,,,West Springfield,QcahsJsm6Zfrg2vJkddxKg,42.1070542,-72.6161883,Pintu's Indian Restaurant,+14137884929,$$,4.0,01089
+1463,270 Maple St,russian,turkish,uzbek,Agawam,d_oBPF7tx2Ql8tRbfmHc_g,42.08892,-72.63945,Sultan Family Restaurant,+14133334774,$$,4.5,01001
+1464,1000 W Columbus Ave,pubs,steak,,Springfield,GaAj9DEE7k_1-n4LKeaBhg,42.093973,-72.585511,Max's Tavern,+14137466299,$$$,3.5,01105
+1465,1068 Riverdale St,seafood,tradamerican,venues,West Springfield,4KBEoOPg9MuspRAo59XadQ,42.13308,-72.62641,Cal's Woodfired Grill and Bar,+14138279353,$$,3.5,01089
+1466,664 Suffield St,irish,pubs,,Agawam,r6Co84JHmfEcGrG557ToRA,42.0670802348428,-72.631870508194,Murphy's Pub,+14133017074,$$,4.0,01001
+1467,318 E Main St,japanese,sushi,,Westfield,6Hoe3eqdjxzW9LHZYAdJHQ,42.1139984130859,-72.7247543334961,K's Restaurant,+14135683886,$$,4.0,01085
+1468,1390 Main St,mediterranean,lebanese,,Springfield,uoZFLAnQfFopcPaUC2vX1g,42.10229,-72.59,Nadim's Downtown Mediterranean Grill,+14137377373,$$,4.0,01103
+1469,801 Thompsonville Rd,thai,,,Suffield,G2QKD1uM86XIuvheVqxMYg,41.9968071,-72.6139069,Coco Thai Kitchen,+18607587557,$$,4.0,06078
+1470,12 School St,breakfast_brunch,,,Westfield,E0JSl9ZF_hJgQ1c-Uw1CaA,42.121251,-72.749693,The Good Table,+14136425527,$,4.5,01085
+1471,116 Elm St,vietnamese,bubbletea,soup,Westfield,Hu57Hg5qRwIsmZyNPz8WDA,42.123119354248,-72.7487716674805,Alo Saigon,+14136426515,$$,4.5,01085
+1472,336 North Westfield St,icecream,juicebars,hotdog,Feeding Hills,eg1bG_BFDy61vwzEu3S0_g,42.0787763,-72.6785333,JJ's Soft Serve and More,+14132099832,$$,5.0,01030
+1473,916 Suffield St,tradamerican,,,Agawam,_P_gtxvxB4qJJdXzN0uaTA,42.058457583189,-72.6328394562006,Kaptain Jimmy's,+14137892222,$$,3.0,01001
+1474,1573 Main St,breakfast_brunch,cafes,sandwiches,Springfield,F6ZYx6ibbWm6dA-kdg3W0w,42.1036816388369,-72.5926975160837,City Jake's Cafe,+14137315077,$,4.5,01103
+1475,214 Armory Sq,spanish,soulfood,caribbean,Springfield,Qq_P6hCE_3idzfhDSC00Wg,42.1160583496094,-72.5825653076172,Puerto Rican Bakery & Restaurant,+14137320259,$,4.5,01104
+1476,1455 Riverdale St,thai,,,West Springfield,rBSbu0kghegZKC-K4a2g7A,42.1433487,-72.6280454,Shallot Thai Cuisine,+14137315221,$$,4.0,01089
+1477,385 Walnut St Ext,tradamerican,italian,,Agawam,MXfJjtrqWHeR6em0s_CSCA,42.0839285527683,-72.6329729730469,E B's Restaurant,+14137893525,$$,4.0,01001
+1478,751 Union St,mediterranean,juicebars,lebanese,West Springfield,x18AiyFtwzKesOQfFS8yew,42.09891,-72.60855,Janna Mediterranean Grill & Juice Bar,+14132737272,$$,4.5,01089
+1479,21 Edwards St,landmarks,,,Springfield,4w5BcxcPqPjt5bkbClnMrw,42.1014831,-72.589811,Dr Seuss National Memorial Sculpture Garden,,,4.5,01103
+1480,883 Main St,bakeries,italian,,Springfield,dtXeHsyWk7ITu2rUtf5_dQ,42.09802,-72.58288,La Fiorentina Pastry Shop,+14137323151,$,4.5,01103
+1481,1623 Main St,amusementparks,,,Agawam,OFGzVTi5W8F9bUbzIOcrpg,42.040434,-72.61484,Six Flags New England,+14137869300,,2.5,01001
+1482,54 Park St,sandwiches,grocery,,West Springfield,8OoJkFIv6Uq4DcBC0QL9qQ,42.10723,-72.6179,Calabrese Market & Deli,+14134551196,$,5.0,01089
+1483,94 N Elm St,newamerican,pubs,,Westfield,QVEN-pSCAMvJr9K-ikBYZQ,42.1316153,-72.7440194,Westwood Restaurant and Pub,+14135646963,$$,4.0,01085
+1484,801 Springfield St,seafood,wine_bars,italian,Feeding Hills,k1pXWAALNVVotH5WhHvOIA,42.0751495,-72.655571,Casa Di Lisa,+14137861900,$$,3.5,01030
+1485,1244 Main St,korean,,,Springfield,scIRcvHOQQm3X7UVV4GESQ,42.10112,-72.58784,Sun Kim Bop - Restaurant,+14134553932,$,4.5,01103
+1486,1000 Hall Of Fame Ave,museums,venues,,Springfield,Ca1hmcMauYiqz-OJ2fF82Q,42.093779,-72.5851354,Basketball Hall of Fame,+18774466752,,3.5,01105
+1487,340 Springfield St,chinese,,,Agawam,dNCQ70TtsR4dvdwhu-Zucw,42.08706,-72.64133,New King Yen Chinese Restaurant,+14137866288,$$,4.0,01001
+1488,254 Worthington St,italian,,,Springfield,AsqSQnnK-QOSQxVfxO5v5A,42.1047727,-72.5919338,Adolfo's Ristorante,+14137465000,$$,4.0,01103
+1489,747 Liberty St,pizza,,,Springfield,yOwjX9AzCO5Nu9Rw7i3vdA,42.123553,-72.584251,Salerno Pizzeria,+14137334382,$,4.5,01104
+1490,400 Cooper St,grocery,delis,importedfood,Agawam,yB3N8nzvg4_jF5Rl6ewkJQ,42.0786850677545,-72.6302637973568,Pajer Superette,+14137891867,$,4.0,01001
+1491,495 Springfield St,icecream,candy,coffee,Feeding Hills,S1T63AAUGeG_ynXD7ZNbmg,42.082862,-72.6459372,Scoops,+14137865960,,5.0,01030
+1492,258 Feedinghills Rd,icecream,desserts,burgers,Southwick,e3xM2GfiPOBhELUlOifoCw,42.0637190557264,-72.7198791503906,Moolicious Ice Cream,+14135691700,$,4.0,01077
+1493,67 Liberty St,sandwiches,breakfast_brunch,,Springfield,McoHD38EztGmDdRjxmFFHA,42.1065522201793,-72.5954360788028,Felix's Breakfast and Sandwich Shop,+14133066010,$,4.0,01103
+1494,719 Main St,bakeries,coffee,,Agawam,BzLPi1LlqnmKuqqLdQTexw,42.06895,-72.61472,Giovanni's Italian Pastries,+14137898900,$$,4.5,01001
+1495,835 Suffield St,pizza,,,Agawam,sxJfQVjD_Xf6_FPFxmJV8g,42.06067,-72.63169,Parthenon Restaurant,+14137867941,$$,4.0,01001
+1497,281 Elm St,sandwiches,pizza,,Westfield,sKOPB6eJ5ARyJB6KoTAy6A,42.1265477,-72.7470919,Family Pizza & Grinder,+14135627434,$,4.5,01085
+1498,935 Riverdale St,mexican,,,West Springfield,emyVSz0deVaoNEHcF3bbog,42.128797342,-72.6224309115,Bueno Y Sano,+14137371259,$,4.0,01089
+1499,1414 Main St,cafes,soup,breakfast_brunch,Springfield,KDD6sQJSTOCbwxZkzZcS2w,42.102083,-72.591225,Cornerstone Cafe,+14137461025,$,4.5,01103
+1500,807 Springfield St,pizza,,,Feeding Hills,3D4q1KmoFXwUUGseonIIQg,42.0752436,-72.6558214,Bruno's Pizzeria,+14137868717,$$,4.5,01030
+1501,81 Point Grove Rd,breakfast_brunch,burgers,sandwiches,Southwick,jNh6V1sIVF2dv9v3dsj4fw,42.04295,-72.75892,The Launch,+14139983548,,4.5,01077
+1502,1500 Main St,sandwiches,,,Springfield,FWujJ9SVSxgPhbPV4kkDiQ,42.102816,-72.592177,Hot Table,+14137311200,$,4.0,01103
+1503,428 N St,hiking,parks,rafting,Feeding Hills,SbR-s1IZjooMLvwd52qOHw,42.083256,-72.659725,Robinson State Park,+14137862877,,5.0,01030
+1504,983 Westfield St,bars,burgers,,West Springfield,s-gnG03YnsYGvg36k6hCsg,42.104385,-72.64045,Collin's Tavern,+14137369772,$,4.0,01089
+1505,16 Union Ave,soup,cafes,sandwiches,Westfield,PEnqmmNhzHEMrLHBT-wauA,42.12997,-72.74391,Soups On,+14135620648,$,4.0,01085
+1506,One MGM Way,italian,,,Springfield,GGSr2J8A7sOqNQ3HNjgI_w,42.100029,-72.5883482,Cal Mare,+14132735430,,3.5,01103
+1507,38-40 Main St,juicebars,polish,breakfast_brunch,Westfield,NekS6dj2Oaz0MSRDsaUt2Q,42.1209283,-72.7473749,Janik's Pierogi Cafe & Juice Bar,+14135795620,$$,4.5,01085
+1508,124 Elm St,pizza,beerbar,pretzels,Westfield,v8WNtZV55w7XepuGIhoAaw,42.123348236084,-72.7486801147461,Skyline Trading Company,+14133783333,$$,4.5,01085
+1509,266 Elm St,breakfast_brunch,diners,bakeries,Westfield,vF5dqRU3uWLeCgklux66aw,42.12615,-72.74787,Pancake Sundaes Diner & Bakery,+14135726832,$$,4.0,01085
+1510,552 College Hwy,icecream,tradamerican,burgers,Southwick,y5KWUtvx_BzkXwK1IYvzug,42.05895,-72.76672,Summer House,+14135693581,$,4.0,01077
+1511,739 Enfield St,bakeries,,,Enfield,gQvug80ogtGkFicEYZCIyQ,42.002642,-72.592502,Russo Pastry Shop Inc,+18607417844,$$,4.0,06082
+1512,63 Springfield St,tradamerican,sportsbars,,Agawam,P1rPj8m_LnyeWac98EaM0A,42.08938,-72.63024,The Still Bar & Grill,+14133042795,$,4.0,01001
+1513,141 Main St,delis,sandwiches,,Agawam,0VLWJtpgZPm-rDPibUTT8Q,42.0868051496627,-72.6214257679062,Main Street Deli Restaurant & Catering,+14138219881,$,3.5,01001
+1514,255 Elm St,bakeries,cupcakes,,West Springfield,1JZfQuH5S6D_xB3HJ4tVtw,42.1081607,-72.6239689,Cerrato's Pastry Shop,+14137811139,$$,4.0,01089
+1515,40 Elm St,bakeries,cupcakes,customcakes,Westfield,SHRm0zBQG-8XmqyKwPF-KQ,42.1217986,-72.7489996,Mama Cakes,+14136423130,$,4.5,01085
+1516,29 School St,pubs,sportsbars,tradamerican,Westfield,GUft10qbwpxzThU3l_yQ5g,42.12166,-72.75006,The Hangar Pub and Grill - Westfield,+14135629464,$$,3.5,01085
+1517,350 Worthington St,newamerican,steak,italian,Springfield,bJioFdeNHm1U4SJ1xmPlQA,42.106073,-72.590842,350 Grill,+14134390666,$$$,3.5,01103
+1518,240 Westfield St,tradamerican,breakfast_brunch,sandwiches,West Springfield,FLSlv4CZ3cIOOeRutqAWNA,42.106254,-72.627532,Partners at the Cup,+14133018440,$,4.0,01089
+1519,33 Border Way,mexican,tex-mex,,West Springfield,_wAM4LqxBTxXDhqONBBwdQ,42.137518,-72.627235,On The Border Mexican Grill & Cantina,+14133043500,$$,3.5,01089
+1520,904 Main St,italian,,,Springfield,9SEx9CBnG3In8dkCcj_qjg,42.098073,-72.58337,Ciro's,+14137324767,$$,4.0,01103
+1521,587 College Hwy,pizza,italian,tradamerican,Southwick,PIAU2nZyrxObZKLXumxNzQ,42.06218,-72.76549,Zanto,+14135690164,$$,4.0,01077
+1522,740 Springfield St,breakfast_brunch,,,Feeding Hills,i6EFeEnjonCADwLAKQMqYQ,42.07712,-72.654,American Classics Restaurant & Take Out,+14137892203,$$,4.0,01030
+1523,1152 Riverdale St,japanese,sushi,asianfusion,West Springfield,aqZfI8TpQYKazEUfzk1Pvg,42.1351233,-72.625889,Tokyo Asian Cuisine,+14137887788,$$,3.5,01089
+1552,,foodtrucks,seafood,,Narragansett,Io4C5tUwnb_YzeaMXHBqBA,41.4274482727051,-71.4597778320313,Shuckin Truck,+14017415953,$$,4.5,02882
+1560,281 Greenfield Rd,gardens,,,South Deerfield,UD1MqKTJALU-BCFMR6PuUw,42.509536,-72.605659,Magic Wings Butterfly Conservatory & Gardens,+14136652805,,4.5,01373
+1562,445 Berkshire Trl,grocery,bakeries,sandwiches,Cummington,wqQ-cLMbLmxzc_p4jjDSxw,42.464115,-72.90535,The Old Creamery,+14136345560,$$,4.5,01026
+1566,343 Main St,pizza,,,Ashfield,_9sO066L6e1kjQRf2jzd7g,42.526902,-72.794253,Countrypie Pizza Company,+14136284488,$,4.5,01330
+1572,12 Main St,bakeries,giftshops,icecream,Williamsburg,mnoemjiQfTY1B2SunYPZvQ,42.3928305,-72.7300929,Williamsburg General Store,+14132683036,$$,4.5,01096
+1574,396 Main St,breakfast_brunch,bars,,Ashfield,wkIOjcec-3uGidfIXcOpJA,42.5261756,-72.7924932,Elmer's Store Restaurant,+14136284003,$$,4.0,01330
+1583,93 Main St,bbq,foodstands,burgers,Williamsburg,jilRIDbiEEtDhi4hnV6Oug,42.3818416889538,-72.7114339380672,Local Burgy,+14132688300,$$,4.5,01039
+1585,188 N Rd,breakfast_brunch,cafes,,Westhampton,gf47Yv8PnATBDgkZ6rBI-w,42.323103,-72.754566,Strawbale Cafe & Gift Shop,+14135273210,$$,4.5,01027
+1588,188 Berkshire Trl W,tradamerican,,,Goshen,Hz8ENDohZ-ZY2MooPz8-Eg,42.45618,-72.832747,Spruce Corner Restaurant,+14132683188,$$,4.0,01032
+1597,570 Mohawk Trl,gourmet,breakfast_brunch,,Shelburne Falls,eolu_9FB74AaXHlgwYwQyw,42.584024,-72.708754,Gould's Sugar House,+14136256170,$$,4.5,01370
+1598,4 Main St,tradamerican,seafood,buffets,Williamsburg,XNre9Yba8Nhl8b6FBFtpfA,42.3922799,-72.730399,The Brewmasters Tavern,+14132687741,$$,3.0,01096
+1602,52 S Main St,tradamerican,bars,chicken_wings,South Deerfield,bfNy4CK-UWtNIIfzVXeZ-A,42.4768333435059,-72.6083679199219,Wolfie's Restaurant,+14136657068,$$,4.0,01373
+1609,90 Haydenville Rd,tradamerican,icecream,,Leeds,WmWAHNNParZLErd98SEbJw,42.352636,-72.691094,Scotti's,+14135865567,$,4.5,01053
+1612,78 Cape St Rte 112,lakes,beaches,mountainbiking,Goshen,92IccSMpeNXWe52Ggv17_g,42.4562642209699,-72.8050501434412,DAR State Forest,+14132687098,,3.5,01032
+1613,10 Fiske Ave,mexican,,,Greenfield,EWCyLEMETdIUFOmwMSRxTQ,42.58735,-72.60263,Mesa Verde,+14137722531,$,4.0,01301
+1618,300 N Main St,playgrounds,parks,,Northampton,mjQBU8XAp8_2PJ7CKtzxQw,42.3448070918515,-72.6871886508143,Look Memorial Park,+14135845457,,4.5,01062
+1619,3 Elm St,pizza,mediterranean,italian,South Deerfield,B9mlcSelTLSmYp3UQlMCxw,42.4771728515625,-72.609130859375,Holiday Pizza,+14136658195,$,4.5,01373
+1624,193 Chestnut Plain Rd,french,tradamerican,,Whately,75CHObb-0bxspwAaWcHsyw,42.4398746,-72.6349179,The Whately Inn,+14136653044,$$$,3.5,01093
+1626,Elm Street At Bedford Ter,museums,,,Northampton,stVjFyJvZMtxujD7Qm3A7g,42.3186638416036,-72.6363557889897,Smith College Museum of Art,+14135852760,,4.5,01063
+1627,265 Greenfield Rd,pizza,,,South Deerfield,zKiHmDHXaZVVYVe4Qm1nTg,42.50758,-72.60667,Hillside Pizza,+14136655533,$$,4.5,01373
+1631,141 Buckland Rd,bars,tradamerican,comfortfood,Ashfield,1FDg-B7ddSPoZirUJXsdtQ,42.53083,-72.8026299,The Ashfield Lake House,+14136280158,$$,3.5,01330
+1634,178 Pine St,chinese,,,Florence,PpYOxFZq2tiveGDysCIloQ,42.3308018,-72.6770207,Great Wall Restaurant,+14135820399,$$,3.0,01062
+1635,101 Armory St,wine_bars,,,Northampton,rAXN_JnHAamDOug5avuALA,42.3186683654785,-72.6296768188477,ConVino Wine Bar,+14133413977,$$,3.5,01060
+1636,25 Armory St,bakeries,,,Northampton,QPxeUr4hRGXOFvHFAqy9Vg,42.3183121995421,-72.6294465780473,La Fiorentina Pastry Shop,+14135867693,$$,3.5,01060
+1637,71 Pleasant St,pizza,,,Northampton,RJsTZN7pEG9hSgvJsgtShQ,42.318622,-72.628813,Mimmo's,+14135841711,$,3.5,01060
+1638,39 Thayer St,delis,polish,,South Deerfield,pSPnC1hcf-CO-uMQJF0NQQ,42.472156,-72.608634,BBA Deli Market,+14136659171,$,4.5,01373
+1640,14 Masonic St,pubs,poolhalls,,Northampton,usJAlEt4uY_eWEcND3lodw,42.31812,-72.63342,Packards,+14135845957,$$,3.5,01060
+1641,372 State Rd,diners,tradamerican,,Whately,h33tLUMqn4OoS_WWpryfOQ,42.4640578,-72.618024,Whately Diner,+14136653696,$,3.0,01093
+1642,21 Main St,sportsbars,burgers,sandwiches,Northampton,7g4crrgI44YuvB5zzdAxfg,42.32026,-72.62914,Toasted Owl Tavern,+14135855088,$$,3.5,01060
+1643,233 Main St,greek,mediterranean,,Greenfield,l0NWu0BZldXF3jHhk9SDgQ,42.587867,-72.602179,El Greco Cafe,+14137742844,$,4.0,01301
+1644,7 Strong Ave,newamerican,italian,cocktailbars,Northampton,ZKUPDRb212aHYFMxrssEJA,42.3199679328172,-72.6285998420788,Homestead.,+14135860502,$$,3.5,01060
+1645,81 Old Main St,beer_and_wine,tradamerican,breakfast_brunch,Deerfield,k8vXS4BM-dzeV3xRu2w15Q,42.547022,-72.604508,Champney's Restaurant & Tavern,+14137723087,$$,3.5,01342
+1646,446 Damon Rd,parks,,,Northampton,rKbDHsBW175cyue4xR07tA,42.335067,-72.622108,Norwottuck Rail Trail,,,4.5,01063
+1647,223 Pleasant St,italian,pizza,,Northampton,rEfVdfn-HKiKFqhKFkCpMQ,42.3171899,-72.62676,Roberto's,+14135840204,$$,3.5,01060
+1648,1 Amber Ln,coffee,juicebars,breakfast_brunch,Northampton,PhX9OVoiUHTHSQIlZOJnOw,42.3183623879961,-72.6321603086328,Iconica Social Club,+14133410258,$$,4.5,01060
+1649,49 Main St,chinese,,,Williamsburg,YbZg252i3vJ9wmf-gsgUog,42.4294774979353,-72.7925515919924,Panda Garden,+14132688811,$$,3.0,01096
+1650,12 Crafts Ave,pizza,italian,,Northampton,rtis-qeRo9Lf7QkevgCVAA,42.31748,-72.63155,Pizzeria Paradiso,+14135861468,$$,3.5,01060
+1651,150 Main St,cafes,coffee,,Northampton,s8OW-375kYYrSXL-yMFNvw,42.31834,-72.63117,Share Northampton,+14135862649,$,4.5,01060
+1652,188 Cape St,parks,vacation_rentals,venues,Goshen,XE9hZb0mzKsQ8KKYw9Moiw,42.4715063,-72.8095701,Three Sisters Sanctuary,+14132683677,,5.0,01032
+1654,15 College St,sushi,noodles,,South Hadley,440Haw4I0cldMLRUgHOFgw,42.2589501441633,-72.5757062618697,IYA Sushi and Noodle Kitchen,+14135388222,$$,4.0,01075
+1655,461 Granby Rd,sushi,salad,japanese,South Hadley,fXQ6Sua1fDN5938SHg0Rjw,42.235034,-72.563554,Master Chef,+14133220993,$$,4.0,01075
+1656,455 E State St,icecream,burgers,sandwiches,Granby,2gHV3VBB6TvviL9xQN8aVA,42.2646768906583,-72.4798295893378,Cindy's Drive In,+14134679866,$,4.5,01033
+1663,23 College St,coffee,wine_bars,,South Hadley,zB5bmmulq9e8vLPo3GwcbQ,42.2584044,-72.5762613,Thirsty Mind Coffee and Wine Bar,+14135389309,$,4.5,01075
+1667,221 E St,sushi,japanese,asianfusion,Ludlow,-MtDbQXf_9Lm-w65U6OqyA,42.158277549166,-72.4772024400967,Blue Water Sushi,+14136101167,$$,4.5,01056
+1671,1625 Memorial Dr,mexican,bars,,Chicopee,emj2QSQP6NjU4axpv0uKKQ,42.2017173,-72.5712192,Frontera Grill,+14136122800,$$,4.0,01020
+1672,159 Grove St,korean,soup,bbq,Chicopee,1o4zhv6Z8SqGfvsRivBQ0g,42.154492,-72.5846364,Cana Korean Restaurant,+14135921362,$$,4.5,01020
+1673,480 Granby Rd,thai,,,South Hadley,MTF6ZbQY_QKSQ-CtmG20-Q,42.23465,-72.56226,Thai Place,+14135339231,$$,4.0,01075
+1674,460 Memorial Dr,indpak,buffets,desserts,Chicopee,ALGLKupbx3-pZC6Dspd04g,42.1706892199702,-72.5779697022709,Priya Indian Cuisine,+14135945555,$$,4.5,01020
+1676,337 E State St,breakfast_brunch,diners,,Granby,nS5i9j0suJPnuCGOccGjdQ,42.2624359677306,-72.5024160370231,Earlee Mug,+14134673244,$,4.0,01033
+1680,501 Memorial Dr,hotdogs,,,Chicopee,lVxHsAyvK2gVqZCZ7C1J6w,42.171254,-72.5765328,Chick-fil-A,+14135924500,$,4.5,01020
+1683,609 Page Blvd,breakfast_brunch,newamerican,sandwiches,Springfield,Gf2HBhaLH-g6qsJzyWVEYw,42.1404,-72.55842,Eat,+14132760040,$,4.5,01104
+1685,749 James St,steak,seafood,,Chicopee,AXbfEk1nCHeW4xbajGGgxg,42.19969,-72.56527,Bernie's Dining Depot,+14135399268,$$,3.5,01020
+1688,1305 Riverdale St,donuts,bagels,coffee,West Springfield,f3acY6KyXV7MgABi6xalBA,42.13942,-72.62609,Donut Dip,+14137339604,$,4.5,01089
+1689,2133 Boston Rd,coffee,bakeries,italian,Wilbraham,qbJvIW1SqsD9HoLITw1PrA,42.14976,-72.46845,Pan'e Dolcetti,+14133263299,$,4.5,01095
+1691,13 Center St,german,wine_bars,beerbar,Chicopee,PZQgCcfOxGo_xPCwCawksA,42.1478,-72.60667,Munich Haus,+14135948788,$$,4.0,01013
+1702,34 Cottage St,icecream,,,Easthampton,b2RZLszNablbPh0_jKfjhw,42.2646141052246,-72.6671981811523,Mt. Tom's Homemade Ice Cream,+14135292929,$,4.5,01027
+1708,455 Breckwood Blvd,poke,asianfusion,hawaiian,Springfield,RrSr3TjepBO6zBp6DjdN1w,42.1171398,-72.5239512,Joy Bowl,+14134551280,$$,5.0,01109
+1709,3 Hadley St,newamerican,,,South Hadley,e-iMqL0kCYGvm1tcK2txAg,42.2593067,-72.5750082,The Yarde Tavern,+14133154339,$$,3.5,01075
+1710,125 W Bay Rd,museums,galleries,,Amherst,VhpRKw2w_x3foU0x2k5EFw,42.321,-72.53314,Eric Carle Museum of Picture Book Art,+14135596300,$$,3.5,01002
+1711,2009 Memorial Dr,markets,grocery,delis,Chicopee,TEMnHGEIkfXHcvtUAQ5TXQ,42.21206,-72.57138,Magri's Fruit Co,+14135351200,$$,5.0,01020
+1714,2090 Memorial Dr,chinese,japanese,sushi,South Hadley,OYeRm1Z4dmeZu4pZKJUk5w,42.21556,-72.57314,Ichiban Chinese & Japanese Restaurant,+14135339988,$$,3.5,01075
+1720,116 Pleasant St,burgers,cheesesteaks,pizza,Easthampton,FRZsoIol_jO7-XZjado4mA,42.272241,-72.664456,Riff's Joint,+14135278811,$$,4.0,01027
+1722,25 College St,newamerican,,,South Hadley,cei53vUx9XxFbQqZKd1t6A,42.2585266729489,-72.5763243336013,Johnny's Bar and Grill,+14135348222,$$,3.5,01075
+1725,36 Union St,bakeries,cafes,,Easthampton,d9qvLBCLy24LQNzQLvZ_kA,42.2690437804995,-72.6715128868818,Small Oven,+14135271785,$$,4.5,01027
+1731,631 Center St,markets,delis,bakeries,Ludlow,bB2PCxshQ1rRqI5cMUfIhg,42.17961,-72.4728,Randall's Farm,+14135897071,$$,4.0,01056
+1734,161 High St,spanish,puertorican,,Holyoke,sgXbW9b7crlHrFkyTMyBXA,42.2081898,-72.6067373,Fernandez Family Restaurant,+14135321139,$,4.5,01040
+1735,125 Reservation Rd,hiking,parks,,Holyoke,DAnyaB7q94-KfCiRYIVTXQ,42.2681,-72.62517,Mount Tom State Reservation,+14135341186,,4.5,01040
+1737,537 Main St,newamerican,burgers,sandwiches,Springfield,I5DLG_Vipaq5tBEB3Gx0-w,42.1554911138439,-72.4866483360529,Brickhouse Tavern,+14133632728,$$,4.5,01151
+1739,46 Morgan Rd,italian,,,West Springfield,N49WTY9ZwUyq0OOl2cZ3_g,42.1301166,-72.6281709,Bottega Cucina,+14137322500,$$,4.0,01089
+1740,42 Cottage St,newamerican,asianfusion,,Easthampton,RB6vzkkZZlDvwfFjneuKLA,42.26461,-72.66719,Daily Operation,+14132031541,$$,4.5,01027
+1741,228 Northampton St,seafood,sandwiches,burgers,Easthampton,9AF-q3Ff8RYC2X378KojGA,42.287661,-72.663165,Captain Jack's Roadside Shack,+14132035367,$$,4.0,01027
+1742,19 College St,newamerican,,,South Hadley,tWd-y3R1sMW8OnwhVnHpmg,42.258691,-72.576306,Food 101,+14135353101,$$$,3.0,01075
+1743,9 Railroad St,bagels,breakfast_brunch,,Easthampton,Rn2-QMw-eJrhzYEgON_Odg,42.2668239458347,-72.6711308354225,Tandem Bagel Company,+14132035591,$,4.5,01027
+1752,232 Lyman St,pizza,vegan,gluten_free,Holyoke,YPztktLDmMZR3I0B5zKaGQ,42.2112553,-72.6092554,Pizza D'Action,+14135325860,$,4.0,01040
+1753,223 Granby Rd,icecream,,,Granville,d-dI-ukWSIIHjPNpOgQ4lw,42.0523193,-72.8586136,Gran-Val Scoop,+14133570164,$,4.5,01034
+1754,11 Granby Rd,convenience,delis,,Granville,YX9WlOS0UfQA8BEuegEw2A,42.0661592438345,-72.8618863520456,Granville Country Store,+14133578555,$$,4.0,01034
+1755,2 Hartland Blvd,newamerican,italian,,Hartland,RG4qpezidFkqRuExuSeltA,41.9987536929029,-72.9046833515167,Coach Stop,+18604133545,$$,3.5,06027
+1756,815 Blandford Rd,bakeries,sandwiches,desserts,Russell,EjmoByvU0tm0QJaFe6EA6Q,42.16665,-72.860528,Bread Basket,+14138620044,$,5.0,01071
+1757,65 Westfield Rd,hotels,newamerican,lounges,Russell,8w4W6zR1PESowk4u_aLYIg,42.163813860793,-72.8284650158691,Russell Inn,+14138623608,$$,3.5,01071
+1758,1542 Main Rd,foodstands,,,Granville,nNCyiuwE-xtBc2H-vV9aDw,42.0782279968262,-72.9402923583984,Deb's Hot Dog Stand,,,5.0,01034
+1759,410 Tolland Rd,hiking,parks,fishing,East Otis,-BMtMEmfJfSiM9IV7-XyoQ,42.15875,-73.06296,Tolland State Forest,+14132696002,,4.5,01029
+1760,130 Lost Acres Rd,farmersmarket,newamerican,,Granby,sdZhzAGbI6w6wibk89MwMw,42.0095699,-72.86153,Lost Acres Orchard,+18606536600,$,4.0,06035
+1761,1898 E Otis Rd,pizza,pubs,tradamerican,Otis,dszOlLrMfHdrsDTfV6YzCg,42.17358,-73.03564,Knox Trail Inn,+14132694400,$$,3.5,01253
+1762,119 S Main Rd,diners,,,Otis,tzGeP8RTMlywrPLoufd_Fw,42.1899823524507,-73.0904081204439,Farmington River Diner,+14132696874,$$$,3.5,01253
+1763,90 S Main St,italian,pizza,,Sandisfield,VHpsPaKR-tnAAiEn2sj9-w,42.08714,-73.07251,Villa Mia,+14132584236,,3.5,01255
+1764,323 W Hartland Rd,hiking,parks,campgrounds,Granville,b382bp4zt7AmEb4OjPoexg,42.059711,-72.971482,Granville State Forest,+14133576611,,4.0,01034
+1765,98 Main St,restaurants,,,Blandford,tKqf75fMPHTj85dyeSIZxQ,42.17962,-72.92412,Blandford Country Store & Cafe,+14138482600,,4.5,01008
+1766,1922 E Otis Rd,grocery,burgers,sandwiches,East Otis,fDnZGo3bxmQlMZo3m2T96w,42.1731642,-73.034965,Katie's Country Store,+14132694211,$$,3.0,01029
+1767,61 S Main St,pizza,,,Sandisfield,9E7bSiKklQQX5ITubqhy7Q,42.0787,-73.06869,M J Tucker's,+14132584040,,4.0,01255
+1768,10 North St,festivals,localflavor,,Blandford,0MPJMAvjQabBb6tS-kM4Rg,42.184307,-72.929003,The Blandford Fair,+14138480995,,4.0,01008
+1769,50 North St,burgers,hotdogs,coffee,Blandford,J0BGjdVn8DRjfWcNGn_WVA,42.194427,-72.93425,McDonald's,+14138482518,$,1.5,01008
+1770,,hiking,,,Southwick,jCnlqFAjQHprziLCHh_cog,42.0743107465224,-72.8270166367292,Granville Gorge,,,4.0,01077
+1771,,wedding_planning,bakeries,,Westfield,l9Ee92VaONhEy3WU5Dp9cA,42.12022,-72.75415,Royal Icings,+14134543942,$$,5.0,01085
+1772,22 S Rd,landmarks,,,Hartland,YdHqQQ7c903Vrcfq4S-ysw,41.9961025,-72.9084582,Hartland Historical Marker,,,3.0,06027
+1773,119 S Main St,bakeries,,,Otis,LahKqPODbfEpn98hBkRiBw,42.0937239378691,-73.0758599191904,Farmington River Country Store,+14132696874,$$,1.0,01253
+1774,1891 Post Rd,foodtrucks,seafood,,Fairfield,uAsX05YvKYKX7XMqdYFNZQ,41.140451,-73.264689,LobsterCraft,+12032925350,$$,4.5,06824
+1849,95 Main St,newamerican,bars,,Easthampton,fzabRje-Jg3lWBOSiaUvww,42.2704507067608,-72.6726743214659,Coco & The Cellar Bar,+14132035321,$$,4.5,01027
+1860,458 Russell St,tradamerican,diners,breakfast_brunch,Hadley,_-DpIGE758Vq2hSJTF-P2w,42.3655072874757,-72.5364167243242,Johnny's Roadside Diner,+14132568000,$$,3.5,01035
+1863,322 Russell St,coffee,,,Hadley,UE826ZlmmHHJ3Hctgph5qw,42.3553459346294,-72.5558345764875,Shelburne Falls Coffee Roasters,+14135821890,$,4.0,01035
+1868,367 Russell St,korean,,,Hadley,Vax50JhWTgAdpRJyAWimoQ,42.35599,-72.54771,KKulJaem Korean Kitchen,+14133870585,,4.5,01035
+1871,269 Pleasant St,coffee,,,Northampton,s2ZGSZeydACkzmg2CkQG0w,42.3167898505926,-72.6261232048273,Northampton Coffee,+14135878987,$$,4.0,01060
+1872,122 Main St,pizza,,,Northampton,6QCYOMTbgwCayBYfd72t3Q,42.31872,-72.63035,Pinocchio's Pizzeria,+14135868275,$,4.0,01060
+1873,1 Bridge St,italian,bars,,Northampton,biPLLM7fpLkTV-sdr1_G0w,42.3205604626326,-72.6281838777878,Spoleto Restaurant,+14135866313,$$,3.0,01060
+1874,324 King St,diners,venues,,Northampton,9y8vujKi-sLCicAxESLd0w,42.33465,-72.636,Bluebonnet Diner,+14135843333,$,3.5,01060
+1875,546 Main St,bars,italian,,Hampden,mb_yMnSRswDTs3hbR_st-A,42.06276,-72.4175099,Casa Bella Italian Kitchen And Bar,+14135661466,$$,4.0,01036
+1876,84 Center Sq,newamerican,tradamerican,italian,East Longmeadow,NYYIGL8JP4g2XQuyxivq-A,42.0654985,-72.5148327,Center Square Grill,+14135250055,$$,4.0,01028
+1877,1374 Allen St,turkish,mideastern,seafood,Springfield,jXG4MNGxp8-xia-1i4feQQ,42.0940960228413,-72.5144910705872,Saray II,+14137965505,$$,4.5,01118
+1878,9 Allen St,pizza,italian,,Hampden,RkWI9RHeF938rHWc9upfdQ,42.0596536,-72.4420908,Gio's Pizzeria,+14135668015,$$,4.0,01036
+1879,20 E Longmeadow Rd,breakfast_brunch,,,Hampden,QxF6lr-VXxvlxOPJizwBzQ,42.0586143,-72.4423473,Reid's Corner,+14135668286,$,4.5,01036
+1880,757 Main St,markets,bakeries,icecream,Wilbraham,Vftqf_Y1dnQIOaNCKMINMA,42.104274,-72.436304,Rice Fruit Farm,+14135964002,$$,4.5,01095
+1881,182 N Main St,breakfast_brunch,,,East Longmeadow,5rVWRP3F9H7le5RAQEK0uQ,42.07145,-72.51796,Coughlin's Place,+14135251899,$,4.5,01028
+1882,540 Somers Rd,bakeries,icecream,farmersmarket,East Longmeadow,Apj8mVMOy9ZWiRT02LwSFQ,42.05093,-72.47909,The Apple Place,+14133489628,$,5.0,01028
+1883,1 Allen St,italian,,,Hampden,-4hbPMcWdMFEuhCJ75ZRMA,42.0587707310915,-72.4404861778021,La Cucina Di Hampden House,+14135668324,$$,3.5,01036
+1884,32 Shaker Rd,desserts,bakeries,,East Longmeadow,43GbW3GmfzCqo6qce1SVCA,42.0637310033607,-72.5134670734406,Pete's Sweets,+14135256062,$$,4.5,01028
+1885,60 Shaker Rd,coffee,,,East Longmeadow,gIggBVegyrJw7jV1l85fvw,42.062405,-72.51376,Shelburne Falls Coffee Roasters,+14132242050,$$,4.0,01028
+1886,548 Main St,cupcakes,desserts,bakeries,Hampden,g5VpxinaPvCTqW7dHTb_Og,42.0634261,-72.4170637,Cupcake Cafe Hampden,+14135255800,$$,4.0,01036
+1887,159 Shaker Rd,delis,sandwiches,newamerican,East Longmeadow,A2E7BDtZHvlOfaraA3CTCQ,42.0579993,-72.517425,Frigo Foods,+14135259400,$,4.0,01028
+1888,462 Main St,cafes,salad,sandwiches,Wilbraham,jXamKqdG9BeRc2LrgagKiw,42.12259,-72.4309,Village Store & Cafe,+14135963300,$,4.0,01095
+1889,320 Cooley St,pizza,italian,,Springfield,hax0L5Z8G-3EAQDsYOXdIw,42.0950132390435,-72.4990786515415,Leone's Restaurant,+14137834363,$$,3.5,01128
+1890,285 High St,mideastern,foodtrucks,breakfast_brunch,Holyoke,E-GBzX-_puSiAIQBHf5XTA,42.206426,-72.6086119,Holyoke Hummus Company,+14132251755,$,4.5,01040
+1891,34 Somers Rd,bagels,coffee,,Hampden,y8LVNG8aXlmxz32xnRPKGQ,42.0562682,-72.4399729,The Bagel Nook,+14135662286,$,4.0,01036
+1892,1203 Parker St,chinese,japanese,sushi,Springfield,2l4l2aGHo3JvyAsQ30AcQg,42.1165726,-72.498659,Ginger Blossom,+14137838300,$$,3.5,01129
+1893,162 Shaker Rd,italian,pizza,,East Longmeadow,mNNTXbRPA6xKsWAFEJekdA,42.0574039,-72.5172633,Fazio's Ristorante & Pizzeria,+14135252735,$$,4.0,01028
+1894,12 Mall St,steak,bbq,,Springfield,ZgBGVR0jmg9IyP6_qx-wlw,42.0944273742272,-72.5000617306824,Texas Roadhouse,+14137828100,$$,3.5,01128
+1895,1168 Boston Rd,latin,,,Springfield,m1AUh5Enj2_8pIs1W2mGdQ,42.139824,-72.505369,Palate,+14133632354,$$,4.0,01119
+1896,415 Cooley St,asianfusion,sushi,japanese,Springfield,bpSvLt1XMLAY7tEhfCMapQ,42.09184,-72.4987,Tokyo Asian Fusion,+14137823333,$$,3.0,01128
+1897,46 Shaker Rd,breakfast_brunch,,,East Longmeadow,uptJi3HQFB89PuLLVaDEpQ,42.063139,-72.513617,Koffee Tyme,+14135258394,$,4.5,01028
+1898,128 Wilbraham Rd,newamerican,,,Hampden,I3hPUXO_T1KRcwW83aZSiw,42.0656899,-72.43407,GreatHorse,+14135668010,$$$,5.0,01036
+1899,134 Shaker Rd,pizza,,,East Longmeadow,d1_kG_CUok5Zd26OaVP5tA,42.0587958,-72.5163018,Pizza Shoppe,+14135252470,$$,3.5,01028
+1900,1219 Parker St,tradamerican,bbq,cajun,Springfield,UcrSN5M71NEpive27zjCow,42.11612,-72.49788,Wings Over Springfield,+14137839464,$$,3.5,01129
+1901,1899 Wilbraham Rd,pizza,,,Springfield,WfUccy0iBpYQRMNoovZXZg,42.1147327,-72.4975163,Pizza Palace,+14137824771,$,4.5,01129
+1902,1411 Boston Rd,mexican,bars,,Springfield,n7HMrtLa4dNArFDKzmoDVQ,42.1409001047393,-72.4963237345219,Frontera Grill,+14134552050,,4.0,01129
+1903,25 Allen St,icecream,,,Hampden,t1HM0qyn0bWqXjQiPTyvUQ,42.05988,-72.4424,Mountain View Drive In,+14135665376,$,3.0,01036
+1904,52 Main St,seafood,pizza,,Monson,o3g3py94erorbByKE47i2g,42.104267,-72.317604,Maria's Pizzeria & Seafood,+14132670111,$$,4.5,01057
+1905,53 N Main St,newamerican,bars,,East Longmeadow,EZTbio4sz6fUPIvixiRxfA,42.06691,-72.5135899,Bentley's Bistro,+14135257777,$$,3.0,01028
+1906,793 Main St,hiking,,,Hampden,qW6wNoGrQ78Q2eXS97nyEg,42.0647684476977,-72.4042535573244,Laughing Brook Wildlife Sanctuary,+14135668034,,4.0,01036
+1907,48 Shaker Rd,juicebars,coffee,,East Longmeadow,Zlmcbl64OvZXGGhPKVoWuw,42.06299,-72.51371,My Main Squeeze,+14135252533,$$,4.0,01028
+1908,436 Parker St,tradamerican,buffets,,Springfield,h8pzuk06KFhryJllLX0eYw,42.1424293518066,-72.4963073730469,Golden Corral Buffet & Grill,+14135434600,$$,3.0,01129
+1909,1404 Boston Rd,seafood,cajun,,Springfield,IFFkEPwixhBQgg9IfCCobQ,42.14188,-72.497,Juicy Seafood,+14132098297,$$,3.5,01119
+1910,338 Cooley St,chinese,soup,,Springfield,wK0jzyEit29bpeWqFhQvTQ,42.094299,-72.4989373,Peacock Chinese Restaurant,+14137839996,$$,3.5,01128
+1911,780 Boston Rd,grocery,delis,seafood,Springfield,DPOSF_hwd_0G_Q60dLvxMg,42.1369964,-72.5190457,5 Star Supermarket,+14137828888,$$,4.5,01119
+1912,14 Maple St,vietnamese,,,East Longmeadow,XJC6C0bzkrqMxiO2b2xDZw,42.06417,-72.51393,Phở Delicious - Authentic Vietnamese Cuisine,+14132242245,,4.0,01028
+1913,1333 Boston Rd,italian,,,Springfield,ze-YChGG0rVuGxjA7WgWkg,42.14036,-72.49912,Compari's Banquet Facility,+14137829968,$$,4.0,01119
+1914,1655 Boston Rd,irish,irish_pubs,,Springfield,SFZqYfQqWbR4P78-8uP2nQ,42.141569,-72.48702,Donovan's Irish Pub,+14135430791,$$,4.0,01129
+1915,5 Allen St,chinese,,,Hampden,p0PIC-Xo-Z_c5uf4ptRNAQ,42.0588349,-72.4407245,Min Chao Gourmet,+14135668000,$,3.5,01036
+1916,236 Shaker Rd,bakeries,cakeshop,customcakes,East Longmeadow,WX1rtHFVZt59ZnaIt7rwcQ,42.0538359,-72.518394,La Fiorentina Pastry Shop,+14135260905,$$,3.5,01028
+1917,1490 Allen St,mexican,,,Springfield,E1yNA7a2TehGpiM-QXE1-Q,42.09321,-72.51024,Sabores,+14133016307,,4.0,01118
+1918,Country Club Dr,hiking,,,Hampden,_8q2mpJeSSOEeIVXMJIYJQ,42.0597436045088,-72.4341900274158,Goat Rock Ridge Trail,,,4.5,01036
+1919,39 Maple St,pizza,italian,,East Longmeadow,9QxngSMOIiRLPvvdRaZXJg,42.06411,-72.51569,De Nardo's Pizzeria & Restaurant,+14135253600,$$,3.5,01028
+1920,965 Boston Rd,pizza,italian,sandwiches,Springfield,dSYlB7JL1ki4zNqMvFIszg,42.1379737854004,-72.5121154785156,Siano's Pizzeria & Restaurant,+14137820066,$$,3.5,01119
+1921,1911 Wilbraham Rd,chinese,,,Springfield,qp3oeJHdIEq--wmA9_Psag,42.1141541537004,-72.4978381619713,Main Garden,+14137821013,$,3.5,01129
+1922,1192 Parker St,pizza,italian,,Springfield,Ekrf4syMooqKVyXJoAeP0Q,42.1165321,-72.499016,Parker Pizza,+14137961111,$$,3.5,01129
+1923,360 Cooley St,sportsbars,tradamerican,salad,Springfield,6H_PdeeEiI9b4VJ2f18Ctg,42.0945954327243,-72.5014025055573,Christopher's Tavern,+14133630650,$$,2.5,01128
+1924,43 Butler Rd,hiking,,,Monson,JQJq6k_o9Wqe7owPe-2xxg,42.0435302910283,-72.3502474183967,Peaked Mountain,,,5.0,01057
+1925,1 Crane Park Dr,pizza,sandwiches,salad,Wilbraham,XQvkLpEj6tKzRo2p1zrdUw,42.1218736043268,-72.4297935060459,Pafumi's,+14132793303,$$,4.0,01095
+1926,1810 Wilbraham Rd,pizza,,,Springfield,12wcHCFE4KtkXdyV8EWXvg,42.116081237793,-72.4995956420898,Bruno's Pizza 16 Acres,+14137833333,$$,3.5,01119
+1927,1380 Boston Rd,italian,salad,,Springfield,rh87yudqa5a-iURHMZJfrA,42.1415320426003,-72.4975126214264,Olive Garden Italian Restaurant,+14137839003,$$,3.0,01119
+1928,60 Shaker Rd,italian,,,East Longmeadow,hg9_mB-vLWnoJ7xRLqpnyg,42.06239,-72.51375,Mario's Cafe Ambiance,+14132242295,$$,3.0,01028
+1929,302 Cooley St,tex-mex,tradamerican,bars,Springfield,f8MNpvdz1J5WH6kQCPc4ww,42.0950482,-72.4986301,Chili's,+14134269507,$$,2.0,01128
+1930,1655 Boston Rd,pubs,tradamerican,desserts,Springfield,ew2tljzEvKuC1KHWoQrNIQ,42.14139,-72.487551,99 Restaurants,+14132738999,$$,3.5,01129
+1931,1655 Boston Rd,mediterranean,,,Springfield,2jWPG3T4w4DdbUD_ffg5Pw,42.1407585,-72.4864426,Mykonos II,+14135433675,$,4.5,01129
+1932,1826 Allen St,pizza,,,Springfield,_LnsCTAhf3zrteMxR2Traw,42.09039,-72.49984,Pizza Makers,+14137836126,$$,3.0,01118
+1933,793 Boston Rd,pizza,italian,chicken_wings,Springfield,mr-OJn189W8ZoQBTIYjp0Q,42.1366865510233,-72.5181200309044,Pizza Hut,+14133820090,$,2.0,01119
+1934,1655 Boston Rd,coffee,,,Springfield,LgQOO5MCdwjtHrM_RYzyHA,42.1407585,-72.4864426,Mocha Emporium,+14135434649,$,5.0,01129
+1935,108 Cottage St,musicalinstrumentsandteachers,guitarstores,beerbar,Easthampton,F3ARgD9oz26kcW4Hw33YZQ,42.2641129783388,-72.6646733162091,Luthier's Co-Op,+14135276627,$$,4.5,01027
+1936,1057 Boston Rd,hotdogs,burgers,icecream,Springfield,tHCH-nNzfwYV29tuj4n9Yw,42.138423,-72.5085312,Sonic Drive-In,+14133042061,$,2.5,01119
+1937,112 Allen St,golf,mini_golf,,East Longmeadow,i-iy7kYDTqW7iuCcDlE2ZA,42.084109,-72.482908,Fenway Golf,+14135254444,,3.0,01028
+1938,1264 Boston Rd,mexican,tex-mex,hotdogs,Springfield,1e7CYOm8lBUHph7O03iANA,42.14106,-72.50295,Taco Bell,+14134269636,$,3.5,01119
+1939,906 Boston Rd,chinese,,,Springfield,M_ToVgKYo4gMrvvWFFGdCg,42.1379699707031,-72.5143661499023,906 Homwin Chinese Restaurant,+14137838906,,3.0,01119
+1940,1291 Boston Post Rd,pizza,burgers,chicken_wings,Springfield,joB60NYFypqX91UefDkKCw,42.1403859,-72.5008455,Boston Road Pizza,+14137967777,,3.5,01119
+1941,59 Maple St,chinese,,,East Longmeadow,Cd9Z5X43e0ZRtq2mHaQXjA,42.0635885,-72.5165277,Jack Chen's,+14135269828,$$,3.0,01028
+1942,955 Boston Rd,icecream,hotdog,,Springfield,v4sRuHrAxqilOZ-mD1xn9A,42.13781,-72.51256,Big Daddy's Ice Cream & Hot Dogs,+14137836300,$,3.0,01119
+1943,270 Cooley St,tradamerican,breakfast_brunch,burgers,Springfield,XNx-MsFB8X4orIxEn1IBiA,42.0946,-72.5011,IHOP,+14133424002,$$,2.5,01128
+1944,1284 Boston Rd,diners,tradamerican,breakfast_brunch,Springfield,pQ0eNvBaT8F8C29Zv8oAyQ,42.1408805,-72.501202,Denny's,+14137823300,$$,1.5,01119
+1945,1387 Boston Rd,comfortfood,tradamerican,sandwiches,Springfield,NHE9EyCXID1wjUZHOPJTAA,42.1406478881836,-72.4971694946289,Boston Market,+14132713808,$,3.0,01119
+1946,26 Highmoor Dr,hiking,,,Wilbraham,5wABt-lph-IsZeZFL6RqTw,42.1024476927246,-72.4264277145267,Rice Nature Preserve,,,4.0,01095
+1947,762 Boston Rd,chinese,,,Springfield,D4puaoC3Lk5pE4sSwNunVQ,42.13692,-72.51926,China Bo Express,+14132735980,,3.0,01119
+1948,1349 Boston Rd,tradamerican,sportsbars,burgers,Springfield,jvpKH8Nx47Deg_Elp7mvxA,42.1406753,-72.4988564,Applebee's Grill + Bar,+14137968183,$$,2.0,01119
+1949,1350 Allen St,pizza,italian,sandwiches,Springfield,IfXmyVW8cF0DfVpz5oIx-A,42.09405,-72.51515,Golden Pizza,+14137831109,$$,2.5,01118
+1950,1190 Boston Rd,donuts,coffee,,Springfield,DskaDubiTgMUBMEMksgPnQ,42.1399169415236,-72.5045158714056,Dunkin' Donuts,+14137837104,$,2.5,01119
+1951,25 Park Rd,hiking,parks,discgolf,Monson,GEpPtRZfgn96whnLsuUl6w,42.1032330597399,-72.3239876961687,Mountainside Disc Golf at Flynt Park,+14132674105,,5.0,01057
+1952,3 Allen Pl,donuts,coffee,,Hampden,wU1EjrZKM3cDL6LGwWupeQ,42.067886,-72.452502,Dunkin' Donuts,+14135668003,$,1.5,01036
+1953,Town Green,landmarks,,,Wilbraham,ewafZHDDZFbPQxKrwlM4CQ,42.1208547,-72.4533721,Veterans' Memorial Earth Globe,,,5.0,01095
+1954,883 Tinkham Rd,parks,,,Wilbraham,fibML1n_IGGqA6w_lCPkpw,42.10296,-72.45487,Fountain Park,+14135962712,,4.0,01095
+1955,678 Main St,childrensmuseums,,,Wilbraham,PyN6q4PcgtlMlyKJ4Zb7zQ,42.10836,-72.43514,Wilbraham Children's Museum,+14135962472,,4.0,01095
+1956,1129 Boston Rd,icecream,,,Springfield,cNM3yqQY-GNFPgZtN49Lfw,42.1391676,-72.5064087,Friendly Ice Cream,+14135431286,$,3.0,01129
+1957,42 Center Sq,hotdogs,mexican,,East Longmeadow,wP59E3G0irF-vqpKGMH_BA,42.06512,-72.515104,Chipotle Mexican Grill,+14135251059,$,3.5,01028
+1958,55 Maple St,donuts,coffee,,East Longmeadow,AGyYkRCiFz0ebc47EhkUlQ,42.0637891799579,-72.5162786230213,Dunkin' Donuts,+14135269944,$,2.0,01028
+1959,1918 Wilbraham Rd,donuts,coffee,,Springfield,0uT2VQ-juGYeMpxrC_gtpw,42.1151695251465,-72.4971084594727,Dunkin' Donuts,+14137831403,$,2.0,01129
+1960,391 South Road,pizza,,,Sheffield,PgeKSEuHFOYks-7LQcZfug,53.3944168,-1.5024148,Italian Express,+441142315757,££,5.0,S6 3TD
+1961,1300 Boston Rd,tex-mex,mexican,,Springfield,jz-t1jQYPEeJ7ROvcn960A,42.14131,-72.50057,Moe's Southwest Grill,+14133631397,,3.0,01119
+1962,9 Allen St,pizza,,,Hampden,IU0QtamwIWFCbCUmrwbV2w,42.0591022255081,-72.4409108014087,Pop's Pizza,+14135668015,,1.0,01036
+1963,1420 Allen St,hotdogs,burgers,,Springfield,5632fwrUZPu-TufwwFU9DQ,42.0947304,-72.512413,Wendy's,+14137825134,$,1.5,01118
+1964,1465 Boston Rd,sandwiches,,,Springfield,UXVfq9o1KLkovYLSsdEu-A,42.14115,-72.4943399,D'Angelo,+14135435278,$,4.0,01129
+1965,4 Allen St,sandwiches,hotdogs,,Hampden,hJNHtqIAC6zNgGL9F1j8vg,42.0588294405936,-72.4403942219859,Subway,+14135663055,$,3.0,01036
+1966,757 Boston Rd,burgers,hotdogs,,Springfield,68WTARQY8lQB0rDUtVoYQA,42.1361656188965,-72.5192565917969,Wendy's,+14137825439,$,1.5,01119
+1967,1402 Allen St,hotdogs,coffee,burgers,Springfield,NX5hCRtwNJVxAWWHRNEDEA,42.094622,-72.512971,McDonald's,+14137838044,$,1.0,01118
+1968,Center Hill Park,landmarks,,,East Longmeadow,MN-l5_1NIuWSOk6gHKr_lQ,42.0614966,-72.5104801,The Quarryman,,,4.0,01028
+1969,400 Cooley St,burgers,hotdogs,,Springfield,Oa5h3HCBXaYLXQKjVsZSMQ,42.0928993225098,-72.4999389648438,Burger King,,$,2.5,01128
+1970,374 Cooley St,hotdogs,sandwiches,,Springfield,FVxRY7zDSBm50bTxlapBEg,42.094283,-72.500679,Subway,+14137837782,$,1.5,01128
+1971,1610 Boston Post Rd,coffee,burgers,hotdogs,Springfield,k6q5RxyN9j3XFfV2Be4AGw,42.1428147516783,-72.4894222396568,McDonald's,+14135433473,$,1.0,01119
+1972,112 Allen St,golf,,,East Longmeadow,qATEPFtWwpLxOseEiq4ICQ,42.083546,-72.4822487,Golf Learning Ctr Bob Lake At Fenway Golf,+14135250297,,5.0,01028
+1973,809 Boston Rd,coffee,burgers,hotdogs,Springfield,1R5pgDnnzXZcRSvpjmHpPQ,42.136743,-72.517783,McDonald's,+14137832328,$,1.5,01109
+1974,7925 S Broadway Ave,pizza,italian,chicken_wings,Tyler,pCo6MiA4P82HObDYl-ylEQ,32.261194,-95.30885,Pizza Hut,+19035616141,$,1.0,75703
+1975,412 Main St,bakeries,breakfast_brunch,tradamerican,Gilbertville,1rd3Z8l2Ldh5GS2nhNintA,42.304067,-72.211452,Rose32 Bread,+14134779930,$$,4.5,01031
+1976,500 West St,breweries,tradamerican,,Barre,bSTIM0u6sZuMmS6GX0mTqA,42.4247357,-72.1242577,Stone Cow Brewery,+19782578600,$,4.5,01005
+1977,2 Common St,newamerican,seafood,,Barre,mrnvGU8_BnE6uHKHEG5XYg,42.42277,-72.1061299,Picasso Restaurant & Bar,+19783553099,$$,4.5,01005
+1978,260 W Main St Rt 9,landmarks,venues,tradamerican,West Brookfield,ekTKSMIx3hd5XXNmFeT-Bg,42.2460335987962,-72.1747081086731,Salem Cross Inn,+15088672345,$$$,4.0,01585
+1979,2 N Main St,grocery,cafes,artsandcrafts,Petersham,NSR3gnnaeCJfL99xif_PNQ,42.48871,-72.18573,Petersham Country Store,+19787240000,$$,4.5,01366
+1980,31 Federal St,pizza,,,Belchertown,AlqOI5JtcvjDua4CERhGMA,42.2898815960091,-72.4088935579308,Antonio's Pizza,+14133236844,$$,4.0,01007
+1981,9 N Main St,bakeries,breakfast_brunch,sandwiches,Belchertown,oCq_1uSutCa1PgUrnplA9w,42.28034,-72.40398,Kristina's Kafe and Bakery,+14133235733,$$,4.0,01007
+1982,41 Main St,pizza,,,Ware,M5Simi8q6gjwA9yngORcwg,42.2599814229054,-72.2400694034169,Lazer's Pizza & Roast Beef,+14139673181,$,4.5,01082
+1983,25 Exchange St,cafes,breakfast_brunch,burgers,Barre,75a3UzxS-M6tL8W5Berg9g,42.4224345,-72.1044324,Becki's Bistro,+19783550012,$$,4.0,01005
+1984,149 E  St,icecream,,,Ware,6fi_W2KWSfPM03BgWIBq6g,42.264532,-72.2204192,Janine's Frostee,+14139677950,$,4.0,01082
+1985,146 West St,mexican,,,Ware,nB8kYU2SLIJHpHy3HskVDA,42.2555114,-72.2521185,Mexicali Cantina Grill,+14132770925,$$,3.5,01082
+1986,91 Main St,seafood,beer_and_wine,newamerican,Ware,w7OhIPtYkrCNLt8P2uIavA,42.2605129935206,-72.2413601052226,Hanna Devine's Restaurant,+14132770707,$$,4.0,01082
+1987,485 Ware Rd,parks,lakes,,Belchertown,VfNhB7lySwqPFkR3B6AsPw,42.2770346,-72.4008884,Quabbin Reservoir,+14133237221,,5.0,01007
+1988,121 E Main St,tradamerican,,,West Brookfield,t2YP9KwOFbufQ5CdDnGspw,42.2305,-72.13282,Howards Drive In,+15088676504,$,4.0,01585
+1989,315 Palmer Rd,pizza,italian,venues,Ware,_M9tO4EUkGSL4mtSnECcrA,42.24245,-72.274393,Teresa's Restaurant,+14139677601,$$,4.0,01082
+1990,355 E Main St,thai,,,East Brookfield,BR-rauP8Dl8iRI1xEOJLlw,42.2274131,-72.0419256,Thai House Restaurant,+15088674900,$$,4.5,01515
+1991,14 Barre Rd,coffee,breakfast_brunch,sandwiches,Hardwick,Oa9YXvAs50RB-Xhc2BwXlg,42.3486171468542,-72.1993167786787,Mimi's CoffeeHouse Of Hardwick,+14134771144,$$,4.5,01037
+1992,5 E Walnut St,bars,irish,,Belchertown,E4RyhqBNIZ6AvdFTNRrmUQ,42.2802,-72.4032299,McCarthy's Pub,+14133236420,$$,4.0,01007
+1993,54 W Main St,chinese,,,Ware,USutlpAeiWDKGUnbOxz_HA,42.2601,-72.24562,Debbie Wong,+14139673336,$$,4.0,01082
+1994,285 W Main St,burgers,,,East Brookfield,sv1DM6SpMcc2IdMCnqYZBg,42.21592,-72.07718,Brookies,+17742000537,$$,5.0,01515
+1995,245 W Main St Rte 9,tradamerican,breakfast_brunch,,East Brookfield,LMDM5k-YkN_rxeKHAFhXyQ,42.2192947517887,-72.0708427230705,E.B. Flatts,+15088676643,$$,3.5,01515
+1996,24 W Main St,cafes,catering,,Ware,Ul1WGrfWjffNRGfMmBkihg,42.26047,-72.24379,Ware Cafe & Catering Services,+14139674611,$,4.5,01082
+1997,57 Main St,chinese,,,Barre,NPQI9o4Gru4P1FYqfJ_NcA,42.3842252790928,-72.098863273859,Yummy Garden,+19783552022,$,4.0,01005
+1998,152 W Main St,chinese,soup,ramen,West Brookfield,ca3CuO8cgZFfGWYE-t25Qg,42.233873,-72.157657,Lin's Garden,+15088674499,$$,3.5,01585
+1999,124 West St,chinese,asianfusion,,Ware,8r4ilmXIWyFI5Xu_zR5ILA,42.255543,-72.249445,Asian Garden,+14132770725,$$,4.0,01082
+2000,7 E Main St,pizza,,,West Brookfield,qZ2mUZB1EFz2-Was9kft2Q,42.2349328,-72.1419567,Ye Olde Tavern,+15088679709,$$,3.5,01585
+2001,136 Pleasant St,chicken_wings,breweries,cocktailbars,Ware,Xk6_V-Sd08xSFqaQUCvZbw,42.2672853535435,-72.2480573767605,Wicked wings,+14132770020,,4.0,01082
+2002,97 East St Rt 9,bbq,,,Ware,PtAMmv9zA1q6y2NuKQNtPA,42.2599379693609,-72.2281836193848,Pig Park BBQ,+14135444712,$$,4.0,01082
+2003,308 E Main St,newamerican,beer_and_wine,,East Brookfield,9CB1T3OCrceK3JRmagcoMA,42.2270431518555,-72.0465240478516,308 Lakeside,+17744498333,$$,3.0,01515
+2004,8 Barre Rd,newamerican,comfortfood,burgers,Petersham,G_PPROO9ccur-m-GWzbZmA,42.481931,-72.183534,Quabbin Woods Restaurant,+19787243288,$,4.0,01366
+2005,815 Worcester Rd,tradamerican,,,Barre,K0o9LxfijA6wNfKOBUdgVg,42.391973,-72.0819719,J & J Family Restaurant,+19783552122,$$,4.0,01005
+2006,4 East Main St,salad,pizza,sandwiches,West Brookfield,s8ifd_imgK2jH0m0eZDntQ,42.2348093,-72.1424106,George's Pizza and Subs,+15088678100,$,3.5,01585
+2007,179 Main St,bakeries,cupcakes,,Sturbridge,rg7AQ-SnScgPj2dF1RpP5w,42.2138863453818,-72.1022561846557,Whoopie-Doo and Cupcakes Too,+17742413370,$$,4.0,01566
+2008,5 Meadow Rd,diners,,,Spencer,Yom8r1dLF2HMO5aSwII0Lw,42.237049280598,-72.010635589954,Charlies Diner,+15088854033,$$,3.0,01562
+2009,166 West St,icecream,breakfast_brunch,,Ware,ytaSuRAfFw7NyjugZlGSkQ,42.2543680923477,-72.2541291419154,Crystal Springs Dairy Bar,+14139676190,$,4.0,01082
+2010,111 N Main St,tradamerican,whiskeybars,winetasteclasses,Petersham,t7FbgEITiEReUrTte9mJiw,42.5031579313361,-72.1865090608826,Clamber Hill Inn & Restaurant,+19787248800,$$$,4.0,01366
+2011,3095 Main St,divebars,tradamerican,,Palmer,FhaArV8Sex3wL-Wyv6MQuw,42.213802,-72.344717,Gin Mill,+14132832014,$,4.5,01069
+2012,53 Gardner Rd,pizza,,,Hubbardston,i6J8CBgNw1t6rF2RR1B2uw,42.490675,-72.013496,Pizza Palace,+19789285454,$$,4.5,01452
+2013,59 Allen Dr,restaurants,venues,,Barre,2LDyfeKYEV033znbbUjJTg,42.42226,-72.10778,Harding Allen Estate,+19783554920,$$,3.5,01005
+2014,135 Pierce Rd,bakeries,customcakes,cupcakes,New Braintree,V2YJTwUWTm_K46tUZGUSdg,42.29342,-72.14855,June's Bakeshop,+14134776962,$$,5.0,01531
+2015,16 Cat Aly,bakeries,,,Barre,Ba4rMKayD3z5CrVVN4ui6Q,42.4223025,-72.1042016,Cakes by Amanda,+19782578451,,4.5,01005
+2016,2291 West St,seafood,beer_and_wine,icecream,Barre,3Y9OnIQ55G13AcdxFZkHjw,42.442644144625,-72.165020017677,High Tides Seafood,+19783556715,,4.5,01005
+2017,Route 9,landmarks,,,West Brookfield,S1x46Wi_5Qx_E5OfI4bj5Q,42.2680972932861,-72.1985453943232,Rock House Reservation,,,4.5,01585
+2018,62 West Main St,asianfusion,sushi,,Spencer,pMAyOdSf-r0M2Z2bdlpVQw,42.23375,-72.01408,Yamato Asian Bistro,+15088855288,$$,3.5,01562
+2019,1 Campus Center Way,divebars,lounges,,Amherst,DQjJm_h0cKlrP8NRz1lfjQ,42.386444,-72.3360443115234,U-Pub,+14135778118,$,4.0,01003
+2020,147 N Main St,chinese,,,Belchertown,F0kbFudS4Fj_UT0cJPn4Tg,42.2887515,-72.406968,Wong Garden,+14133236200,$,3.0,01007
+2021,118 Main St,pizza,greek,,Ware,I0zvQlGF1--ymQeJcxTO2A,42.260562,-72.242328,Niko's Pizza,+14139670436,$$,4.0,01082
+2022,6 W Main St,hotdog,burgers,fishnchips,Spencer,yPx4L-3zWVT4bhD9wofJ0Q,42.2376279610392,-72.0048223919266,The Dashboard Diner,+15088645472,$,5.0,01562
+2023,7 West St,newamerican,bedbreakfast,,Barre,ykJGWukwghYMNPwamxCj2A,42.423309,-72.107398,Jenkins Inn & Restaurant,+19783556444,$$,4.0,01005
+2024,1839 Lower Rd,bakeries,,,Hardwick,VbzvFs2v6sQMcLxZVFP4ZQ,42.343594,-72.1592485,Brynne's Bread,+19784133279,$$,3.0,01031
+2025,341 N Main St,bars,breakfast_brunch,food,North Brookfield,yIhVtwTmftVIpNYcxf9yMA,42.275866,-72.083283,Statz Sports Pub & Grill,+15088677204,$,4.5,01535
+2026,237 W Main St,diners,,,East Brookfield,Nb5fL0yMe1YUGQhMwEVsnA,42.219766,-72.069581,Rise N' Shine Diner,+15088670034,$,4.0,01515
+2027,11 Main St,chinese,,,Belchertown,vk2DFcUOZPFd9TprRxmCoQ,42.277134,-72.401396,Min Fen Kitchen,+14133238228,$,3.5,01007
+2028,219 N Main St,pizza,,,North Brookfield,JNRdBxmhf3BaiWwQX8VJmw,42.269747,-72.085661,Jim's Pizza,+15088678373,$,3.0,01535
+2029,4 Park St,pizza,desserts,salad,Belchertown,CUhWTw6pJoTt81sMf1d2jQ,42.2770346,-72.4008884,The Belchertown Pizza Shop,+14133230300,$$,2.5,01007
+2030,104 Pleasant St,desserts,delis,sandwiches,East Brookfield,LHU-3f0kpPrG8cB7lkDhpw,42.2256833290215,-72.04646605713,Depot Square Deli &Package Store,+15088673412,$,5.0,01515
+2031,90 Main St,italian,pizza,tradamerican,South Barre,4Jt27guQdNKXH3pJ9u1m5A,42.3840348,-72.1004294,Barre Mill Restaurant,+19783552987,$$,2.5,01074
+2032,294 E Main St,breakfast_brunch,,,East Brookfield,nO0WHyU8hH-fZox4vFx_Tw,42.226512,-72.047706,Trolley Stop Restaurant,+15088675995,$,3.5,01515
+2033,164 West St,chinese,,,Ware,KnJIbX__Sh1jW2XOu1wfQA,42.25453,-72.25311,United China Restaurant,+14139670311,$,2.5,01082
+2034,Bridge St,landmarks,,,Gilbertville,lsTpATByZ3kMrNW46wj4GQ,42.3101765138311,-72.2121635778179,Gilbertville Covered Bridge,,,4.0,01031
+2035,291 E Main St,musicvenues,pubs,,East Brookfield,AvtKtjWxZ0X8giwXe1-seQ,42.2262156,-72.0475005,Dunny's Tavern,+17744498012,,5.0,01515
+2036,32 Main St,breakfast_brunch,diners,sandwiches,Hubbardston,DOw6h_K6tTafiWgR2bSufg,42.4781684875488,-72.0094299316406,Hubb Town Diner,+19788201600,$$,3.5,01452
+2037,197 West St,pizza,,,Ware,uLvlyJle6VxAdZyw5wGqKg,42.251477,-72.258679,Astronaut Pizza House,+14139675685,$$,3.0,01082
+2038,289 East Main St,pizza,,,East Brookfield,5Reotu9GfyMCaMcAC4ET0w,42.226144,-72.047749,East Brookfield Pizza,+15088678777,$$,3.5,01515
+2039,570 Summer St,pizza,,,Barre,z5SDOfUA5zNhGmyXIAXe8A,42.4102211,-72.0980759,Northeast Pizza,+19783554333,$,2.5,01005
+2040,10 Moulton St,pizza,salad,sandwiches,Barre,5ld1TVlEcddnCbeq0ulxkQ,42.42168,-72.10447,Barre Pizza,+19783554595,$$,2.5,01005
+2041,237 W Main St,chinese,,,East Brookfield,0u096yYEmPF_74mcDYKFOQ,42.219459,-72.070868,Panda Garden 2,+15088673799,,3.0,01515
+2042,92 W Main St,donuts,coffee,,West Brookfield,aClrX-4JUlroJaX-VxPw3w,42.233214,-72.1508024,Dunkin' Donuts,+15088677440,$,4.0,01585
+2043,123 Main St,pizza,,,Ware,lQwRGkdMNvY6e_Zo1RSDVQ,42.26092,-72.2427,Villa's Pizza Restaurant,+14139674490,$,3.5,01082
+2044,753 Barre Rd,tradamerican,,,New Braintree,vlFtM9aSiPijxP6nYuRHvA,42.3236541748047,-72.1021881103516,Reed's Country Store,+15088679512,$,3.0,01531
+2045,380 Mill Valley Rd,golf,,,Belchertown,A-hEkFP78cSC45zms0mjOg,42.257826,-72.372917,Mill Valley Golf Links,+14133234079,,3.0,01007
+2046,11 Exchange St,pizza,,,Barre,-Rxt3cHlymvbWIPG7BBEnQ,42.42252,-72.10426,Quabbin Pizza House & Sea Food,+19783553536,,3.0,01005
+2047,1067 Worcester Rd,restaurants,,,Barre,J5BRVzL0o2u4tCkUZUUM2Q,42.3913459777832,-72.0739517211914,Kozy Kabin Restaurant,+19783556264,$,3.5,01005
+2048,248 Main,tradamerican,breakfast_brunch,sandwiches,Hardwick,6G7I24vIiyLp4_7nSNICew,42.30823,-72.21081,Whistle Stop Restaurant,+14134778888,$,2.0,01037
+2049,7 Worcester Rd,gastropubs,newamerican,,Barre,gLsN78yTskhjpdHMa6HA3A,42.4090505140105,-72.0973576462425,Ice House Pub,+19783553000,,2.0,01005
+2050,117 West St,coffee,burgers,hotdogs,Ware,n_s_vnPID1VDUO53PGE7qQ,42.2569839,-72.2498621,McDonald's,+14139673485,$,2.5,01082
+2051,2 Stadler St,grocery,delis,beer_and_wine,Belchertown,PZolckom78iMsIJY-lKb_g,42.2723345449639,-72.4103921048211,Checkers General Store & Deli,+14133234599,$,3.0,01007
+2052,2 St Marys Road,pubs,,,Oakham,63MT5KnJR-wq2KCXClE3ag,52.6324402,-0.7030912,The Horse and Jockey,+441572737335,,5.0,LE15 8SU
+2053,400 E Main St,pizza,,,East Brookfield,0GF5VFxjfJZqJ3lb69RZbQ,42.22993,-72.0374,Uncle Sam's Pizza,+15088855019,$,2.5,01515
+2054,377 Stetson Rd,sportsbars,,,Barre,j1ndNZNgfcksxLjA6m5TjQ,42.400344,-72.10456,Upperdeck Sports Bar & Grille,+19783552224,$$,4.0,01005
+2055,8 E Main St,breakfast_brunch,,,West Brookfield,tvP1MXfXcaJKD8pGyO31Mw,42.2351378,-72.1417457,Matt's Breakfast Nook,+15086371166,,5.0,01585
+2056,330 Chauncey Walker St,newamerican,bars,,Belchertown,_NBRK7gTiowu-v2oMO1q_w,42.2433781,-72.409838,Bistro 21,+14133234888,$$,2.5,01007
+2057,163 N Main St,sandwiches,hotdogs,,North Brookfield,vmneGdXXMuwZ9lHfDAvtZg,42.2679824829102,-72.0854644775391,Subway,+15088678800,$,5.0,01535
+2058,208 W Main St,pizza,,,West Brookfield,JDJEMD0M4Q0l31-YS0mC-w,42.2389831542969,-72.1653747558594,Northeast Pizza,+15088679567,$,2.0,01585
+2059,2 Main,pizza,,,Gilbertville,r9-dhj_D6aMgxqIEIIzxLQ,42.3129577,-72.2049821,Hardwick House of Pizza,+14134776001,$,2.0,01031
+2060,193 N Brookfield Rd,golf,,,East Brookfield,dB4kh4fzLf8ZGeJy0sxP6g,42.22776,-72.06457,Bay Path Golf Course,+15088678161,,3.5,01515
+2061,18 Federal St,coffee,donuts,,Belchertown,-5qW5yXavRotLkhlaBaSbw,42.29047,-72.4079824,Dunkin' Donuts,+14133230903,$,3.0,01007
+2062,25 Exchange St,breakfast_brunch,,,Barre,ulTdoEH6AfozwdGeAfHL0A,42.4226265,-72.1043243,Pine Ridge Snack Bar,+19783550012,,3.0,01005
+2063,31 E Brookfield Rd,musicvenues,lounges,,North Brookfield,K6jpO-KBIlK3Zt4X6powkg,42.2536909881798,-72.0760059797623,Time Out,+15088678688,,3.5,01535
+2064,62 Pisgah Hwy,pizza,italian,,Pisgah Forest,PWkP3vd_SJxEyh5xbYfJ-A,35.2743853,-82.7045208,Pizza Hut,+18288844041,$,4.0,28768
+2065,291 E Main St,bars,,,East Brookfield,-sPooqHGM9eiX0vpVvugdA,42.226112,-72.047561,Franks Pub,+15088670055,,5.0,01515
+2066,145 N Main St,sandwiches,hotdogs,,Belchertown,Dh1VmD7hHemz_J1iysZs_A,42.2886725,-72.407593,Subway,+14133234735,$,3.0,01007
+2067,2 Stadler St,icecream,tradamerican,,Belchertown,vzN_ZSBdj5m3hppudN541Q,42.2719,-72.41029,Chubby'S,+14133236861,$$,2.0,01007
+2068,570 Summer St.,donuts,coffee,,Barre,FDsxhJwKcYkNVOXsEwwTJg,42.4102211,-72.0980759,Dunkin' Donuts,+19783559023,$,3.5,01005
+2069,59 W Main St,hotdogs,burgers,coffee,Spencer,a4BtLxq7zyevP_ceyFTTMA,42.233007,-72.012469,McDonald's,+15088853355,$,2.5,01562
+2070,139 West St,coffee,donuts,,Ware,MqJSQHg3r8u9qjPy3EMOpQ,42.2565020144302,-72.2516860000011,Dunkin’ Donuts,+14139674666,$,2.0,01082
+2071,148 N Main St,hotdogs,burgers,coffee,Belchertown,7xfUwsnwfiI-FppHfXeq8w,42.2883518825547,-72.4062457680702,McDonald's,+14133236498,$,1.5,01007
+2072,143 W Main St,sandwiches,hotdogs,,West Brookfield,kURqF15vnpJMKlzO9yOQjw,42.2341613769531,-72.1559143066406,Subway,+15088673433,$,2.0,01585
+2073,Quabbin Hill Rd,landmarks,,,Ware,_FbHNM_K1l0IvNoQCuP5yA,42.2986527311196,-72.3349899755577,Quabbin Observation Tower,+14133236921,,5.0,01082
+2074,47 Forest St,bars,,,North Brookfield,yydiSQk6tvkKWVzTThBv1w,42.272384,-72.081535,Still Hart's Cafe,+15088678144,$,5.0,01535
+2075,17 King St,breakfast_brunch,sandwiches,southern,Northampton,tH6MLUyc-FwAwsdqYcZUsQ,42.3199985,-72.6300315,Jake's,+14135849613,$$,4.5,01060
+2076,31 N Pleasant St,pizza,,,Amherst,d1PfS_bozULtBY4PjF3D-w,42.37619,-72.51961,Antonio's,+14132530808,$,4.5,01002
+2077,103 N Pleasant St,falafel,vegetarian,mideastern,Amherst,Qcr_HFpf7IX7hzG2rUkjWA,42.37722,-72.51936,Pita Pockets - Amherst,,$,5.0,01002
+2078,99 Russell St,breakfast_brunch,bakeries,coffeeroasteries,Hadley,0tX2BR7qE-IP5Ne6vLwy3A,42.3413112667955,-72.5976977566659,Esselon Cafe and Coffee Roasting,+14135851515,$$,4.0,01035
+2079,8 Old South St,icecream,,,Northampton,k6ykGROMhNbpLQqcwkVzVw,42.3179581,-72.6311327,Herrell's Ice Cream & Bakery,+14135869700,$,4.5,01060
+2080,,vegan,juicebars,pizza,Hadley,actYV0sh0IL-2FmM0iA8mw,42.3514255777614,-72.5670206797623,Pulse Cafe,+14133870555,$$,4.5,01035
+2081,44 Main St,moroccan,mediterranean,,Northampton,BxLkvKAw-rWIuH7O5A5SDg,42.3196,-72.62906,Amanouz Cafe,+14135859128,$,4.5,01060
+2082,197 North Pleasant St,chinese,noodles,,Amherst,1Gdcycg8N2j9oJbH1D6lBg,42.3785346,-72.519757,Lili's Restaurant,+14132535888,$,5.0,01002
+2083,193 Main St,falafel,mideastern,,Northampton,F3j1yyzmRvy3LeILGElL5w,42.31825,-72.63199,Pita Pockets,+14133413629,$,4.5,01060
+2084,1 W St,tradamerican,,,West Hatfield,35kzCz1iaCkTaJU63sDVaw,42.3671380235461,-72.6379209011793,Smithsonian Cafe and Chowder House,+14132475157,$,4.5,01088
+2085,1 Roundhouse Plz,indpak,vegan,buffets,Northampton,spyVCMiTpnS418CQiy_b9Q,42.3167408799557,-72.6318416704081,Bombay Royale,+14133413537,$$,4.5,01060
+2086,16 Main St,burgers,,,Northampton,-3PgeuLlTJJraWG1NRAijw,42.31989,-72.62869,Local Burger,+14135865857,$$,4.0,01060
+2087,30 Boltwood Walk,newamerican,burgers,beer_and_wine,Amherst,S9w52Y8f_nfv8QXuHmXBCg,42.376276,-72.518136,Johnny's Tavern,+14132303818,$$,4.0,01002
+2088,25 S Pleasant St,szechuan,dimsum,cantonese,Amherst,LcfGULHH5iJ5VkT9q04iMg,42.37527,-72.52,Oriental Flavor,+14132537673,$$,4.0,01002
+2089,96 Russell St,italian,mediterranean,,Hadley,zwC34RoPsOM_j3-V05DYfQ,42.34172,-72.59766,Alina's Ristorante,+14135848000,$$,4.5,01035
+2090,241 Main St,breakfast_brunch,,,Northampton,vgDQ2JDGVFnW_H9Cl9BMJQ,42.31802,-72.63279,The Green Bean,+14135842326,$$,4.0,01060
+2091,62 State St,bakeries,pizza,,Northampton,j_toNLVsQPugmRbfuEHHYA,42.31992,-72.6346,Hungry Ghost Bread,+14135829009,$,4.5,01060
+2092,150 Main St,seafood,vegetarian,vegan,Northampton,FPhpaFCxrKYbig2eTz8r6Q,42.31834,-72.63117,Paul & Elizabeth's,+14135844832,$$,4.0,01060
+2093,1150 W St,bakeries,grocery,candy,Amherst,qCeYjXM6N03MTsfQF6LREg,42.3191099663952,-72.5291168930986,Atkins Farms,+14132539528,$$,4.5,01002
+2094,279 Main St,greek,salad,,Northampton,TA3Dqs1bVBnD7Y0qYXpQyQ,42.3178238,-72.6337045,Filos Greek Taverna,+14135863456,$$,4.0,01060
+2095,1 Boltwood Walk,mexican,,,Amherst,i_N21-BF8Lj3ejHEldeWqA,42.3759103,-72.5184821,Bueno Y Sano,+14132534000,$,4.0,01002
+2096,41 Strong Ave,newamerican,bars,,Northampton,XlW8r4nHdym6B6VGNBc6QQ,42.319019317627,-72.6276473999023,The Sierra Grille,+14135841150,$$,4.0,01060
+2097,22 Chestnut St,bakeries,burgers,sandwiches,Florence,kSF3nWZmVYlXM8AWBDY6GA,42.3341957928981,-72.6679041537607,Cafe Evolution,+14135860200,$$,4.5,01062
+2098,485 W St,mexican,,,Amherst,0_n0QgP_AookwqzVfZIFgQ,42.3397429940276,-72.5209043590139,Mission Cantina,+14132303580,$$,4.0,01002
+2099,129 S Maple St,icecream,gourmet,customcakes,Hadley,kiBxQwgpaZ0HpILQE7Fevw,42.3295435382361,-72.5498841374501,Flayvors of Cook Farm,+14135842224,$,4.5,01035
+2100,60 Masonic St,sandwiches,coffee,bakeries,Northampton,eiCmbuqsp7TaKYKnU56B1Q,42.3188,-72.63345,Woodstar Cafe,+14135859777,$,4.0,01060
+2101,185 Main St,coffee,vegetarian,juicebars,Northampton,j3bRRMVcrNlwa7HEheOlJQ,42.3182669142015,-72.6318376280419,Haymarket Cafe,+14135869969,$,4.0,01060
+2102,8 Railroad St,bars,arcades,hotdog,Hadley,d2zT-n0KPLHYvWIr6mRMVQ,42.34408,-72.59122,The Quarters,+14134294263,$,4.0,01035
+2103,51 N Pleasant St,tradamerican,newamerican,,Amherst,FumYAtwmfAo1d0X3GouTHQ,42.376468,-72.5195815,Judie's,+14132533491,$$,3.5,01002
+2104,80 Main St,desserts,icecream,,Northampton,xhpcVYFdKAoJ4eatuDknxw,42.3192219436169,-72.6301009207964,GoBerry,+14135869290,$$,4.5,01060
+2105,45 State St,indpak,,,Northampton,WTwLgWLCHmTZSQ3_HleTUA,42.31911,-72.63403,India House Restaurant,+14135866344,$$,4.0,01060
+2106,78 Masonic St,moroccan,,,Northampton,eSjDTVJ9E2kkcqA826C6rQ,42.3190536499023,-72.6332626342773,Mosaic Cafe,+14135851155,$$,4.0,01060
+2107,63 Main St,breakfast_brunch,tradamerican,,Amherst,VlzeNUSkepYtIgYCkrqRbg,42.3755499,-72.5184699,The Lone Wolf,+14132564643,$$,4.0,01002
+2108,111 Pleasant St,breakfast_brunch,gluten_free,sandwiches,Northampton,hJyXhgV7NUTTqgF7OFEmhQ,42.3183232723761,-72.628209555044,Sylvester's,+14135861418,$$,3.5,01060
+2109,1 Market St,coffee,cocktailbars,sandwiches,Northampton,KolYzOXHRpS39JTlEtSVaw,42.32098,-72.62823,The Roost,+14135872625,$$,4.0,01060
+2110,326 Russell St,breakfast_brunch,newamerican,,Hadley,qoFGGxfhFDd3sy99KJhfZw,42.355545,-72.556625,The Stables Restaurant,+14135844700,$,4.0,01035
+2111,2 Bridge St,thai,,,Northampton,gnzzIJDtkrql8iaKfDnyyQ,42.32072,-72.62863,Thai Garden,+14135873336,$$,4.0,01060
+2112,63 N Pleasant St,newamerican,venues,,Amherst,0ggseJ7x1t-I-I8GA6knjw,42.37668,-72.51952,Bistro 63,+14132591600,$$,4.0,01002
+2113,235 Russell St,bbq,beerbar,tradamerican,Hadley,Py-pq_QzEvEKFIce_x6k6w,42.34659,-72.57226,Wildwood Barbeque,+14135844227,$$,3.5,01035
+2114,125A Pleasant St,bars,,,Northampton,3np8K1RlwSVCnroHGF2HZQ,42.31929,-72.627507,The Tunnel Bar,+14133413161,$$,4.0,01060
+2115,186 Main St,tea,mideastern,,Northampton,WbQBt4YecdmNPCrcXvK8nw,42.3180482,-72.6314848,Dobra Tea,+14137273471,$$,4.0,01060
+2116,460 W St,mexican,salvadoran,bars,Amherst,AosVp_67irlM1MzpgURciw,42.3405129991382,-72.5193391647356,El Comalito,+14132599999,$$,4.0,01002
+2117,7 Old S St,japanese,sushi,cocktailbars,Northampton,veBxinfRKsUFsV0Xl603FA,42.31764,-72.6312,Osaka,+14135879548,$$,3.5,01060
+2118,173 Russell St,pizza,sandwiches,wraps,Hadley,39C414-SwTpyes-9lbqkLg,42.3424679785967,-72.5839910656214,Hillside Pizza,+14135850003,$$,4.5,01035
+2119,460 West St,bars,,,Amherst,RXjTCrjDGRRlZa4GCMz26Q,42.34076,-72.519476,The Moan & Dove,+14132561710,$$,4.5,01002
+2120,96 N Pleasant St,vietnamese,salad,soup,Amherst,sRO-U8Kxd1tXJlENTqv89A,42.377159,-72.5204679,Miss Saigon,+14132539988,$$,3.5,01002
+2121,41 Strong Ave,italian,,,Northampton,KOegsIQ89HRclWRkLGZSzQ,42.319019317627,-72.6276473999023,Mulinos,+14135868900,$$,4.0,01060
+2122,676 Amherst Rd,bbq,,,Sunderland,gjyFpVijSZC6PUqnu8N7BQ,42.4303359985352,-72.5412445068359,Bub's BBQ,+14135489630,$$,3.5,01375
+2123,68 Cowls Rd,breakfast_brunch,tradamerican,,Amherst,hRoE_3CUPnxn_1oDjjd9Lg,42.41545,-72.53074,Jake's at The Mill,+14132303717,$$,4.5,01002
+2124,109 Main St,sandwiches,,,Haydenville,_19rex6zqPyQgsSAgqsFYg,42.380499,-72.707228,Williamsburg Snack Bar,+14132687556,$,4.5,01039
+2125,28 Center St,cocktailbars,,,Northampton,6xK6EKTLrNxuU4UMAXCqrw,42.3192328785792,-72.6323840900086,The Green Room,+14135847336,$$,4.5,01060
+2126,68 Masonic St,vegetarian,,,Northampton,_SXfH8nXDNA3tY-CG2kytQ,42.31897,-72.63328,Bela Vegetarian Restaurant,+14135868011,$$,4.0,01060
+2127,4 Main St,sushi,japanese,korean,Northampton,O7nQoqko1A7WX6HVFOYS6Q,42.32018,-72.6285,Moshi Moshi,+14135865865,$$,3.5,01060
+2128,10 Bridge St,juicebars,vegan,gluten_free,Northampton,1f4CMH9jLV2HYIpVosqoRg,42.32078,-72.62851,Nourish Wellness Cafe And Juice Bar,+14137273260,$$,4.5,01060
+2129,25 W St,french,seafood,burgers,Northampton,S3Tkq0oSytqNpe98y9wTdQ,42.3166369430338,-72.6366354072254,Bistro Les Gras,+14133204666,$$$,4.0,01060
+2130,19 N Pleasant St,donuts,coffee,,Amherst,hlneZHcB5y9cWZFLAj8KoA,42.37598,-72.51954,Glazed Doughnut Shop,+14132306811,$,4.0,01002
+2131,134 Main St,mexican,,,Northampton,WG60zoex6_tbyX4Tp-LIog,42.318645,-72.630712,Bueno Y Sano,+14135867311,$,4.0,01060
+2132,25 N Pleasant St,thai,,,Amherst,vXmQXGQN-DnhBPFwa9rAZg,42.376332,-72.519874,The Taste Thai Restaurant,+14132565421,$$,4.0,01002
+2133,33 Market St,pizza,italian,seafood,Northampton,YFwYMiYE5_8rGfrNw1vI6A,42.32187,-72.62911,Joe's Pizza & Spaghetti House,+14135843168,$$,4.0,01060
+2134,351 Northampton Rd,chinese,asianfusion,japanese,Amherst,0msAbcZIxbd0SNScpNaDkg,42.3669775033261,-72.5339299812913,Ginger Garden,+14132566666,$$,3.5,01002
+2135,491 Pine St,breakfast_brunch,grocery,coffee,Amherst,MQ9PTbD-EFRUxhg0R5kjUw,42.4126167297363,-72.5079345703125,Cushman Market and Cafe,+14135490100,$,4.0,01002
+2136,104 Old Amherst Rd,sushi,teppanyaki,,Sunderland,uzplqOLK7sx5gV3DYURn1Q,42.45876,-72.5722,Goten of Japan,+14136653628,$$,4.0,01375
+2137,31 Main St,mexican,,,Northampton,t0aPZwK_XWNLxm-3n3g53Q,42.320145,-72.629074,La Veracruzana Mexican Restaurant,+14135867181,$$,3.5,01060
+2138,287 Pleasant St,bars,,,Northampton,BuZ4fcF4EetA97M_UgG_Gw,42.3166013,-72.6259983,Ye Ol' Watering Hole,+14135850990,$,4.5,01060
+2139,206 Main St,bakeries,,,Haydenville,Xb6LEOnMHn_wNv_lPl1jUw,42.3688,-72.69497,Bread Euphoria,+14132687757,$$,4.5,01039
+2140,1177 N Pleasant St,japanese,korean,sushi,Amherst,gCaIfAJ93W6fvmKuasF6Xw,42.40953,-72.53044,House of Teriyaki,+14135493666,$$,4.0,01002
+2141,39 S Pleasant St,coffee,panasian,,Amherst,IiX7lGoQQE3T4wg_1cx8Og,42.3752749,-72.5200186,Fresh Side,+14132560296,$$,3.5,01002
+2142,28 Amity St,coffee,whiskeybars,,Amherst,fuuzSe_xGqXLIw7Jxw9RjA,42.375696594146,-72.520510826263,Amherst Coffee,+14132568987,$$,3.5,01002
+2143,28 Amity St,italian,mediterranean,,Amherst,Ie-qeBdtdOavjzdQPH1IGw,42.375387,-72.52048,Osteria Vespa,+14132303194,$$$,4.0,01002
+2144,26 Main St,italian,,,Amherst,LXXAXCEiU4nCM8wScorQHQ,42.3758399,-72.51926,Pasta E Basta,+14132563550,$$,3.5,01002
+2145,192 Main St,bakeries,coffee,,Northampton,qo4Z3JUviLr8qK4CoYf85w,42.3179817199707,-72.6315765380859,Tart Baking Co,+14135840717,$,4.0,01060
+2146,249 Main St,italian,french,spanish,Northampton,RGpkzzkpNK99_lDG8wQlhg,42.3179047,-72.6330695,Viva Fresh Pasta,+14135865875,$$,3.5,01060
+2147,89 Main St,japanese,poke,bubbletea,Florence,FrfYCK8yxan_GTwCSG5S6A,42.3351863,-72.6705223,UYA Restaurant,+14135704734,,4.5,01062
+2148,7 Old South St,argentine,steak,salad,Northampton,UppMTlDwdP2G-BQEJntR6g,42.31764,-72.6312,Caminito Steakhouse,+14133876387,$$$,4.0,01060
+2149,159 Main St,delis,gourmet,,Northampton,EAUjVCdEDzoDeOJ8w24PeQ,42.3187,-72.63146,Belly Of The Beast,+14137273040,$$,4.0,01060
+2150,79 Main St,bakeries,delis,,Amherst,QxuZGiHF3jnatCUmI41FmA,42.3754577636719,-72.5180435180664,The Black Sheep Deli,+14132533442,$,3.5,01002
+2151,17 Main St,cafes,bakeries,desserts,Florence,iDO-jAnFDtnFN91GGBgEgA,42.334936,-72.667399,Florence Pie Bar,+14133413283,$,4.0,01062
+2152,36 Main St,soup,noodles,chinese,Amherst,snV8jGHnoVWBNJyRUBJYug,42.37596,-72.51913,Crazy Noodles,+14132533287,$,4.0,01002
+2153,48 Russell St,mexican,,,Hadley,5d6BCUCZuaU2SYeek-uoNA,42.3405706,-72.6053010552254,Mi Tierra,+14135879820,$$,3.5,01035
+2154,99 Main St,diners,,,Florence,1H2TXqhBFvTHgT0bm4czxg,42.3356481,-72.671405,Miss Florence Diner,+14135843137,$,4.0,01062
+2155,29 Main St,bars,newamerican,,Northampton,Ej9Z5c0VHZE66qMOjHltPA,42.32026,-72.62915,The Dirty Truth,+14135855999,$$,3.0,01060
+2156,50 Main St,coffee,bubbletea,juicebars,Amherst,eYzNsTc9BXKIPP7FXx5kjg,42.376,-72.51888,LimeRed Teahouse,+14132303422,$,3.5,01002
+2157,28 Amity St,icecream,,,Amherst,JdG5e8zfYTu6_P29lQ-Wig,42.375387,-72.52048,GoBerry,+14132566003,$,4.5,01002
+2158,23 Main St,bars,tradamerican,,Northampton,dccdUZW8PApkxL3ynmyazA,42.320065,-72.628881,Fitzwilly's Restaurant,+14135848666,$$,3.5,01060
+2159,11 Pleasant St,cafes,bubbletea,,Northampton,W9XBy0F4M-fjs1Gau_cMIg,42.3193702697754,-72.6296234130859,LimeRed Teahouse,+14132008832,$,4.0,01060
+2160,10 University Dr,pubs,arcades,tradamerican,Amherst,2xvvqUWeYDsMgixuZCpyLQ,42.3733375,-72.5326808,Hangar Pub & Grill,+14135499461,$$,3.5,01002
+2161,16 College Ln,gardens,,,Northampton,O9VTuwMhQAivR2RWqMgjGQ,42.3189313,-72.6399876,The Botanic Garden of Smith College,+14135852740,,5.0,01063
+2162,23 North Pleasant St,himalayan,,,Amherst,Oa-E-xgz9ZBZxPwBGmfLcA,42.3759300394761,-72.5195162614796,Momo Tibetan Restaurant,+14138350382,$$,4.5,01002
+2163,113 Russell St,korean,,,Hadley,1yFNsud2RmCzfogPNDTbNw,42.3418961,-72.5941849,Gohyang Korean Restaurant,+14135868848,$$,4.0,01035
+2164,41 Main St,chinese,,,Northampton,5ttSt0IyngKnNxPLRy9A4Q,42.319869,-72.6294463,Oriental Taste,+14135826888,$$,4.0,01060
+2165,27 Pleasant St,bars,newamerican,gastropubs,Northampton,yvPJBMd31KRekeQ5PPGfqQ,42.3192732,-72.6295068,McLadden's Northampton,+14133413680,$$,3.5,01060
+2166,6 Strong Ave,coffee,sandwiches,,Northampton,F2Fsqm6PnjfV2QYE_PxCSA,42.320117,-72.6284687,Familiars Coffee & Tea,+14137273578,,5.0,01060
+2167,391 Damon Rd,seafood,,,Northampton,AnpPJkpAweO5Y5jQ8IHasQ,42.334283,-72.621815,Webster's Fish Hook,+14135863190,$$,4.0,01060
+2168,257 Main St,noodles,,,Northampton,Gpj6r73EQ2yl2Z-lUMLKfg,42.3178947,-72.6332189,Noodles,+14135874070,$$,3.5,01060
+2169,19 Pearl St,steak,tradamerican,cajun,Northampton,yycn8BXeRWA-gVXoONyZoA,42.3196053170176,-72.6283599810946,Eastside Grill,+14135863347,$$,3.5,01060
+2170,61 State Rd Rte 5 And 10,hotdog,burgers,soup,Whately,shdRdjPzsHQn5SXhsT9bVw,42.4235720399516,-72.6222722370316,Tom's Hot Dog,+14136652931,$,4.0,01093
+2171,28 Main St,indpak,,,Northampton,7g9FtDatTaaGP8lddul9KQ,42.3198182,-72.6287962,India Palace Restaurant,+14135844892,$$,4.0,01060
+2172,174 N Pleasant St,bakeries,desserts,customcakes,Amherst,aJwYBAIxsNKHnrlHnEaQnQ,42.378257743416,-72.520055361111,Henion Bakery,+14132534909,$,4.5,01002
+2173,344 Russell St,sandwiches,salad,coffee,Hadley,vhMAnf6-he-QpsXVqMe_WQ,42.35744,-72.55198,Hot Table,+14133870331,$,4.0,01035
+2174,1 Roundhouse Plz,soup,sandwiches,cafes,Northampton,s45wQXRdtYhkwkZ7r1UKOQ,42.3167382,-72.6318819,Smithsonian Chowder House Northampton,+14137273318,$,4.0,01060
