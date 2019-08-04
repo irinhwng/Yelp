@@ -164,6 +164,8 @@ In `09_ModelingPhase1-Model_to_EDA.ipynb`, we executed the following tasks:
 
 Since we have 2,373 rows, we need a maximum of 48 columns since the sqrt(2373) is a little over 48. Unfortuantely, we want to keep our 110 features; thus, we performed PCA before modeling. 
 
+(See presentation slide to view all features with positive and negative correlation to median income)
+
 ---
 
 In `10_ModelingPhase1-Model_to_EDA_SCALED_PCA.ipynb`, we executed the same thing as `09_ModelingPhase1-Model_to_EDA.ipynb` but we scaled the PCA before modeling. Here is a table of our results. 
