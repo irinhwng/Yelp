@@ -39,7 +39,8 @@ def team():
 @app.route('/map/')
 def map():
     # google static map scrape
-    api_key = "AIzaSyBmcNCnzx0nEMd6NFbm8-iLcEh3hgYWg3o"
+    #key is confidential
+    api_key = ""
     url = "https://maps.googleapis.com/maps/api/staticmap?"
 
     center = session['text'].strip()
