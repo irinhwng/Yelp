@@ -169,10 +169,28 @@ Since we have 2,373 rows, we need a maximum of 48 columns since the sqrt(2373) i
 In `10_ModelingPhase1-Model_to_EDA_SCALED_PCA.ipynb`, we executed the same thing as `09_ModelingPhase1-Model_to_EDA.ipynb` but we scaled the PCA before modeling. Here is a table of our results. 
 
 #### Scaled PCA Modeling Results 
-<img src="./visuals/scaled_results.png">
+|Model|Non-PCA Cross Val|Scaled PCA Cross Val|GridSearch Scaled PCA Train|GridSearch Scaled PCA Test|GridSearch Scaled PCA RMSE|
+|--|--|--|--|--|--|
+|Elastic|.1753|.27706|.4879|-3.2844|60,590|
+|Lasso|.3079|.3223|.4879|.3253|24,043|
+|Linear Regression|.3074|-2.35e26|--|--|--|
+|Ridge|.3087|.3074|.4879|.3253|24,042|
+|Random Forest|.1733|.2247|.6324|.2614|25,156|
+|Gradient Boosting|.2781|.2956|.79467|.32649|24,023|
+|ADA Boosting|-.0447|.09707|--|--|--|
+|SVR|-.0492|-.0493|--|--|--|
 
 #### Non- Scaled PCA Modeling Results 
-<img src="./visuals/nonscaled_results.png">
+|Model|Non-PCA Cross Val|Non-Scaled PCA Cross Val|GridSearch Non-Scaled PCA Train|GridSearch Non-Scaled PCA Test|GridSearch Non-Scaled PCA RMSE|
+|--|--|--|--|--|--|
+|Elastic|.1753|.1753|--|--|--|
+|Lasso|.3079|.3249|.4879|.3253|24,043|
+|Linear Regression|.3074|.3074|.4879|.3253|24,043|
+|Ridge|.3087|.3087|.4731|.3241|24,064|
+|Random Forest|.1733|.2195|.6793|.2143|25,946|
+|Gradient Boosting|.2781|.3295|.7057|.3273|**24,008**|
+|ADA Boosting|-.0447|.12855|--|--|--|
+|SVR|-.0492|-.0492|--|--|--|
 
 Based on our models, we decided to use principal componenent analysis on the Gradient Boost Regressor model.
 - Train Score .7057
