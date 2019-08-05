@@ -9,7 +9,7 @@ import requests
 # create flask app
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
-# secret key to perform certain actions
+# secret key to perform certain actions... this is random
 app.secret_key = 'sdfgsdgfdgfgfdgd'
 
 # def create_plot():
@@ -48,7 +48,8 @@ def team():
 @app.route('/map/')
 def map():
     # google static map scrape
-    api_key = "AIzaSyBmcNCnzx0nEMd6NFbm8-iLcEh3hgYWg3o"
+    #api key is confidential
+    api_key = ""
     url = "https://maps.googleapis.com/maps/api/staticmap?"
 
     center = session['text'].strip()
