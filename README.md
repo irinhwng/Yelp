@@ -1,4 +1,4 @@
-**Authors: Erin Hwang, Mario Sanchez, Jawaid Ismail**
+**Authors: Erin Hwang and Mario Sanchez**
 
 Slides: https://docs.google.com/presentation/d/1Msfho9gCtnPJdV0CNpGb_Ku8gZpvU9OtiosOreGeqBU/edit#slide=id.g5e63e56fff_0_11
 
